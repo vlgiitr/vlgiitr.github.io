@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | VLG</title>
+    <link>https://vlgiitr.github.io/post/</link>
+      <atom:link href="https://vlgiitr.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Posts</title>
+      <link>https://vlgiitr.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Paper Summary: Uniform Convergence May Be Unable to Explain Generalization in Deep Learning (NeurIPS 19)</title>
+      <link>https://vlgiitr.github.io/post/kotler_nips19/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/post/kotler_nips19/</guid>
+      <description>&lt;p&gt;This paper proposes a novel technique for learning node representations and at the same time perform community detection task for the graphical data by creating a generative model using the variational inference concepts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Winter Reading Series: Part 1</title>
+      <link>https://vlgiitr.github.io/post/newsletter_1/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/post/newsletter_1/</guid>
+      <description>&lt;p&gt;Winters bring a lot of free time for you to catch up with amazing stuff. The Vision and Language Group will be posting learning resources on a weekly basis, comprising both interesting reads and talks on future research areas.&lt;/p&gt;
+&lt;p&gt;Following are a few things you&amp;rsquo;ll find interesting:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;LSTM vs Transformer: An Honest paper by Smerity: &lt;a href=&#34;https://arxiv.org/pdf/1911.11423.pdf&#34;&gt;https://arxiv.org/pdf/1911.11423.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Teaching page of Shervine Amidi, Graduate Student at Stanford University: &lt;a href=&#34;https://stanford.edu/~shervine/teaching/cs-229/stanford.edu&#34;&gt;https://stanford.edu/~shervine/teaching/cs-229/stanford.edu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;True Artificial Intelligence will change everything | Juergen Schmidhuber: &lt;a href=&#34;https://youtu.be/-Y7PLaxXUrs&#34;&gt;https://youtu.be/-Y7PLaxXUrs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Self-training with Noisy Student improves ImageNet classification: &lt;a href=&#34;https://arxiv.org/abs/1911.04252&#34;&gt;https://arxiv.org/abs/1911.04252&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Self-supervised Representation Learning:
+&lt;a href=&#34;https://lilianweng.github.io/&#34;&gt;https://lilianweng.github.io/&lt;/a&gt;…/self-supervised-learning.html&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Happy learning!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: This Looks Like That: Deep Learning for Interpretable Image Recognition (NeurIPS 19)</title>
+      <link>https://vlgiitr.github.io/post/rudin_nips19/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/post/rudin_nips19/</guid>
+      <description>&lt;p&gt;This paper proposes a novel idea for interpretable deep learning , it basically figures out some protopyical parts of images by itself , and then uses these prototypes to make classification , hence making the classification process interpretable. &lt;strong&gt;Among the top 3% accepted papers of NIPS 2019&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: vGraph: A Generative Model for Joint Community Detection and Node Representational Learning (NeurIPS 19)</title>
+      <link>https://vlgiitr.github.io/post/vgraph_summary/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/post/vgraph_summary/</guid>
+      <description>&lt;p&gt;This paper proposes a novel technique for learning node representations and at the same time perform community detection task for the graphical data by creating a generative model using the variational inference concepts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Essential Deep Learning Topics for Interviews</title>
+      <link>https://vlgiitr.github.io/post/dl_topics/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/post/dl_topics/</guid>
+      <description>&lt;p&gt;This post contains a list of topics which we feel that one should be comfortable with before appearing for a DL interview. This list is by no means exhaustive (as the field is very wide and ever growing).&lt;/p&gt;
+&lt;h2 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Linear Algebra(
+&lt;a href=&#34;http://cs229.stanford.edu/section/cs229-linalg.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;notes&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Linear Dependence and Span&lt;/li&gt;
+&lt;li&gt;Eigendecomposition
+&lt;ul&gt;
+&lt;li&gt;Eigenvalues and Eigenvectors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Singular Value Decomposition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Probability and Statistics&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Expectation, Variance and Co-variance&lt;/li&gt;
+&lt;li&gt;Distributions&lt;/li&gt;
+&lt;li&gt;Bias and Variance
+&lt;ul&gt;
+&lt;li&gt;Bias Variance Trade-off&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Estimators
+&lt;ul&gt;
+&lt;li&gt;Biased and Unbiased&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Maximum Likelihood Estimation&lt;/li&gt;
+&lt;li&gt;Maximum A Posteriori (MAP) Estimation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Information Theory&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;(Shannon) Entropy&lt;/li&gt;
+&lt;li&gt;Cross Entropy&lt;/li&gt;
+&lt;li&gt;KL Divergence
+&lt;ul&gt;
+&lt;li&gt;Not a distance metric&lt;/li&gt;
+&lt;li&gt;Derivation from likelihood ratio (
+&lt;a href=&#34;https://medium.com/@cotra.marko/making-sense-of-the-kullback-leibler-kl-divergence-b0d57ee10e0a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Always greater than 0
+&lt;ul&gt;
+&lt;li&gt;Proof by Jensen&amp;rsquo;s Inequality&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Relation with Entropy (
+&lt;a href=&#34;https://stats.stackexchange.com/questions/265966/why-do-we-use-kullback-leibler-divergence-rather-than-cross-entropy-in-the-t-sne&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explanation&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;basics&#34;&gt;Basics&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Backpropogation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Vanilla (
+&lt;a href=&#34;http://cs231n.github.io/optimization-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Backprop in CNNs
+&lt;ul&gt;
+&lt;li&gt;Gradients in Convolution and Deconvolution Layers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Backprop through time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Loss Functions&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;MSE Loss
+&lt;ul&gt;
+&lt;li&gt;Derivation by MLE and MAP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Cross Entropy Loss
+&lt;ul&gt;
+&lt;li&gt;Binary Cross Entropy&lt;/li&gt;
+&lt;li&gt;Categorical Cross Entropy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Activation Functions (Sigmoid, Tanh, ReLU and variants) (
+&lt;a href=&#34;https://mlfromscratch.com/activation-functions-explained/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Optimizers&lt;/li&gt;
+&lt;li&gt;Regularization&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Early Stopping&lt;/li&gt;
+&lt;li&gt;Noise Injection&lt;/li&gt;
+&lt;li&gt;Dataset Augmentation&lt;/li&gt;
+&lt;li&gt;Ensembling&lt;/li&gt;
+&lt;li&gt;Parameter Norm Penalties
+&lt;ul&gt;
+&lt;li&gt;L1 (sparsity)&lt;/li&gt;
+&lt;li&gt;L2 (smaller parameter values)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;BatchNorm (
+&lt;a href=&#34;&#34;&gt;Paper&lt;/a&gt;)
+&lt;ul&gt;
+&lt;li&gt;Internal Covariate Shift&lt;/li&gt;
+&lt;li&gt;BatchNorm in CNNs (
+&lt;a href=&#34;https://stackoverflow.com/questions/38553927/batch-normalization-in-convolutional-neural-network&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Backprop through BatchNorm Layer (
+&lt;a href=&#34;https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explanation&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dropout (
+&lt;a href=&#34;&#34;&gt;Paper&lt;/a&gt;) (
+&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-08-15-Dropout/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;computer-vision&#34;&gt;Computer Vision&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;ILSVRC&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;AlexNet&lt;/li&gt;
+&lt;li&gt;ZFNet&lt;/li&gt;
+&lt;li&gt;VGGNet (
+&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-10-11-VGG_Notes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;InceptionNet (
+&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-10-17-InceptionNet_Notes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;ResNet (
+&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-10-29-ResNet_Notes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;DenseNet&lt;/li&gt;
+&lt;li&gt;SENet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Object Recognition (
+&lt;a href=&#34;https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;RCNN (
+&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-10-29-RCNN_Notes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fast RCNN&lt;/li&gt;
+&lt;li&gt;Faster RCNN (
+&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-01-02-Deep_Gen_models/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Mask RCNN&lt;/li&gt;
+&lt;li&gt;YOLO v3 (Real-time object recognition)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Convolution&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Cross-correlation&lt;/li&gt;
+&lt;li&gt;Pooling (Average, Max Pool)&lt;/li&gt;
+&lt;li&gt;Strides and Padding&lt;/li&gt;
+&lt;li&gt;Output volume dimension calculation&lt;/li&gt;
+&lt;li&gt;Deconvolution (Transpose Conv.), Upsampling, Reverse Pooling (
+&lt;a href=&#34;https://github.com/vdumoulin/conv_arithmetic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualization&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;natural-language-processing&#34;&gt;Natural Language Processing&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Recurrent Neural Networks&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Architectures (Limitations and inspiration behind every model) (
+&lt;a href=&#34;https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog 1&lt;/a&gt;) (
+&lt;a href=&#34;https://colah.github.io/posts/2015-08-Understanding-LSTMs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog 2&lt;/a&gt;)
+&lt;ul&gt;
+&lt;li&gt;Vanilla&lt;/li&gt;
+&lt;li&gt;GRU&lt;/li&gt;
+&lt;li&gt;LSTM&lt;/li&gt;
+&lt;li&gt;Bidirectional&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vanishing and Exploding Gradients&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Word Embeddings&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Word2Vec&lt;/li&gt;
+&lt;li&gt;CBOW&lt;/li&gt;
+&lt;li&gt;Glove&lt;/li&gt;
+&lt;li&gt;FastText&lt;/li&gt;
+&lt;li&gt;SkipGram, NGram&lt;/li&gt;
+&lt;li&gt;ELMO&lt;/li&gt;
+&lt;li&gt;OpenAI GPT&lt;/li&gt;
+&lt;li&gt;BERT (
+&lt;a href=&#34;http://jalammar.github.io/illustrated-bert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Transformers (
+&lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;) (
+&lt;a href=&#34;https://nlp.seas.harvard.edu/2018/04/03/attention.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;) (
+&lt;a href=&#34;http://jalammar.github.io/illustrated-transformer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;BERT (
+&lt;a href=&#34;https://arxiv.org/abs/1810.04805&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Universal Sentence Encoder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;generative-models&#34;&gt;Generative Models&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Generative Adversarial Networks (GANs)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic Idea&lt;/li&gt;
+&lt;li&gt;Variants
+&lt;ul&gt;
+&lt;li&gt;Vanilla GAN (
+&lt;a href=&#34;https://arxiv.org/abs/1406.2661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;DCGAN&lt;/li&gt;
+&lt;li&gt;Wasserstein GAN (
+&lt;a href=&#34;https://arxiv.org/abs/1701.07875&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Conditional GAN (
+&lt;a href=&#34;https://arxiv.org/abs/1411.1784&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mode Collapse&lt;/li&gt;
+&lt;li&gt;GAN Hacks (
+&lt;a href=&#34;https://github.com/soumith/ganhacks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Variational Autoencoders (VAEs)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Variational Inference (
+&lt;a href=&#34;https://arxiv.org/abs/1606.05908&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial paper&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;ELBO and Loss Function derivation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Normalizing Flows&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basic Idea and Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;misc&#34;&gt;Misc&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Triplet Loss&lt;/li&gt;
+&lt;li&gt;BLEU Score&lt;/li&gt;
+&lt;li&gt;Maxout Networks&lt;/li&gt;
+&lt;li&gt;Support Vector Machines&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Maximal-Margin Classifier&lt;/li&gt;
+&lt;li&gt;Kernel Trick&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;PCA (
+&lt;a href=&#34;https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explanation&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;PCA using neural network
+&lt;ul&gt;
+&lt;li&gt;Architecture&lt;/li&gt;
+&lt;li&gt;Loss Function&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Spatial Transformer Networks&lt;/li&gt;
+&lt;li&gt;Gaussian Mixture Models (GMMs)&lt;/li&gt;
+&lt;li&gt;Expectation Maximization&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;more-resources&#34;&gt;More Resources&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Stanford&amp;rsquo;s CS231n Lecture Notes&lt;/li&gt;
+&lt;li&gt;Deep Learning Book (Goodfellow et. al.)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;contributing&#34;&gt;Contributing&lt;/h2&gt;
+&lt;p&gt;We welcome contributions to add resources such as notes, blogs, or papers for a topic. Feel free to open a pull request for the same!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Summary: SinGAN Learning a Generative Model from a Single Natural Image (ICCV 19 Best Paper)</title>
+      <link>https://vlgiitr.github.io/post/singan_summary/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/post/singan_summary/</guid>
+      <description>&lt;p&gt;This paper proposes a novel GAN training technique to obtain a generative model that can be learned using a single image. Unlike some of the previous works that used single image for training for a single task, the model can be used for unconditional generative modelling, not limited to texture images. This paper also got the best paper award in ICCV 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

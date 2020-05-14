@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | VLG</title>
+    <link>https://vlgiitr.github.io/project/</link>
+      <atom:link href="https://vlgiitr.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 21:48:37 +0530</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Projects</title>
+      <link>https://vlgiitr.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Memory Network Plus</title>
+      <link>https://vlgiitr.github.io/project/dmn_plus/</link>
+      <pubDate>Tue, 17 Mar 2020 21:48:37 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/project/dmn_plus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Turing Machines</title>
+      <link>https://vlgiitr.github.io/project/ntm/</link>
+      <pubDate>Tue, 17 Mar 2020 21:39:42 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/project/ntm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group Level Emotion Recognition</title>
+      <link>https://vlgiitr.github.io/project/emotion_recognition/</link>
+      <pubDate>Tue, 17 Mar 2020 21:37:36 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/project/emotion_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenZoo</title>
+      <link>https://vlgiitr.github.io/project/genzoo/</link>
+      <pubDate>Tue, 17 Mar 2020 21:35:25 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/project/genzoo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop 2020</title>
+      <link>https://vlgiitr.github.io/project/workshop_2020/</link>
+      <pubDate>Tue, 17 Mar 2020 21:08:55 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/project/workshop_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic Discussions</title>
+      <link>https://vlgiitr.github.io/project/basic_discussions/</link>
+      <pubDate>Tue, 17 Mar 2020 21:05:43 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/project/basic_discussions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers We Read</title>
+      <link>https://vlgiitr.github.io/project/papers_we_read/</link>
+      <pubDate>Tue, 17 Mar 2020 20:51:38 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/project/papers_we_read/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

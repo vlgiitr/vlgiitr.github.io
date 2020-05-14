@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Aarush Gupta&amp;ast;** | VLG</title>
+    <link>https://vlgiitr.github.io/author/aarush-guptaast/</link>
+      <atom:link href="https://vlgiitr.github.io/author/aarush-guptaast/index.xml" rel="self" type="application/rss+xml" />
+    <description>**Aarush Gupta&amp;ast;**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>**Aarush Gupta&amp;ast;**</title>
+      <link>https://vlgiitr.github.io/author/aarush-guptaast/</link>
+    </image>
+    
+    <item>
+      <title>An Attention Model for Group Level Emotion Recognition</title>
+      <link>https://vlgiitr.github.io/publication/att/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/att/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
