@@ -47,6 +47,16 @@
     </item>
     
     <item>
+      <title>Deep Cache Replacement</title>
+      <link>https://vlgiitr.github.io/project/deap/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/deap/</guid>
+      <description>&lt;p&gt;The PyTorch codebase for DEAP Cache: Deep Eviction Admission and Prefetching for Cache.&lt;/p&gt;
+&lt;p&gt;In this paper, we propose a DL based approach to tackle the problem of Cache Replacement. This is the first time an approach has tried learning all the three policies: Admission, Prefetching and Eviction. Unlike, previous methods which relied on past statistics for carrying out cache replacement, we predict future statistics (frequency and recency) and then use an online RL-algorithm for eviction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Preprint out for the paper: DEAP Cache: Deep Eviction Admission and Prefetching for Cache !</title>
       <link>https://vlgiitr.github.io/recents/deap/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
@@ -81,6 +91,15 @@
     </item>
     
     <item>
+      <title>DL Topics</title>
+      <link>https://vlgiitr.github.io/project/dl_topics/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/dl_topics/</guid>
+      <description>&lt;p&gt;This repo contains a list of topics which we feel that one should be comfortable with before appearing for a DL interview. This list is by no means exhaustive (as the field is very wide and ever growing).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Basic and Advanced Discussions for the Autumn Semester (2020-21) restart !</title>
       <link>https://vlgiitr.github.io/recents/disc/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
@@ -95,6 +114,15 @@
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/recents/talk_shagun/</guid>
       <description>&lt;p&gt;The core members of the group had a very informative talk and discussion with our alumnus, Shagun Sodhani (&lt;a href=&#34;https://shagunsodhani.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profile&lt;/a&gt;). He is currently a research engineer at FAIR and was one of the co-founders of ACM, IIT Roorkee Chapter. He shared experiences of his undergrad years, and also some of the crucial advice to our current members.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Papers We Read</title>
+      <link>https://vlgiitr.github.io/project/papers_we_read/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/papers_we_read/</guid>
+      <description>&lt;p&gt;The repo contains summaries of various papers we discuss in our regular discussions and also some other recent papers which we feel have some really exciting contributions for the field.&lt;/p&gt;
 </description>
     </item>
     
@@ -223,6 +251,15 @@
     </item>
     
     <item>
+      <title>GenZoo</title>
+      <link>https://vlgiitr.github.io/project/genzoo/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/genzoo/</guid>
+      <description>&lt;p&gt;GenZoo is a repository that provides implementations of generative models in various frameworks, namely Tensorflow and Pytorch. This was a project taken up by VLG-IITR for the summers of 2019, done with the collaborative efforts of various students.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>GAN-Tree: An Incrementally Learned Hierarchical Generative Framework for Multi-Modal Data Distributions</title>
       <link>https://vlgiitr.github.io/publication/gan-tree/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0530</pubDate>
@@ -249,11 +286,38 @@
     </item>
     
     <item>
+      <title>Group-Level-Emotion-Recognition</title>
+      <link>https://vlgiitr.github.io/project/emoticon/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/emoticon/</guid>
+      <description>&lt;p&gt;This repository contains the code of our model submitted for the ICMI 2018 EmotiW Group-Level Emotion Recognition Challenge. The model was ranked 4th in the challenge. The paper proposes an end-to-end model for jointly learning the scene and facial features of an image for group-level emotion recognition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Turing Machines</title>
+      <link>https://vlgiitr.github.io/project/ntm/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/ntm/</guid>
+      <description>&lt;p&gt;This repository is a stable Pytorch implementation of a Neural Turing Machine and contains the code for training, evaluating and visualizing results for the Copy, Repeat Copy, Associative Recall and Priority Sort tasks. The code has been tested for all 4 tasks and the results obtained are in accordance with the results mentioned in the paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An Attention Model for Group Level Emotion Recognition</title>
       <link>https://vlgiitr.github.io/publication/att/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0530</pubDate>
       <guid>https://vlgiitr.github.io/publication/att/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Memory Network Plus</title>
+      <link>https://vlgiitr.github.io/project/dmn_plus/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/dmn_plus/</guid>
+      <description>&lt;p&gt;This is the Pytorch implementation of the paper Dynamic Memory Network for Visual and Textual Question Answering. This paper is an improved version of the original paper Ask Me Anything: Dynamic Memory Networks for Natural Language Processing. The major difference between these ideas is in the functioning of the input module and the memory module which has been explained in detail in the IPython notebook file of this repo.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -342,14 +406,6 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://vlgiitr.github.io/project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/</guid>
-      <description></description>
     </item>
     
     <item>

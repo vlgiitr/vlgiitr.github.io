@@ -23,6 +23,15 @@
     </item>
     
     <item>
+      <title>DL Topics</title>
+      <link>https://vlgiitr.github.io/project/dl_topics/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/dl_topics/</guid>
+      <description>&lt;p&gt;This repo contains a list of topics which we feel that one should be comfortable with before appearing for a DL interview. This list is by no means exhaustive (as the field is very wide and ever growing).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Papers We Read</title>
       <link>https://vlgiitr.github.io/project/papers_we_read/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
@@ -32,20 +41,20 @@
     </item>
     
     <item>
-      <title>Neural Style Transfer</title>
-      <link>https://vlgiitr.github.io/project/workshop_2020/</link>
-      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/workshop_2020/</guid>
-      <description>&lt;p&gt;Resource for the workshop conducted by VLG on Neural Style Transfer.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>GenZoo</title>
       <link>https://vlgiitr.github.io/project/genzoo/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/project/genzoo/</guid>
       <description>&lt;p&gt;GenZoo is a repository that provides implementations of generative models in various frameworks, namely Tensorflow and Pytorch. This was a project taken up by VLG-IITR for the summers of 2019, done with the collaborative efforts of various students.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Group-Level-Emotion-Recognition</title>
+      <link>https://vlgiitr.github.io/project/emoticon/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/emoticon/</guid>
+      <description>&lt;p&gt;This repository contains the code of our model submitted for the ICMI 2018 EmotiW Group-Level Emotion Recognition Challenge. The model was ranked 4th in the challenge. The paper proposes an end-to-end model for jointly learning the scene and facial features of an image for group-level emotion recognition.&lt;/p&gt;
 </description>
     </item>
     
