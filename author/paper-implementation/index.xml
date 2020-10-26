@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper Implementation | VLG</title>
+    <link>https://vlgiitr.github.io/author/paper-implementation/</link>
+      <atom:link href="https://vlgiitr.github.io/author/paper-implementation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper Implementation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Paper Implementation</title>
+      <link>https://vlgiitr.github.io/author/paper-implementation/</link>
+    </image>
+    
+    <item>
+      <title>Deep Cache Replacement</title>
+      <link>https://vlgiitr.github.io/project/deap/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/deap/</guid>
+      <description>&lt;p&gt;The PyTorch codebase for DEAP Cache: Deep Eviction Admission and Prefetching for Cache.&lt;/p&gt;
+&lt;p&gt;In this paper, we propose a DL based approach to tackle the problem of Cache Replacement. This is the first time an approach has tried learning all the three policies: Admission, Prefetching and Eviction. Unlike, previous methods which relied on past statistics for carrying out cache replacement, we predict future statistics (frequency and recency) and then use an online RL-algorithm for eviction.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs | VLG</title>
+    <link>https://vlgiitr.github.io/blogs/</link>
+      <atom:link href="https://vlgiitr.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blogs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Blogs</title>
+      <link>https://vlgiitr.github.io/blogs/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://vlgiitr.github.io/blogs/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metric Learning: It’s all about the Distance (Medium)</title>
+      <link>https://vlgiitr.github.io/blogs/metric_learning/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/metric_learning/</guid>
+      <description>&lt;p&gt;Going deeper and deeper works, but only when we know what exactly to learn. Let’s make sure we learn the right thing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Curse of Dimensionality  (Medium)</title>
+      <link>https://vlgiitr.github.io/blogs/the-curse-of-dimensionality/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/the-curse-of-dimensionality/</guid>
+      <description>&lt;p&gt;Some say breaking this curse is as herculian of a task as breaking the Curse of Medusa. Well, who are we to judge…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis (Medium)</title>
+      <link>https://vlgiitr.github.io/blogs/pca/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/pca/</guid>
+      <description>&lt;p&gt;Too many dimensions can be bad for your model’s health. Here comes PCA to the rescue.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Singular Value Decomposition (Medium)</title>
+      <link>https://vlgiitr.github.io/blogs/svd/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/svd/</guid>
+      <description>&lt;p&gt;Whether you want to compress an image or calculate pseudo-inverse, SVD will always be there for you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Support Vector Machine  (Medium)</title>
+      <link>https://vlgiitr.github.io/blogs/svm/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/svm/</guid>
+      <description>&lt;p&gt;SVM is the Mr. Perfect of Machine Learning Classifiers. It basically wants different examples to be as far as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Problems</title>
+      <link>https://vlgiitr.github.io/blogs/advanced_problems/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/advanced_problems/</guid>
+      <description>&lt;p&gt;A few problems for the ones looking to test their learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guide to Deep Learning</title>
+      <link>https://vlgiitr.github.io/blogs/dl-guide/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/dl-guide/</guid>
+      <description>&lt;p&gt;This blog contains a guide to get started with Deep Learning as well as get in-depth knowledge of the field.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roger Zimmermann | VLG</title>
+    <link>https://vlgiitr.github.io/author/roger-zimmermann/</link>
+      <atom:link href="https://vlgiitr.github.io/author/roger-zimmermann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roger Zimmermann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Roger Zimmermann</title>
+      <link>https://vlgiitr.github.io/author/roger-zimmermann/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Multi-Task Financial Risk Forecasting</title>
+      <link>https://vlgiitr.github.io/publication/mmtfrf/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/mmtfrf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

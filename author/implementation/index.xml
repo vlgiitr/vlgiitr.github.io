@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Implementation | VLG</title>
+    <link>https://vlgiitr.github.io/author/implementation/</link>
+      <atom:link href="https://vlgiitr.github.io/author/implementation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Implementation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Implementation</title>
+      <link>https://vlgiitr.github.io/author/implementation/</link>
+    </image>
+    
+    <item>
+      <title>Neural Turing Machines</title>
+      <link>https://vlgiitr.github.io/project/ntm/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/ntm/</guid>
+      <description>&lt;p&gt;This repository is a stable Pytorch implementation of a Neural Turing Machine and contains the code for training, evaluating and visualizing results for the Copy, Repeat Copy, Associative Recall and Priority Sort tasks. The code has been tested for all 4 tasks and the results obtained are in accordance with the results mentioned in the paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Memory Network Plus</title>
+      <link>https://vlgiitr.github.io/project/dmn_plus/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/dmn_plus/</guid>
+      <description>&lt;p&gt;This is the Pytorch implementation of the paper Dynamic Memory Network for Visual and Textual Question Answering. This paper is an improved version of the original paper Ask Me Anything: Dynamic Memory Networks for Natural Language Processing. The major difference between these ideas is in the functioning of the input module and the memory module which has been explained in detail in the IPython notebook file of this repo.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

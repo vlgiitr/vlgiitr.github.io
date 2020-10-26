@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Summaries | VLG</title>
+    <link>https://vlgiitr.github.io/author/summaries/</link>
+      <atom:link href="https://vlgiitr.github.io/author/summaries/index.xml" rel="self" type="application/rss+xml" />
+    <description>Summaries</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Summaries</title>
+      <link>https://vlgiitr.github.io/author/summaries/</link>
+    </image>
+    
+    <item>
+      <title>Papers We Read</title>
+      <link>https://vlgiitr.github.io/project/papers_we_read/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/papers_we_read/</guid>
+      <description>&lt;p&gt;The repo contains summaries of various papers we discuss in our regular discussions and also some other recent papers which we feel have some really exciting contributions for the field.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

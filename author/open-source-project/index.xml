@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-Source Project | VLG</title>
+    <link>https://vlgiitr.github.io/author/open-source-project/</link>
+      <atom:link href="https://vlgiitr.github.io/author/open-source-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open-Source Project</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Open-Source Project</title>
+      <link>https://vlgiitr.github.io/author/open-source-project/</link>
+    </image>
+    
+    <item>
+      <title>GenZoo</title>
+      <link>https://vlgiitr.github.io/project/genzoo/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/genzoo/</guid>
+      <description>&lt;p&gt;GenZoo is a repository that provides implementations of generative models in various frameworks, namely Tensorflow and Pytorch. This was a project taken up by VLG-IITR for the summers of 2019, done with the collaborative efforts of various students.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

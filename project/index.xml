@@ -5,7 +5,7 @@
     <link>https://vlgiitr.github.io/project/</link>
       <atom:link href="https://vlgiitr.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 21:48:37 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>Projects</title>
@@ -13,59 +13,58 @@
     </image>
     
     <item>
-      <title>Dynamic Memory Network Plus</title>
-      <link>https://vlgiitr.github.io/project/dmn_plus/</link>
-      <pubDate>Tue, 17 Mar 2020 21:48:37 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/dmn_plus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Turing Machines</title>
-      <link>https://vlgiitr.github.io/project/ntm/</link>
-      <pubDate>Tue, 17 Mar 2020 21:39:42 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/ntm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Group Level Emotion Recognition</title>
-      <link>https://vlgiitr.github.io/project/emotion_recognition/</link>
-      <pubDate>Tue, 17 Mar 2020 21:37:36 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/emotion_recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GenZoo</title>
-      <link>https://vlgiitr.github.io/project/genzoo/</link>
-      <pubDate>Tue, 17 Mar 2020 21:35:25 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/genzoo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Workshop 2020</title>
-      <link>https://vlgiitr.github.io/project/workshop_2020/</link>
-      <pubDate>Tue, 17 Mar 2020 21:08:55 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/workshop_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Basic Discussions</title>
-      <link>https://vlgiitr.github.io/project/basic_discussions/</link>
-      <pubDate>Tue, 17 Mar 2020 21:05:43 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/basic_discussions/</guid>
-      <description></description>
+      <title>Deep Cache Replacement</title>
+      <link>https://vlgiitr.github.io/project/deap/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/deap/</guid>
+      <description>&lt;p&gt;The PyTorch codebase for DEAP Cache: Deep Eviction Admission and Prefetching for Cache.&lt;/p&gt;
+&lt;p&gt;In this paper, we propose a DL based approach to tackle the problem of Cache Replacement. This is the first time an approach has tried learning all the three policies: Admission, Prefetching and Eviction. Unlike, previous methods which relied on past statistics for carrying out cache replacement, we predict future statistics (frequency and recency) and then use an online RL-algorithm for eviction.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Papers We Read</title>
       <link>https://vlgiitr.github.io/project/papers_we_read/</link>
-      <pubDate>Tue, 17 Mar 2020 20:51:38 +0530</pubDate>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/project/papers_we_read/</guid>
-      <description></description>
+      <description>&lt;p&gt;The repo contains summaries of various papers we discuss in our regular discussions and also some other recent papers which we feel have some really exciting contributions for the field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Style Transfer</title>
+      <link>https://vlgiitr.github.io/project/workshop_2020/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/workshop_2020/</guid>
+      <description>&lt;p&gt;Resource for the workshop conducted by VLG on Neural Style Transfer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GenZoo</title>
+      <link>https://vlgiitr.github.io/project/genzoo/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/genzoo/</guid>
+      <description>&lt;p&gt;GenZoo is a repository that provides implementations of generative models in various frameworks, namely Tensorflow and Pytorch. This was a project taken up by VLG-IITR for the summers of 2019, done with the collaborative efforts of various students.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Turing Machines</title>
+      <link>https://vlgiitr.github.io/project/ntm/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/ntm/</guid>
+      <description>&lt;p&gt;This repository is a stable Pytorch implementation of a Neural Turing Machine and contains the code for training, evaluating and visualizing results for the Copy, Repeat Copy, Associative Recall and Priority Sort tasks. The code has been tested for all 4 tasks and the results obtained are in accordance with the results mentioned in the paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Memory Network Plus</title>
+      <link>https://vlgiitr.github.io/project/dmn_plus/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/dmn_plus/</guid>
+      <description>&lt;p&gt;This is the Pytorch implementation of the paper Dynamic Memory Network for Visual and Textual Question Answering. This paper is an improved version of the original paper Ask Me Anything: Dynamic Memory Networks for Natural Language Processing. The major difference between these ideas is in the functioning of the input module and the memory module which has been explained in detail in the IPython notebook file of this repo.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

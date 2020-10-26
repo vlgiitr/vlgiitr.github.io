@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suryatej Reddy Vyalla | VLG</title>
+    <link>https://vlgiitr.github.io/author/suryatej-reddy-vyalla/</link>
+      <atom:link href="https://vlgiitr.github.io/author/suryatej-reddy-vyalla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suryatej Reddy Vyalla</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Suryatej Reddy Vyalla</title>
+      <link>https://vlgiitr.github.io/author/suryatej-reddy-vyalla/</link>
+    </image>
+    
+    <item>
+      <title>Less Wrong COVID-19 Projections With Interactive Assumptions</title>
+      <link>https://vlgiitr.github.io/publication/covision/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/covision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

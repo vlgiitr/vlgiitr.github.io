@@ -5,12 +5,60 @@
     <link>https://vlgiitr.github.io/publication/</link>
       <atom:link href="https://vlgiitr.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
       <link>https://vlgiitr.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Multimodal Multi-Task Financial Risk Forecasting</title>
+      <link>https://vlgiitr.github.io/publication/mmtfrf/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/mmtfrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEAP Cache: Deep Eviction Admission and Prefetching for Cache</title>
+      <link>https://vlgiitr.github.io/publication/deap/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/deap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Less Wrong COVID-19 Projections With Interactive Assumptions</title>
+      <link>https://vlgiitr.github.io/publication/covision/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/covision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VacSIM: Learning Effective Strategies for COVID-19 Vaccine Distribution using Reinforcement Learning</title>
+      <link>https://vlgiitr.github.io/publication/vacsim/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/vacsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Adversarial Perturbations: A Survey</title>
+      <link>https://vlgiitr.github.io/publication/uap/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/uap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Relationship Detection using Scene Graphs: A Survey</title>
+      <link>https://vlgiitr.github.io/publication/scene_graph/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/scene_graph/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Revisiting CycleGAN for Semi-Supervised Segmentation</title>

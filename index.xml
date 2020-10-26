@@ -5,7 +5,7 @@
     <link>https://vlgiitr.github.io/</link>
       <atom:link href="https://vlgiitr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>VLG</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2020 21:48:37 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>VLG</title>
@@ -13,381 +13,196 @@
     </image>
     
     <item>
-      <title>Dynamic Memory Network Plus</title>
-      <link>https://vlgiitr.github.io/project/dmn_plus/</link>
-      <pubDate>Tue, 17 Mar 2020 21:48:37 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/dmn_plus/</guid>
+      <title></title>
+      <link>https://vlgiitr.github.io/blogs/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/posts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Neural Turing Machines</title>
-      <link>https://vlgiitr.github.io/project/ntm/</link>
-      <pubDate>Tue, 17 Mar 2020 21:39:42 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/ntm/</guid>
+      <title>Multimodal Multi-Task Financial Risk Forecasting</title>
+      <link>https://vlgiitr.github.io/publication/mmtfrf/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/mmtfrf/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Group Level Emotion Recognition</title>
-      <link>https://vlgiitr.github.io/project/emotion_recognition/</link>
-      <pubDate>Tue, 17 Mar 2020 21:37:36 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/emotion_recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GenZoo</title>
-      <link>https://vlgiitr.github.io/project/genzoo/</link>
-      <pubDate>Tue, 17 Mar 2020 21:35:25 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/genzoo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Workshop 2020</title>
-      <link>https://vlgiitr.github.io/project/workshop_2020/</link>
-      <pubDate>Tue, 17 Mar 2020 21:08:55 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/workshop_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Basic Discussions</title>
-      <link>https://vlgiitr.github.io/project/basic_discussions/</link>
-      <pubDate>Tue, 17 Mar 2020 21:05:43 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/basic_discussions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Papers We Read</title>
-      <link>https://vlgiitr.github.io/project/papers_we_read/</link>
-      <pubDate>Tue, 17 Mar 2020 20:51:38 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/project/papers_we_read/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paper Summary: Uniform Convergence May Be Unable to Explain Generalization in Deep Learning (NeurIPS 19)</title>
-      <link>https://vlgiitr.github.io/post/kotler_nips19/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/post/kotler_nips19/</guid>
-      <description>&lt;p&gt;This paper proposes a novel technique for learning node representations and at the same time perform community detection task for the graphical data by creating a generative model using the variational inference concepts.&lt;/p&gt;
+      <title>Metric Learning: It’s all about the Distance (Medium)</title>
+      <link>https://vlgiitr.github.io/blogs/metric_learning/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/metric_learning/</guid>
+      <description>&lt;p&gt;Going deeper and deeper works, but only when we know what exactly to learn. Let’s make sure we learn the right thing.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Deep Learning Winter Reading Series: Part 1</title>
-      <link>https://vlgiitr.github.io/post/newsletter_1/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/post/newsletter_1/</guid>
-      <description>&lt;p&gt;Winters bring a lot of free time for you to catch up with amazing stuff. The Vision and Language Group will be posting learning resources on a weekly basis, comprising both interesting reads and talks on future research areas.&lt;/p&gt;
-&lt;p&gt;Following are a few things you&amp;rsquo;ll find interesting:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;LSTM vs Transformer: An Honest paper by Smerity: &lt;a href=&#34;https://arxiv.org/pdf/1911.11423.pdf&#34;&gt;https://arxiv.org/pdf/1911.11423.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Teaching page of Shervine Amidi, Graduate Student at Stanford University: &lt;a href=&#34;https://stanford.edu/~shervine/teaching/cs-229/stanford.edu&#34;&gt;https://stanford.edu/~shervine/teaching/cs-229/stanford.edu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;True Artificial Intelligence will change everything | Juergen Schmidhuber: &lt;a href=&#34;https://youtu.be/-Y7PLaxXUrs&#34;&gt;https://youtu.be/-Y7PLaxXUrs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Self-training with Noisy Student improves ImageNet classification: &lt;a href=&#34;https://arxiv.org/abs/1911.04252&#34;&gt;https://arxiv.org/abs/1911.04252&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Self-supervised Representation Learning:
-&lt;a href=&#34;https://lilianweng.github.io/&#34;&gt;https://lilianweng.github.io/&lt;/a&gt;…/self-supervised-learning.html&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Happy learning!&lt;/p&gt;
+      <title>New Blog on Metric Learning Published on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/metric_blog/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/metric_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Metric Learning: It’s all about the Distance&lt;/strong&gt; by &lt;em&gt;Keerat Kaur Guliani&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the common notations followed in subject matter and some of the recent work in this field. Along with this, the blog is supplemented with animations using Manim Engine to further bring forward the main crux of the subject. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/metric-learning-its-all-about-the-distance-143a199ab7a5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Paper Summary: This Looks Like That: Deep Learning for Interpretable Image Recognition (NeurIPS 19)</title>
-      <link>https://vlgiitr.github.io/post/rudin_nips19/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/post/rudin_nips19/</guid>
-      <description>&lt;p&gt;This paper proposes a novel idea for interpretable deep learning , it basically figures out some protopyical parts of images by itself , and then uses these prototypes to make classification , hence making the classification process interpretable. &lt;strong&gt;Among the top 3% accepted papers of NIPS 2019&lt;/strong&gt;.&lt;/p&gt;
+      <title>Preprint out for the paper: DEAP Cache: Deep Eviction Admission and Prefetching for Cache !</title>
+      <link>https://vlgiitr.github.io/recents/deap/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/deap/</guid>
+      <description>&lt;p&gt;In this paper, we propose a DL based approach to tackle the problem of Cache Replacement. This is the first time an approach has tried learning all the three policies: Admission, Prefetching and Eviction. Unlike, previous methods which relied on past statistics for carrying out cache replacement, we predict future statistics (frequency and recency) and then use an online RL-algorithm for eviction.&lt;/p&gt;
+&lt;p&gt;Checkout the preprint &lt;a href=&#34;https://arxiv.org/abs/2009.09206&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Paper Summary: vGraph: A Generative Model for Joint Community Detection and Node Representational Learning (NeurIPS 19)</title>
-      <link>https://vlgiitr.github.io/post/vgraph_summary/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/post/vgraph_summary/</guid>
-      <description>&lt;p&gt;This paper proposes a novel technique for learning node representations and at the same time perform community detection task for the graphical data by creating a generative model using the variational inference concepts.&lt;/p&gt;
+      <title>DEAP Cache: Deep Eviction Admission and Prefetching for Cache</title>
+      <link>https://vlgiitr.github.io/publication/deap/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/deap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Less Wrong COVID-19 Projections With Interactive Assumptions</title>
+      <link>https://vlgiitr.github.io/publication/covision/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/covision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VacSIM: Learning Effective Strategies for COVID-19 Vaccine Distribution using Reinforcement Learning</title>
+      <link>https://vlgiitr.github.io/publication/vacsim/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/vacsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Basic and Advanced Discussions for the Autumn Semester (2020-21) restart !</title>
+      <link>https://vlgiitr.github.io/recents/disc/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/disc/</guid>
+      <description>&lt;p&gt;The Basic and Advanced for the new semester begins. We have some really exciting topics lined up to be discussed. With the current pandemic, all the discussions will be online. Just as always, two discussions(Basic and Advanced) will be held every week. We are looking forward to new faces joining in the open discussions. You can also view the discussion schedule and other resources &lt;a href=&#34;https://vlgiitr.github.io/discussions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Essential Deep Learning Topics for Interviews</title>
-      <link>https://vlgiitr.github.io/post/dl_topics/</link>
-      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/post/dl_topics/</guid>
-      <description>&lt;p&gt;This post contains a list of topics which we feel that one should be comfortable with before appearing for a DL interview. This list is by no means exhaustive (as the field is very wide and ever growing).&lt;/p&gt;
-&lt;h2 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Linear Algebra(
-&lt;a href=&#34;http://cs229.stanford.edu/section/cs229-linalg.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;notes&lt;/a&gt;)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Linear Dependence and Span&lt;/li&gt;
-&lt;li&gt;Eigendecomposition
-&lt;ul&gt;
-&lt;li&gt;Eigenvalues and Eigenvectors&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Singular Value Decomposition&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Probability and Statistics&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Expectation, Variance and Co-variance&lt;/li&gt;
-&lt;li&gt;Distributions&lt;/li&gt;
-&lt;li&gt;Bias and Variance
-&lt;ul&gt;
-&lt;li&gt;Bias Variance Trade-off&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Estimators
-&lt;ul&gt;
-&lt;li&gt;Biased and Unbiased&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Maximum Likelihood Estimation&lt;/li&gt;
-&lt;li&gt;Maximum A Posteriori (MAP) Estimation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Information Theory&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;(Shannon) Entropy&lt;/li&gt;
-&lt;li&gt;Cross Entropy&lt;/li&gt;
-&lt;li&gt;KL Divergence
-&lt;ul&gt;
-&lt;li&gt;Not a distance metric&lt;/li&gt;
-&lt;li&gt;Derivation from likelihood ratio (
-&lt;a href=&#34;https://medium.com/@cotra.marko/making-sense-of-the-kullback-leibler-kl-divergence-b0d57ee10e0a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Always greater than 0
-&lt;ul&gt;
-&lt;li&gt;Proof by Jensen&amp;rsquo;s Inequality&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Relation with Entropy (
-&lt;a href=&#34;https://stats.stackexchange.com/questions/265966/why-do-we-use-kullback-leibler-divergence-rather-than-cross-entropy-in-the-t-sne&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explanation&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;basics&#34;&gt;Basics&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Backpropogation&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Vanilla (
-&lt;a href=&#34;http://cs231n.github.io/optimization-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Backprop in CNNs
-&lt;ul&gt;
-&lt;li&gt;Gradients in Convolution and Deconvolution Layers&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Backprop through time&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Loss Functions&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;MSE Loss
-&lt;ul&gt;
-&lt;li&gt;Derivation by MLE and MAP&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Cross Entropy Loss
-&lt;ul&gt;
-&lt;li&gt;Binary Cross Entropy&lt;/li&gt;
-&lt;li&gt;Categorical Cross Entropy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Activation Functions (Sigmoid, Tanh, ReLU and variants) (
-&lt;a href=&#34;https://mlfromscratch.com/activation-functions-explained/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Optimizers&lt;/li&gt;
-&lt;li&gt;Regularization&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Early Stopping&lt;/li&gt;
-&lt;li&gt;Noise Injection&lt;/li&gt;
-&lt;li&gt;Dataset Augmentation&lt;/li&gt;
-&lt;li&gt;Ensembling&lt;/li&gt;
-&lt;li&gt;Parameter Norm Penalties
-&lt;ul&gt;
-&lt;li&gt;L1 (sparsity)&lt;/li&gt;
-&lt;li&gt;L2 (smaller parameter values)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;BatchNorm (
-&lt;a href=&#34;&#34;&gt;Paper&lt;/a&gt;)
-&lt;ul&gt;
-&lt;li&gt;Internal Covariate Shift&lt;/li&gt;
-&lt;li&gt;BatchNorm in CNNs (
-&lt;a href=&#34;https://stackoverflow.com/questions/38553927/batch-normalization-in-convolutional-neural-network&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Backprop through BatchNorm Layer (
-&lt;a href=&#34;https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explanation&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Dropout (
-&lt;a href=&#34;&#34;&gt;Paper&lt;/a&gt;) (
-&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-08-15-Dropout/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;computer-vision&#34;&gt;Computer Vision&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;ILSVRC&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;AlexNet&lt;/li&gt;
-&lt;li&gt;ZFNet&lt;/li&gt;
-&lt;li&gt;VGGNet (
-&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-10-11-VGG_Notes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;InceptionNet (
-&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-10-17-InceptionNet_Notes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;ResNet (
-&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-10-29-ResNet_Notes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;DenseNet&lt;/li&gt;
-&lt;li&gt;SENet&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Object Recognition (
-&lt;a href=&#34;https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;RCNN (
-&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-10-29-RCNN_Notes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Fast RCNN&lt;/li&gt;
-&lt;li&gt;Faster RCNN (
-&lt;a href=&#34;https://vlgiitr.github.io/notes/2018-01-02-Deep_Gen_models/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notes&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Mask RCNN&lt;/li&gt;
-&lt;li&gt;YOLO v3 (Real-time object recognition)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Convolution&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Cross-correlation&lt;/li&gt;
-&lt;li&gt;Pooling (Average, Max Pool)&lt;/li&gt;
-&lt;li&gt;Strides and Padding&lt;/li&gt;
-&lt;li&gt;Output volume dimension calculation&lt;/li&gt;
-&lt;li&gt;Deconvolution (Transpose Conv.), Upsampling, Reverse Pooling (
-&lt;a href=&#34;https://github.com/vdumoulin/conv_arithmetic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualization&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;natural-language-processing&#34;&gt;Natural Language Processing&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Recurrent Neural Networks&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Architectures (Limitations and inspiration behind every model) (
-&lt;a href=&#34;https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog 1&lt;/a&gt;) (
-&lt;a href=&#34;https://colah.github.io/posts/2015-08-Understanding-LSTMs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog 2&lt;/a&gt;)
-&lt;ul&gt;
-&lt;li&gt;Vanilla&lt;/li&gt;
-&lt;li&gt;GRU&lt;/li&gt;
-&lt;li&gt;LSTM&lt;/li&gt;
-&lt;li&gt;Bidirectional&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Vanishing and Exploding Gradients&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Word Embeddings&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Word2Vec&lt;/li&gt;
-&lt;li&gt;CBOW&lt;/li&gt;
-&lt;li&gt;Glove&lt;/li&gt;
-&lt;li&gt;FastText&lt;/li&gt;
-&lt;li&gt;SkipGram, NGram&lt;/li&gt;
-&lt;li&gt;ELMO&lt;/li&gt;
-&lt;li&gt;OpenAI GPT&lt;/li&gt;
-&lt;li&gt;BERT (
-&lt;a href=&#34;http://jalammar.github.io/illustrated-bert/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Transformers (
-&lt;a href=&#34;https://arxiv.org/abs/1706.03762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;) (
-&lt;a href=&#34;https://nlp.seas.harvard.edu/2018/04/03/attention.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;) (
-&lt;a href=&#34;http://jalammar.github.io/illustrated-transformer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;BERT (
-&lt;a href=&#34;https://arxiv.org/abs/1810.04805&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Universal Sentence Encoder&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;generative-models&#34;&gt;Generative Models&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Generative Adversarial Networks (GANs)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Basic Idea&lt;/li&gt;
-&lt;li&gt;Variants
-&lt;ul&gt;
-&lt;li&gt;Vanilla GAN (
-&lt;a href=&#34;https://arxiv.org/abs/1406.2661&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;DCGAN&lt;/li&gt;
-&lt;li&gt;Wasserstein GAN (
-&lt;a href=&#34;https://arxiv.org/abs/1701.07875&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Conditional GAN (
-&lt;a href=&#34;https://arxiv.org/abs/1411.1784&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Mode Collapse&lt;/li&gt;
-&lt;li&gt;GAN Hacks (
-&lt;a href=&#34;https://github.com/soumith/ganhacks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Variational Autoencoders (VAEs)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Variational Inference (
-&lt;a href=&#34;https://arxiv.org/abs/1606.05908&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial paper&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;ELBO and Loss Function derivation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Normalizing Flows&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basic Idea and Applications&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;misc&#34;&gt;Misc&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Triplet Loss&lt;/li&gt;
-&lt;li&gt;BLEU Score&lt;/li&gt;
-&lt;li&gt;Maxout Networks&lt;/li&gt;
-&lt;li&gt;Support Vector Machines&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Maximal-Margin Classifier&lt;/li&gt;
-&lt;li&gt;Kernel Trick&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;PCA (
-&lt;a href=&#34;https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explanation&lt;/a&gt;)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;PCA using neural network
-&lt;ul&gt;
-&lt;li&gt;Architecture&lt;/li&gt;
-&lt;li&gt;Loss Function&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;6&#34;&gt;
-&lt;li&gt;Spatial Transformer Networks&lt;/li&gt;
-&lt;li&gt;Gaussian Mixture Models (GMMs)&lt;/li&gt;
-&lt;li&gt;Expectation Maximization&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;more-resources&#34;&gt;More Resources&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Stanford&amp;rsquo;s CS231n Lecture Notes&lt;/li&gt;
-&lt;li&gt;Deep Learning Book (Goodfellow et. al.)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;contributing&#34;&gt;Contributing&lt;/h2&gt;
-&lt;p&gt;We welcome contributions to add resources such as notes, blogs, or papers for a topic. Feel free to open a pull request for the same!&lt;/p&gt;
+      <title>Talk with Alumni: A Talk with Shagun Sodhani</title>
+      <link>https://vlgiitr.github.io/recents/talk_shagun/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/talk_shagun/</guid>
+      <description>&lt;p&gt;The core members of the group had a very informative talk and discussion with our alumnus, Shagun Sodhani (&lt;a href=&#34;https://shagunsodhani.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profile&lt;/a&gt;). He is currently a research engineer at FAIR and was one of the co-founders of ACM, IIT Roorkee Chapter. He shared experiences of his undergrad years, and also some of the crucial advice to our current members.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Blog on Curse of Dimensionality Published on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/curse_blog/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/curse_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;The Curse of Dimensionality&lt;/strong&gt; by &lt;em&gt;Jitesh Jain&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the mathematical fundamentals followed in subject matter. Along with this, the blog is supplemented with animations using Manim Engine to further bring forward the main crux of the subject. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/the-curse-of-dimensionality-15f950e519d2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Curse of Dimensionality  (Medium)</title>
+      <link>https://vlgiitr.github.io/blogs/the-curse-of-dimensionality/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/the-curse-of-dimensionality/</guid>
+      <description>&lt;p&gt;Some say breaking this curse is as herculian of a task as breaking the Curse of Medusa. Well, who are we to judge…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Blog on Principal Component Analysis on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/pca_blog/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/pca_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Principal Component Analysis&lt;/strong&gt; by &lt;em&gt;Ankit Biswas&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the mathematical fundamentals followed in subject matter. Along with this, the blog is supplemented with animations using Manim Engine to further bring forward the main crux of the subject. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/principal-components-analysis-82a7682323e6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis (Medium)</title>
+      <link>https://vlgiitr.github.io/blogs/pca/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/pca/</guid>
+      <description>&lt;p&gt;Too many dimensions can be bad for your model’s health. Here comes PCA to the rescue.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Blog on Singular Value Decomposition on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/svd_blog/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/svd_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Singular Value Decomposition&lt;/strong&gt; by &lt;em&gt;Kaaira Gupta&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the mathematical fundamentals followed in subject matter. Along with this, the blog is supplemented with animations using Manim Engine to further bring forward the main crux of the subject. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/eli5-singular-value-decomposition-svd-955c151f9907&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Singular Value Decomposition (Medium)</title>
+      <link>https://vlgiitr.github.io/blogs/svd/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/svd/</guid>
+      <description>&lt;p&gt;Whether you want to compress an image or calculate pseudo-inverse, SVD will always be there for you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preprint out for the paper: Universal Adversarial Perturbations: A Survey !</title>
+      <link>https://vlgiitr.github.io/recents/uap/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/uap/</guid>
+      <description>&lt;p&gt;The new survey paper on the topic of Universal Adversarial Perturbations is out now on arxiv. The paper covers the basic terminologies and concepts that build up the subject matter of Adversarial Perturbations and then all the recent literature work to further develop the field. Lastly it also delves into the applications of the same and the future work directions possible in this field.&lt;/p&gt;
+&lt;p&gt;Checkout the preprint &lt;a href=&#34;https://arxiv.org/abs/2005.08087&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preprint out for the paper: Visual Relationship Detection using Scene Graphs: A Survey !</title>
+      <link>https://vlgiitr.github.io/recents/scene_graph/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/scene_graph/</guid>
+      <description>&lt;p&gt;The new survey paper on the topic of Scene Graphs is out now on arxiv. The paper covers the basic terminologies and concepts that build up the subject matter of Scene Graphs and then all the recent literature work to further develop the field. Lastly it also delves into the applications of the same and the future work directions possible in this field.&lt;/p&gt;
+&lt;p&gt;Checkout the preprint &lt;a href=&#34;https://arxiv.org/abs/2005.08045&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Universal Adversarial Perturbations: A Survey</title>
+      <link>https://vlgiitr.github.io/publication/uap/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/uap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Relationship Detection using Scene Graphs: A Survey</title>
+      <link>https://vlgiitr.github.io/publication/scene_graph/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/scene_graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Blog on Support Vector Machines on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/svm_blog/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/svm_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Support Vector Machines&lt;/strong&gt; by &lt;em&gt;Aaryan Garg&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the mathematical fundamentals followed in subject matter. Along with this, the blog is supplemented with animations using Manim Engine to further bring forward the main crux of the subject. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/support-vector-machines-77babd8545bb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Support Vector Machine  (Medium)</title>
+      <link>https://vlgiitr.github.io/blogs/svm/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/svm/</guid>
+      <description>&lt;p&gt;SVM is the Mr. Perfect of Machine Learning Classifiers. It basically wants different examples to be as far as possible.&lt;/p&gt;
 </description>
     </item>
     
@@ -397,15 +212,6 @@
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0530</pubDate>
       <guid>https://vlgiitr.github.io/publication/cycle-gan/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Paper Summary: SinGAN Learning a Generative Model from a Single Natural Image (ICCV 19 Best Paper)</title>
-      <link>https://vlgiitr.github.io/post/singan_summary/</link>
-      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/post/singan_summary/</guid>
-      <description>&lt;p&gt;This paper proposes a novel GAN training technique to obtain a generative model that can be learned using a single image. Unlike some of the previous works that used single image for training for a single task, the model can be used for unconditional generative modelling, not limited to texture images. This paper also got the best paper award in ICCV 2019.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -425,10 +231,132 @@
     </item>
     
     <item>
+      <title>Advanced Problems</title>
+      <link>https://vlgiitr.github.io/blogs/advanced_problems/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/advanced_problems/</guid>
+      <description>&lt;p&gt;A few problems for the ones looking to test their learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guide to Deep Learning</title>
+      <link>https://vlgiitr.github.io/blogs/dl-guide/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/dl-guide/</guid>
+      <description>&lt;p&gt;This blog contains a guide to get started with Deep Learning as well as get in-depth knowledge of the field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An Attention Model for Group Level Emotion Recognition</title>
       <link>https://vlgiitr.github.io/publication/att/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0530</pubDate>
       <guid>https://vlgiitr.github.io/publication/att/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discussions</title>
+      <link>https://vlgiitr.github.io/discussions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/discussions/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;We conduct two discussions every week where we dicuss the basic concepts and recent advancements in the field of Deep Learning.&lt;/p&gt;
+&lt;h3 id=&#34;basic-discussions&#34;&gt;Basic Discussions&lt;/h3&gt;
+&lt;p&gt;We discuss a few fundamental concepts every Wednesday.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Resources&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;04-08-2020&lt;/td&gt;
+&lt;td&gt;Linear Algebra&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Wk6EPIQ7Cy7MUNKUpDPS5R-MrxbHm0zJ/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11-08-2020&lt;/td&gt;
+&lt;td&gt;Probability&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ZBubLdkpE_pb-mvy6fDltC3AcZeQsZRO/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19-08-2020&lt;/td&gt;
+&lt;td&gt;Neural Networks and CNNs&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1-0xcef-gOU590ucez6D9RlXtk1fyX9Eh/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;26-08-2020&lt;/td&gt;
+&lt;td&gt;Basic CNN architectures&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1FybB6XIyqG1V1ezJwif70-2czRdY2PCw/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;02-09-2020&lt;/td&gt;
+&lt;td&gt;RNNs&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/10nr5omq9ELJUP-NxIEU0ZOjqi7V2M_Jc/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09-09-2020&lt;/td&gt;
+&lt;td&gt;VAE&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/142-qoBEV3-rBO-FsFdxhRr420U6PzMfN/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16-09-2020&lt;/td&gt;
+&lt;td&gt;GANs&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1FNmDho1huVCQeG-iZcVyVpE6Z8UmhBbTqe0FYu2xf8o/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;23-09-2020&lt;/td&gt;
+&lt;td&gt;Embeddings&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1j8f4eKZteAs2gx30KHtTl-u1M2ASn8Hgjmbsph-naWI/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30-09-2020&lt;/td&gt;
+&lt;td&gt;Attention and Transformer&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1JcKHknv3a33eDIJvO72MMfTqYIMJ0cyeJ2LeFtgapXU/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;07-10-2020&lt;/td&gt;
+&lt;td&gt;ELMo and BERT&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1cnIyEpPKKp91g5d6vkfzk_k2T07Du2PQ/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14-10-2020&lt;/td&gt;
+&lt;td&gt;RL-I: MDPs, Bellman Equations&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1neAp21D7DUCdnK--5DNaB5HWwSrzeKh7/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides-A&lt;/a&gt;  &lt;a href=&#34;https://drive.google.com/file/d/1HQhnvmZ5hPTxR1b2khlluJyVlqIx7Q16/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides-B&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;28-10-2020&lt;/td&gt;
+&lt;td&gt;RL-II&lt;/td&gt;
+&lt;td&gt;To be shared&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;04-10-2020&lt;/td&gt;
+&lt;td&gt;Graph Neural Networks&lt;/td&gt;
+&lt;td&gt;To be shared&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://vlgiitr.github.io/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Members</title>
+      <link>https://vlgiitr.github.io/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/team/</guid>
       <description></description>
     </item>
     

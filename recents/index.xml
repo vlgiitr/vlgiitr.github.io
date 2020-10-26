@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent Activities | VLG</title>
+    <link>https://vlgiitr.github.io/recents/</link>
+      <atom:link href="https://vlgiitr.github.io/recents/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent Activities</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Recent Activities</title>
+      <link>https://vlgiitr.github.io/recents/</link>
+    </image>
+    
+    <item>
+      <title>New Blog on Metric Learning Published on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/metric_blog/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/metric_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Metric Learning: It’s all about the Distance&lt;/strong&gt; by &lt;em&gt;Keerat Kaur Guliani&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the common notations followed in subject matter and some of the recent work in this field. Along with this, the blog is supplemented with animations using Manim Engine to further bring forward the main crux of the subject. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/metric-learning-its-all-about-the-distance-143a199ab7a5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preprint out for the paper: DEAP Cache: Deep Eviction Admission and Prefetching for Cache !</title>
+      <link>https://vlgiitr.github.io/recents/deap/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/deap/</guid>
+      <description>&lt;p&gt;In this paper, we propose a DL based approach to tackle the problem of Cache Replacement. This is the first time an approach has tried learning all the three policies: Admission, Prefetching and Eviction. Unlike, previous methods which relied on past statistics for carrying out cache replacement, we predict future statistics (frequency and recency) and then use an online RL-algorithm for eviction.&lt;/p&gt;
+&lt;p&gt;Checkout the preprint &lt;a href=&#34;https://arxiv.org/abs/2009.09206&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Basic and Advanced Discussions for the Autumn Semester (2020-21) restart !</title>
+      <link>https://vlgiitr.github.io/recents/disc/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/disc/</guid>
+      <description>&lt;p&gt;The Basic and Advanced for the new semester begins. We have some really exciting topics lined up to be discussed. With the current pandemic, all the discussions will be online. Just as always, two discussions(Basic and Advanced) will be held every week. We are looking forward to new faces joining in the open discussions. You can also view the discussion schedule and other resources &lt;a href=&#34;https://vlgiitr.github.io/discussions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talk with Alumni: A Talk with Shagun Sodhani</title>
+      <link>https://vlgiitr.github.io/recents/talk_shagun/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/talk_shagun/</guid>
+      <description>&lt;p&gt;The core members of the group had a very informative talk and discussion with our alumnus, Shagun Sodhani (&lt;a href=&#34;https://shagunsodhani.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profile&lt;/a&gt;). He is currently a research engineer at FAIR and was one of the co-founders of ACM, IIT Roorkee Chapter. He shared experiences of his undergrad years, and also some of the crucial advice to our current members.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Blog on Curse of Dimensionality Published on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/curse_blog/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/curse_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;The Curse of Dimensionality&lt;/strong&gt; by &lt;em&gt;Jitesh Jain&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the mathematical fundamentals followed in subject matter. Along with this, the blog is supplemented with animations using Manim Engine to further bring forward the main crux of the subject. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/the-curse-of-dimensionality-15f950e519d2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Blog on Principal Component Analysis on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/pca_blog/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/pca_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Principal Component Analysis&lt;/strong&gt; by &lt;em&gt;Ankit Biswas&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the mathematical fundamentals followed in subject matter. Along with this, the blog is supplemented with animations using Manim Engine to further bring forward the main crux of the subject. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/principal-components-analysis-82a7682323e6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Blog on Singular Value Decomposition on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/svd_blog/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/svd_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Singular Value Decomposition&lt;/strong&gt; by &lt;em&gt;Kaaira Gupta&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the mathematical fundamentals followed in subject matter. Along with this, the blog is supplemented with animations using Manim Engine to further bring forward the main crux of the subject. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/eli5-singular-value-decomposition-svd-955c151f9907&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preprint out for the paper: Universal Adversarial Perturbations: A Survey !</title>
+      <link>https://vlgiitr.github.io/recents/uap/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/uap/</guid>
+      <description>&lt;p&gt;The new survey paper on the topic of Universal Adversarial Perturbations is out now on arxiv. The paper covers the basic terminologies and concepts that build up the subject matter of Adversarial Perturbations and then all the recent literature work to further develop the field. Lastly it also delves into the applications of the same and the future work directions possible in this field.&lt;/p&gt;
+&lt;p&gt;Checkout the preprint &lt;a href=&#34;https://arxiv.org/abs/2005.08087&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preprint out for the paper: Visual Relationship Detection using Scene Graphs: A Survey !</title>
+      <link>https://vlgiitr.github.io/recents/scene_graph/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/scene_graph/</guid>
+      <description>&lt;p&gt;The new survey paper on the topic of Scene Graphs is out now on arxiv. The paper covers the basic terminologies and concepts that build up the subject matter of Scene Graphs and then all the recent literature work to further develop the field. Lastly it also delves into the applications of the same and the future work directions possible in this field.&lt;/p&gt;
+&lt;p&gt;Checkout the preprint &lt;a href=&#34;https://arxiv.org/abs/2005.08045&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Blog on Support Vector Machines on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/svm_blog/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/svm_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Support Vector Machines&lt;/strong&gt; by &lt;em&gt;Aaryan Garg&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the mathematical fundamentals followed in subject matter. Along with this, the blog is supplemented with animations using Manim Engine to further bring forward the main crux of the subject. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/support-vector-machines-77babd8545bb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
