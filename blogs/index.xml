@@ -66,7 +66,7 @@
     </item>
     
     <item>
-      <title>Advanced Problems</title>
+      <title>Advanced Problems (Medium)</title>
       <link>https://vlgiitr.github.io/blogs/advanced_problems/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/blogs/advanced_problems/</guid>
@@ -75,11 +75,83 @@
     </item>
     
     <item>
-      <title>Guide to Deep Learning</title>
+      <title>Dropout</title>
+      <link>https://vlgiitr.github.io/blogs/dropout/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/dropout/</guid>
+      <description>&lt;p&gt;Notes on the regularization method Dropout.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guide to Deep Learning (Medium)</title>
       <link>https://vlgiitr.github.io/blogs/dl-guide/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/blogs/dl-guide/</guid>
       <description>&lt;p&gt;This blog contains a guide to get started with Deep Learning as well as get in-depth knowledge of the field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>InceptionNet</title>
+      <link>https://vlgiitr.github.io/blogs/inception/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/inception/</guid>
+      <description>&lt;p&gt;Notes on the the InceptionNet CNN architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linear Algebra</title>
+      <link>https://vlgiitr.github.io/blogs/linalg/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/linalg/</guid>
+      <description>&lt;p&gt;Notes on Linear Algebra from the DL Book.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Net2Net</title>
+      <link>https://vlgiitr.github.io/blogs/net2net/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/net2net/</guid>
+      <description>&lt;p&gt;Notes on the Net2Net architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probability and Information Theory</title>
+      <link>https://vlgiitr.github.io/blogs/probstats/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/probstats/</guid>
+      <description>&lt;p&gt;Notes on Probability and Information Theory from the DL Book.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCNN</title>
+      <link>https://vlgiitr.github.io/blogs/rcnn/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/rcnn/</guid>
+      <description>&lt;p&gt;Notes on the object detection architecture RCNN.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ResNet</title>
+      <link>https://vlgiitr.github.io/blogs/resnet/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/resnet/</guid>
+      <description>&lt;p&gt;Notes on the CNN Architecture ResNet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VGGNet</title>
+      <link>https://vlgiitr.github.io/blogs/vgg/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/vgg/</guid>
+      <description>&lt;p&gt;Notes on the CNN Architecture VGGNet.&lt;/p&gt;
 </description>
     </item>
     
