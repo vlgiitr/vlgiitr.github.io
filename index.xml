@@ -400,7 +400,7 @@
       <description>&lt;hr&gt;
 &lt;p&gt;We conduct two discussions every week where we dicuss the basic concepts and recent advancements in the field of Deep Learning.&lt;/p&gt;
 &lt;h3 id=&#34;basic-discussions&#34;&gt;Basic Discussions&lt;/h3&gt;
-&lt;p&gt;We discuss a few fundamental concepts every Wednesday.&lt;/p&gt;
+&lt;p&gt;We discuss a few fundamental concepts on Wednesdays.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -468,7 +468,7 @@
 &lt;tr&gt;
 &lt;td&gt;11-11-2020&lt;/td&gt;
 &lt;td&gt;Graph Neural Networks&lt;/td&gt;
-&lt;td&gt;To be shared&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1CUCpubZElLWfnCi-JPE5mUXLgb-Bzyfo/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -540,6 +540,13 @@
 &lt;td&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf&#34;&gt;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Neural Architecture Search without Training Learning&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2006.04647&#34;&gt;https://arxiv.org/abs/2006.04647&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;28-11-2020&lt;/td&gt;
+&lt;td&gt;Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1708.07120&#34;&gt;https://arxiv.org/abs/1708.07120&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://iclr.cc/virtual_2020/poster_r1xMH1BtvB.html&#34;&gt;https://iclr.cc/virtual_2020/poster_r1xMH1BtvB.html&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
