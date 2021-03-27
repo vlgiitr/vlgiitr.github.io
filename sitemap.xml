@@ -1,608 +1,357 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://vlgiitr.github.io/blogs/posts/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://vlgiitr.github.io/recents/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vlgiitr.github.io/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vlgiitr.github.io/recents/workshop2021/</loc>
+    <lastmod>2021-03-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication-type/1/</loc>
     <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/authors/</loc>
     <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/ayush-mangal/</loc>
     <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication/mmtfrf/</loc>
     <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/piyush-khanna/</loc>
     <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication_types/</loc>
     <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication/</loc>
     <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/puneet-mathur/</loc>
     <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/rajiv-ratn-shah/</loc>
     <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/ramit-sawhney/</loc>
     <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/roger-zimmermann/</loc>
     <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vlgiitr.github.io/</loc>
-    <lastmod>2020-10-12T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/metric_learning/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/recents/metric_blog/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vlgiitr.github.io/recents/</loc>
-    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/project/deap/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/recents/deap/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/project/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication/deap/</loc>
     <lastmod>2020-09-19T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/jitesh-jain/</loc>
     <lastmod>2020-09-19T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/keerat-kaur-gullani/</loc>
     <lastmod>2020-09-19T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/omkar-bhalero/</loc>
     <lastmod>2020-09-19T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/aditya-nagori/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/akhil-jarodia/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/amogh-gulati/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/arshita-bhatt/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/chandan-gupta/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/harsh-bandhey/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/keerat-kaur-guliani/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication/covision/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/mehrab-singh-gill/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/ponnurangam-kumaraguru/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/raghav-awasthi/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/suryatej-reddy-vyalla/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/tavpritesh-sethi/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication/vacsim/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/vineet-joshi/</loc>
     <lastmod>2020-09-14T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/project/dl_topics/</loc>
     <lastmod>2020-09-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/recents/disc/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/recents/talk_shagun/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/project/papers_we_read/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/recents/curse_blog/</loc>
     <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/the-curse-of-dimensionality/</loc>
     <lastmod>2020-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/recents/pca_blog/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/pca/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/recents/svd_blog/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/svd/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/recents/uap/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/recents/scene_graph/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/aniket-agarwal/</loc>
     <lastmod>2020-05-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/ashutosh-chaubey/</loc>
     <lastmod>2020-05-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/kavya-barnwal/</loc>
     <lastmod>2020-05-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/keerat-k.-guliani/</loc>
     <lastmod>2020-05-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/nikhil-agrawal/</loc>
     <lastmod>2020-05-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/pramod-mehta/</loc>
     <lastmod>2020-05-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication/uap/</loc>
     <lastmod>2020-05-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/vipul-kumar/</loc>
     <lastmod>2020-05-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication/scene_graph/</loc>
     <lastmod>2020-05-16T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/recents/svm_blog/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/svm/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/arnab-kumar-mondal/</loc>
     <lastmod>2019-11-03T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/christain-desrosiers/</loc>
     <lastmod>2019-11-03T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/jose-dolz/</loc>
     <lastmod>2019-11-03T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication/cycle-gan/</loc>
     <lastmod>2019-11-03T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication/gan-ensemble/</loc>
     <lastmod>2019-11-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/balasubramanian-raman/</loc>
     <lastmod>2019-11-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/bhimavarapu-sasi-kiran-reddy/</loc>
     <lastmod>2019-11-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/jaynil-jaiswal/</loc>
     <lastmod>2019-11-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/partha-pratim-roy/</loc>
     <lastmod>2019-11-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/puneet-kumar/</loc>
     <lastmod>2019-11-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/shashank-kashyap/</loc>
     <lastmod>2019-11-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/project/genzoo/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/dakshit-agrawal/</loc>
     <lastmod>2019-07-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication/gan-tree/</loc>
     <lastmod>2019-07-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/jogendra-nath-kundu/</loc>
     <lastmod>2019-07-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/maharshi-gor/</loc>
     <lastmod>2019-07-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/r.-venkatesh-babu/</loc>
     <lastmod>2019-07-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/advanced_problems/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/dropout/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/dl-guide/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/inception/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/linalg/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/net2net/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/probstats/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/rcnn/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/resnet/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/vgg/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/project/emoticon/</loc>
     <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/project/ntm/</loc>
     <lastmod>2018-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/aarush-gupta/</loc>
     <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/publication/att/</loc>
     <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/hardik-chauhan/</loc>
     <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/marco-pedersoli/</loc>
     <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/project/dmn_plus/</loc>
     <lastmod>2018-06-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/aarush-gupta/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/aaryan-garg/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/abhinaba-bala/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/aditya-prakash/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/aniket-agarwal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/ankit-biswas/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/arpit-khandelwal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/ashutosh-chaubey/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/ayush-mangal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/dakshit-agrawal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/discussions/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/hardik-chauhan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/harshit-sharma/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/jitesh-jain/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/kaaira-gupta/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/karan-desai/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/kavya-barnwal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/keerat-kaur-guliani/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/nikhil-agrawal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/nishant-bhansali/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/omkar-bhalero/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/prakash-pandey/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/pramod-mehta/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/sagar-rusia/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/saurabh-mishra/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/team/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/vaibhav-gosain/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/vision-and-language-group/</loc>
   </url>
-  
 </urlset>

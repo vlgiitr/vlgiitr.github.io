@@ -5,7 +5,7 @@
     <link>https://vlgiitr.github.io/</link>
       <atom:link href="https://vlgiitr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>VLG</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>VLG</title>
@@ -18,6 +18,25 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/blogs/posts/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops 2021</title>
+      <link>https://vlgiitr.github.io/recents/workshop2021/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/workshop2021/</guid>
+      <description>&lt;p&gt;We conducted a two day workshop covering:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Basics of CNNs and Pytorch&lt;/strong&gt; on &lt;em&gt;25&lt;sup&gt;th&lt;/sup&gt; March, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Generative Modelling using GANs&lt;/strong&gt; on &lt;em&gt;26&lt;sup&gt;th&lt;/sup&gt; March, 2021&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can find the recordings on &lt;a href=&#34;https://drive.google.com/drive/folders/1Q047UTLdP6GFV7G3cod-t4wAo_miM58s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For the colab notebooks and other instructions, please check out the &lt;a href=&#34;https://github.com/vlgiitr/Workshop_2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official Repo on GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
