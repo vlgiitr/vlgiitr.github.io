@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Previous_discussions | VLG</title>
+    <link>https://vlgiitr.github.io/previous_discussions/</link>
+      <atom:link href="https://vlgiitr.github.io/previous_discussions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Previous_discussions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Previous_discussions</title>
+      <link>https://vlgiitr.github.io/previous_discussions/</link>
+    </image>
+    
+    <item>
+      <title>Autumn 2020 Discussions</title>
+      <link>https://vlgiitr.github.io/previous_discussions/aut_2020/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/previous_discussions/aut_2020/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;We conduct two discussions every week where we dicuss the basic concepts and recent advancements in the field of Deep Learning.&lt;/p&gt;
+&lt;h3 id=&#34;basic-discussions&#34;&gt;Basic Discussions&lt;/h3&gt;
+&lt;p&gt;We discuss a few fundamental concepts on Wednesdays.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Resources&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;04-08-2020&lt;/td&gt;
+&lt;td&gt;Linear Algebra&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1Wk6EPIQ7Cy7MUNKUpDPS5R-MrxbHm0zJ/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11-08-2020&lt;/td&gt;
+&lt;td&gt;Probability&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ZBubLdkpE_pb-mvy6fDltC3AcZeQsZRO/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;19-08-2020&lt;/td&gt;
+&lt;td&gt;Neural Networks and CNNs&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1-0xcef-gOU590ucez6D9RlXtk1fyX9Eh/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;26-08-2020&lt;/td&gt;
+&lt;td&gt;Basic CNN architectures&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1FybB6XIyqG1V1ezJwif70-2czRdY2PCw/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;02-09-2020&lt;/td&gt;
+&lt;td&gt;RNNs&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/10nr5omq9ELJUP-NxIEU0ZOjqi7V2M_Jc/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09-09-2020&lt;/td&gt;
+&lt;td&gt;VAE&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/142-qoBEV3-rBO-FsFdxhRr420U6PzMfN/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;16-09-2020&lt;/td&gt;
+&lt;td&gt;GANs&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1FNmDho1huVCQeG-iZcVyVpE6Z8UmhBbTqe0FYu2xf8o/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;23-09-2020&lt;/td&gt;
+&lt;td&gt;Embeddings&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1j8f4eKZteAs2gx30KHtTl-u1M2ASn8Hgjmbsph-naWI/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30-09-2020&lt;/td&gt;
+&lt;td&gt;Attention and Transformer&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1JcKHknv3a33eDIJvO72MMfTqYIMJ0cyeJ2LeFtgapXU/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;07-10-2020&lt;/td&gt;
+&lt;td&gt;ELMo and BERT&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1cnIyEpPKKp91g5d6vkfzk_k2T07Du2PQ/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14-10-2020&lt;/td&gt;
+&lt;td&gt;RL-I: MDPs, Bellman Equations&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1neAp21D7DUCdnK--5DNaB5HWwSrzeKh7/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides-A&lt;/a&gt;  &lt;a href=&#34;https://drive.google.com/file/d/1HQhnvmZ5hPTxR1b2khlluJyVlqIx7Q16/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides-B&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11-11-2020&lt;/td&gt;
+&lt;td&gt;Graph Neural Networks&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://drive.google.com/file/d/1CUCpubZElLWfnCi-JPE5mUXLgb-Bzyfo/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;advanced-discussions&#34;&gt;Advanced Discussions&lt;/h3&gt;
+&lt;p&gt;We discuss the latest papers published in top tier conferences on Saturdays.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width:75px&#34;&gt;Date&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;Paper 1&lt;/th&gt;
+&lt;th&gt;&lt;div style=&#34;width:120px&#34;&gt;Link&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;Paper 2&lt;/th&gt;
+&lt;th&gt;&lt;div style=&#34;width:120px&#34;&gt;Link&lt;/div&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;01-08-2020&lt;/td&gt;
+&lt;td&gt;Reinforced active  learning for image  segmentation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2002.06583&#34;&gt;https://arxiv.org/abs/2002.06583&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Enhanced POET: Open-Ended Reinforcement  Learning through Unbounded Invention of  Learning Challenges and their Solutions&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2003.08536&#34;&gt;https://arxiv.org/abs/2003.08536&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08-08-2020&lt;/td&gt;
+&lt;td&gt;Towards Recognizing  Unseen Categories in  Unseen Domains&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2007.12256&#34;&gt;https://arxiv.org/abs/2007.12256&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Neural Arithmetic Units&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2001.05016&#34;&gt;https://arxiv.org/abs/2001.05016&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;29-08-2020&lt;/td&gt;
+&lt;td&gt;Learning Memory  Access Patterns&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1803.02329&#34;&gt;https://arxiv.org/abs/1803.02329&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Equalization Loss for Long-Tailed  Object Recognition&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2003.05176&#34;&gt;https://arxiv.org/abs/2003.05176&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;05-09-2020&lt;/td&gt;
+&lt;td&gt;PnPNet: End-to-End  Perception and Prediction  with Tracking in the Loop&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2005.14711&#34;&gt;https://arxiv.org/abs/2005.14711&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;CutMix: Regularization Strategy to Train  Strong Classifiers with Localizable  Features&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1905.048993&#34;&gt;https://arxiv.org/abs/1905.048993&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;26-09-2020&lt;/td&gt;
+&lt;td&gt;Adversarial Continual  Learning&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2003.09553&#34;&gt;https://arxiv.org/abs/2003.09553&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Decentralized Reinforcement Learning:  Global Decision-Making via Local  Economic Transactions&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2007.02382&#34;&gt;https://arxiv.org/abs/2007.02382&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10-10-2020&lt;/td&gt;
+&lt;td&gt;Implicit Latent Variable  Model for Scene-Consistent  Motion Forecasting&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2007.12036&#34;&gt;https://arxiv.org/abs/2007.12036&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Large Batch Optimization for Deep Learning:  Training BERT in 76 minutes&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1904.00962&#34;&gt;https://arxiv.org/abs/1904.00962&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;31-10-2020&lt;/td&gt;
+&lt;td&gt;Causal Discovery with Reinforcement Learning&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1906.04477&#34;&gt;https://arxiv.org/abs/1906.04477&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;What Should Not Be Contrastive in Contrastive Learning&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2008.05659&#34;&gt;https://arxiv.org/abs/2008.05659&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;07-11-2020&lt;/td&gt;
+&lt;td&gt;Dual Super-Resolution Learning for Semantic Segmentation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf&#34;&gt;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Neural Architecture Search without Training Learning&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2006.04647&#34;&gt;https://arxiv.org/abs/2006.04647&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;28-11-2020&lt;/td&gt;
+&lt;td&gt;Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1708.07120&#34;&gt;https://arxiv.org/abs/1708.07120&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://iclr.cc/virtual_2020/poster_r1xMH1BtvB.html&#34;&gt;https://iclr.cc/virtual_2020/poster_r1xMH1BtvB.html&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
