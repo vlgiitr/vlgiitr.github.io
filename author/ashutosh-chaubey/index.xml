@@ -14,3 +14,23 @@
     
   </channel>
 </rss>
+image>
+    
+    <item>
+      <title>Universal Adversarial Perturbations: A Survey</title>
+      <link>https://vlgiitr.github.io/publication/uap/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/uap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generative Adversarial Network based Ensemble Technique for Automatic Evaluation of Machine Synthesized Speech</title>
+      <link>https://vlgiitr.github.io/publication/gan-ensemble/</link>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/gan-ensemble/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
