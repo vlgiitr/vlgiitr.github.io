@@ -672,5 +672,98 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Weekend Talks with Researchers</title>
+      <link>https://vlgiitr.github.io/wtr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/wtr/</guid>
+      <description>&lt;style&gt;
+  .center {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  }
+&lt;/style&gt;
+&lt;div class=&#39;center&#39;&gt;
+  &lt;iframe src=&#34;https://free.timeanddate.com/countdown/i7ukd1l7/n1863/cf100/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pcfff/tc66c/fs225/szw320/szh135/iso2021-06-26T12:00:00&#34; allowtransparency=&#34;true&#34; frameborder=&#34;0&#34; width=&#34;320&#34; height=&#34;135&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;p&gt;Hello fellow scholars, VLG is organising &lt;strong&gt;Weekend Talks with reseachers&lt;/strong&gt; this weekend. A two day culmination of researchers from different fields sharing their work and experience. Join us on 26th July.&lt;/p&gt;
+&lt;h3 id=&#34;schedule&#34;&gt;Schedule&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;day-1-26-june-2021&#34;&gt;Day 1: 26 June 2021&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;center&gt;Time&lt;/center&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;center&gt;Speaker&lt;/center&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;center&gt;Affiliation&lt;/center&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;center&gt;Topic&lt;/center&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;center&gt;Venue&lt;/center&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1600 hrs&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Speaker 1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Professor&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Topic 1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;&#34;&gt;example_link.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1800 hrs&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Speaker 2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Professor&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Topic 2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;&#34;&gt;example_link.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2000 hrs&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Speaker 3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Professor&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Topic 3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;&#34;&gt;example_link.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;day-2-27-june-2021&#34;&gt;Day 2: 27 June 2021&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;center&gt;Time&lt;/center&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;center&gt;Speaker&lt;/center&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;center&gt;Affiliation&lt;/center&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;center&gt;Topic&lt;/center&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;center&gt;Venue&lt;/center&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1600 hrs&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Dr. Lenoard Hofstader&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Professor&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Observing leptons in zero gravity&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;&#34;&gt;example_link.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;1800 hrs&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Dr. Sheldon Cooper&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Professor&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Dark matter and String Theory&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;&#34;&gt;example_link.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;2000 hrs&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Mr. Howard Wolowitz&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Engineer&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;How to get a women drive a mars rover&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;a href=&#34;&#34;&gt;example_link.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
