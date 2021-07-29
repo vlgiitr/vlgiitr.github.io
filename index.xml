@@ -5,7 +5,7 @@
     <link>https://vlgiitr.github.io/</link>
       <atom:link href="https://vlgiitr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>VLG</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>VLG</title>
@@ -21,11 +21,38 @@
     </item>
     
     <item>
-      <title>Weekend Talks with Researchers begins on 26 June !</title>
-      <link>https://vlgiitr.github.io/recents/wtr/</link>
-      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/recents/wtr/</guid>
-      <description>&lt;p&gt;Weekend Talks with Researchers is a two day event where researchers from different areas will discuss their work and experience. Starts on 26 June !!&lt;/p&gt;
+      <title>New Blog on Researching as an Undergrad Published on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/research_deku_blog/</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/research_deku_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;What doing research as an undergrad can teach you.&lt;/strong&gt; by &lt;em&gt;Ayush Mangal&lt;/em&gt; is now published on Medium. The Blog talks about the writer&amp;rsquo;s experience as a undergrad researcher with the hope that this article might motivate more people to give research a shot even if they don’t want to become a scientist and remove the stigma surrounding research from their mind. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/what-doing-research-as-an-undergrad-can-teach-you-fa6ea1836b97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What doing research as an undergrad can teach you.</title>
+      <link>https://vlgiitr.github.io/blogs/research_deku/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/research_deku/</guid>
+      <description>&lt;p&gt;What is research but a blind date with knowledge ? Explore more about researching as an undergrad with our senpai deku!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Blog on Optimizers Published on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/optimizer_blog/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/optimizer_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Optimizer: diving deep into Neural Networks&lt;/strong&gt; by &lt;em&gt;Rohan Jain&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the mathematical fundamentals followed in subject matter. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/optimizer-diving-into-deep-neural-networks-94a6ee28f7c5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizer: diving deep into Neural Networks</title>
+      <link>https://vlgiitr.github.io/blogs/optimizer/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/optimizer/</guid>
+      <description>&lt;p&gt;Waiting for the neural network to train is always annoying, make sure you use the right optimizers !&lt;/p&gt;
 </description>
     </item>
     
