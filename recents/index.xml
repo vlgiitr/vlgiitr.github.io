@@ -5,12 +5,21 @@
     <link>https://vlgiitr.github.io/recents/</link>
       <atom:link href="https://vlgiitr.github.io/recents/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Activities</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>Recent Activities</title>
       <link>https://vlgiitr.github.io/recents/</link>
     </image>
+    
+    <item>
+      <title>New Blog on Learnings during reasearch published on Medium !</title>
+      <link>https://vlgiitr.github.io/recents/noisy_research_blog/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/noisy_research_blog/</guid>
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Riding the Noisy Research Track&lt;/strong&gt; by &lt;em&gt;Jitesh Jain&lt;/em&gt; is now published on Medium. In this blog, one of our members shares his experience and learnings in research, and covers some essential guidelines for a beginner in this field. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/what-doing-research-as-an-undergrad-can-teach-you-fa6ea1836b97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Blog on Researching as an Undergrad Published on Medium !</title>
@@ -26,7 +35,7 @@
       <link>https://vlgiitr.github.io/recents/optimizer_blog/</link>
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/recents/optimizer_blog/</guid>
-      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Optimizer: diving deep into Neural Networks&lt;/strong&gt; by &lt;em&gt;Rohan Jain&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the mathematical fundamentals followed in subject matter. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/optimizer-diving-into-deep-neural-networks-94a6ee28f7c5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;The new blog on the topic &lt;strong&gt;Optimizer: diving deep into Neural Networks&lt;/strong&gt; by &lt;em&gt;Rohan Garg&lt;/em&gt; is now published on Medium. The Blog covers the basics of the topic and the mathematical fundamentals followed in subject matter. Do give the blog a read &lt;a href=&#34;https://medium.com/vlgiitr/optimizer-diving-into-deep-neural-networks-94a6ee28f7c5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
