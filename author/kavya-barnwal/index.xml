@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kavya Barnwal* | VLG</title>
+    <title>Kavya Barnwal | VLG</title>
     <link>https://vlgiitr.github.io/author/kavya-barnwal/</link>
       <atom:link href="https://vlgiitr.github.io/author/kavya-barnwal/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kavya Barnwal*</description>
+    <description>Kavya Barnwal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 May 2020 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
-      <title>Kavya Barnwal*</title>
+      <url>https://vlgiitr.github.io/author/kavya-barnwal/avatar_hue1b17bd6aac060e59240bb30a4d2fc75_625595_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Kavya Barnwal</title>
       <link>https://vlgiitr.github.io/author/kavya-barnwal/</link>
     </image>
     
-    <item>
-      <title>Universal Adversarial Perturbations: A Survey</title>
+  </channel>
+</rss>
+l Perturbations: A Survey</title>
       <link>https://vlgiitr.github.io/publication/uap/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0530</pubDate>
       <guid>https://vlgiitr.github.io/publication/uap/</guid>
