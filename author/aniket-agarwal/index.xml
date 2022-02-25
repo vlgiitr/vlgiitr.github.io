@@ -7,10 +7,26 @@
     <description>Aniket Agarwal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 May 2020 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>https://vlgiitr.github.io/author/aniket-agarwal/avatar_hu0c140ee842128d884a640c8bcf41b1d7_155431_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>Aniket Agarwal</title>
       <link>https://vlgiitr.github.io/author/aniket-agarwal/</link>
     </image>
+    
+    <item>
+      <title>Visual Relationship Detection using Scene Graphs: A Survey</title>
+      <link>https://vlgiitr.github.io/publication/scene_graph/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/scene_graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting CycleGAN for Semi-Supervised Segmentation</title>
+      <link>https://vlgiitr.github.io/publication/cycle-gan/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/cycle-gan/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
