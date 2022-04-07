@@ -904,7 +904,7 @@ The primary way to get into VLG. A 6 hours test that that will test your familia
                     Written Test
                   &lt;/div&gt;
                   &lt;div class=&#34;event-date&#34;&gt;
-                    8 April 1800 : 2359 Hrs
+                    8 April 6:00 PM - 8 April 11:59 PM
                   &lt;/div&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
@@ -917,7 +917,7 @@ The primary way to get into VLG. A 6 hours test that that will test your familia
                     Coding Assignment
                   &lt;/div&gt;
                   &lt;div class=&#34;event-date&#34;&gt;
-                    7 April : 10 April 2359Hrs
+                    7 April - 10 April 11:59 PM
                   &lt;/div&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
@@ -949,7 +949,7 @@ The primary way to get into VLG. A 6 hours test that that will test your familia
                     Design Test
                   &lt;/div&gt;
                   &lt;div class=&#34;event-date&#34;&gt;
-                    7 April 1800 : 11 April 2359 Hrs
+                    7 April 18:00 PM : 10 April 11:59 PM
                   &lt;/div&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
@@ -962,11 +962,11 @@ The primary way to get into VLG. A 6 hours test that that will test your familia
                     Project Proposal
                   &lt;/div&gt;
                   &lt;div class=&#34;event-date&#34;&gt;
-                    19 March, 2022
+                    7 April 18:00 PM : 11 April 11:59 PM
                   &lt;/div&gt;
                 &lt;/div&gt;
               &lt;/div&gt;
-              &lt;div class=&#34;lower-event&#34; event=&#34;5&#34;&gt;
+&lt;!--               &lt;div class=&#34;lower-event&#34; event=&#34;5&#34;&gt;
                 &lt;div class=&#34;event-illustration&#34;&gt;
                   &lt;img src=&#34;https://vlgiitr.github.io/assets/event_icons/4_done.png&#34; /&gt;
                 &lt;/div&gt;
@@ -978,7 +978,7 @@ The primary way to get into VLG. A 6 hours test that that will test your familia
                     To be announced soon
                   &lt;/div&gt;
                 &lt;/div&gt;
-              &lt;/div&gt;
+              &lt;/div&gt; --&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           &lt;!-- &lt;div class=&#34;timeline-mobile&#34;&gt;
@@ -1050,98 +1050,6 @@ The primary way to get into VLG. A 6 hours test that that will test your familia
           &lt;/div&gt; --&gt;
         &lt;/div&gt;
       &lt;/section&gt;
-&lt;section class=&#34;updates-section&#34;&gt;
-  &lt;div class=&#34;site-container&#34;&gt;
-    &lt;div class=&#34;updates-wrapper&#34;&gt;
-      &lt;h1 class=&#34;main-page-heading&#34;&gt;
-        &lt;div class=&#34;heading-background-box&#34;&gt;&lt;/div&gt;
-        &lt;div class=&#34;heading-text&#34;&gt;UPDATES&lt;/div&gt;
-      &lt;/h1&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;updates&#34;&gt;
-      &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;30 March, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;Tests and Projects announcements on website&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-&lt;!--       &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;16 January, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;IMG conducts Oauth workshop. Join &lt;a href=&#34;https://youtu.be/goaVZx2PcFg&#34; class=&#34;text-link&#34;&gt; Youtube Livestream &lt;/a&gt; from 5-7 PM.&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;15 January, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;IMG conducts design workshop. Join &lt;a href=&#34;https://youtu.be/MtBL-4dPc6c&#34; class=&#34;text-link&#34;&gt; Youtube Livestream &lt;/a&gt; from 5-7 PM.&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;14 January, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;IMG conducts workshop on javascript. Join &lt;a href=&#34;https://youtu.be/y5TXGy-2CiQ&#34; class=&#34;text-link&#34;&gt; Youtube Livestream &lt;/a&gt; from 5-7 PM.&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;12 January, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;
-            Design and Development winter assignments are published on the
-            website.
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;12 January, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;
-            IMG Recruitment Website is live.
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;12 January, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;IMG announces Recruitment 2022.&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;18 March, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;IMG will be conducting its Recruitment Talk on &lt;strong&gt;18 March, 2022 6:00 PM&lt;/strong&gt; on &lt;a href=&#34;https://www.youtube.com/watch?v=MJfoq2LWOVA&#34; target=&#34;_blank&#34;&gt;Youtube&lt;/a&gt;.&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;22 March, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;Winter Assignments Deadline&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;22 March, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;
-            &lt;p&gt;IMG will be conducting the Recruitment Test for Developers on &lt;strong&gt;22 March, 2022 6:00 PM&lt;/strong&gt;.&lt;/p&gt;
-            &lt;p&gt;Register &lt;a href=&#34;https://forms.channeli.in/formi/formData/form/60&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; for the test.&lt;/p&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;24 March, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;IMG announces Design Assignment for 2022&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&#34;update-item&#34;&gt;
-        &lt;div class=&#34;update-content&#34;&gt;
-          &lt;div class=&#34;update-time&#34;&gt;30 March, 2022&lt;/div&gt;
-          &lt;div class=&#34;update-text&#34;&gt;IMG announces results of Recruitment for 2022&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt; --&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/section&gt;
 </description>
     </item>
     
@@ -1200,7 +1108,7 @@ The primary way to get into VLG. A 6 hours test that that will test your familia
 &lt;tr&gt;
 &lt;td&gt;19-03-2022&lt;/td&gt;
 &lt;td&gt;Transfer Learning&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;&#34;&gt;Colab Notebook&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1-vGmphxTo4Zen2PBp6HSFPg-V9nP5w4i&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colab Notebook&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;26-03-2022&lt;/td&gt;
