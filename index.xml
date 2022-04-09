@@ -899,7 +899,7 @@ The primary way for freshers to get into VLG. A 24 hours test that will test you
   &lt;br&gt;
 &lt;/div&gt;
 &lt;!-- ----------------------- TimeLine -------------------------------- --&gt;
-&lt;!-- &lt;section class=&#34;timeline-container&#34;&gt;
+&lt;section class=&#34;timeline-container&#34;&gt;
         &lt;div class=&#34;site-container&#34;&gt;
           &lt;h1 class=&#34;main-page-heading timeline-heading&#34;&gt;
             &lt;div class=&#34;heading-background-box&#34;&gt;&lt;/div&gt;
@@ -977,7 +977,7 @@ The primary way for freshers to get into VLG. A 24 hours test that will test you
                     7 April 18:00 PM : 11 April 11:59 PM
                   &lt;/div&gt;
                 &lt;/div&gt;
-              &lt;/div&gt; --&gt;
+              &lt;/div&gt;
 &lt;!--               &lt;div class=&#34;lower-event&#34; event=&#34;5&#34;&gt;
                 &lt;div class=&#34;event-illustration&#34;&gt;
                   &lt;img src=&#34;https://vlgiitr.github.io/assets/event_icons/4_done.png&#34; /&gt;
@@ -991,78 +991,77 @@ The primary way for freshers to get into VLG. A 24 hours test that will test you
                   &lt;/div&gt;
                 &lt;/div&gt;
               &lt;/div&gt; --&gt;
-&lt;pre&gt;&lt;code&gt;        &amp;lt;/div&amp;gt;
-      &amp;lt;/div&amp;gt;
-      &amp;lt;!-- &amp;lt;div class=&amp;quot;timeline-mobile&amp;quot;&amp;gt;
-        &amp;lt;div&amp;gt;
-          &amp;lt;div class=&amp;quot;event-description-mobile&amp;quot;&amp;gt;
-            &amp;lt;div class=&amp;quot;event-heading-mobile&amp;quot;&amp;gt;
-              Workshop Series
-            &amp;lt;/div&amp;gt;
-            &amp;lt;div class=&amp;quot;event-date-mobile&amp;quot;&amp;gt;
-              14-16 January, 2022
-            &amp;lt;/div&amp;gt;
-          &amp;lt;/div&amp;gt;
-        &amp;lt;/div&amp;gt;
-        &amp;lt;div class=&amp;quot;event-complete&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
-        &amp;lt;div&amp;gt;
-          &amp;lt;div class=&amp;quot;event-description-mobile&amp;quot;&amp;gt;
-            &amp;lt;div class=&amp;quot;event-heading-mobile&amp;quot;&amp;gt;
-              Recruitment Talk
-            &amp;lt;/div&amp;gt;
-            &amp;lt;div class=&amp;quot;event-date-mobile&amp;quot;&amp;gt;
-              14 March, 2022
-            &amp;lt;/div&amp;gt;
-          &amp;lt;/div&amp;gt;
-        &amp;lt;/div&amp;gt;
-        &amp;lt;div class=&amp;quot;event-complete&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
-        &amp;lt;div&amp;gt;
-          &amp;lt;div class=&amp;quot;event-description-mobile&amp;quot;&amp;gt;
-            &amp;lt;div class=&amp;quot;event-heading-mobile&amp;quot;&amp;gt;
-              Winter Assignment Submission
-            &amp;lt;/div&amp;gt;
-            &amp;lt;div class=&amp;quot;event-date-mobile&amp;quot;&amp;gt;
-              12 March, 2022
-            &amp;lt;/div&amp;gt;
-          &amp;lt;/div&amp;gt;
-        &amp;lt;/div&amp;gt;
-        &amp;lt;div class=&amp;quot;event-complete&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
-        &amp;lt;div&amp;gt;
-          &amp;lt;div class=&amp;quot;event-description-mobile&amp;quot;&amp;gt;
-            &amp;lt;div class=&amp;quot;event-heading-mobile&amp;quot;&amp;gt;
-              Recruitment Test
-            &amp;lt;/div&amp;gt;
-            &amp;lt;div class=&amp;quot;event-date-mobile&amp;quot;&amp;gt;
-              19 March, 2022
-            &amp;lt;/div&amp;gt;
-          &amp;lt;/div&amp;gt;
-        &amp;lt;/div&amp;gt;
-        &amp;lt;div class=&amp;quot;event-complete&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
-        &amp;lt;div&amp;gt;
-          &amp;lt;div class=&amp;quot;event-description-mobile&amp;quot;&amp;gt;
-            &amp;lt;div class=&amp;quot;event-heading-mobile&amp;quot;&amp;gt;
-              Interviews
-            &amp;lt;/div&amp;gt;
-            &amp;lt;div class=&amp;quot;event-date-mobile&amp;quot;&amp;gt;
-              To be announced soon
-            &amp;lt;/div&amp;gt;
-          &amp;lt;/div&amp;gt;
-        &amp;lt;/div&amp;gt;
-        &amp;lt;div class=&amp;quot;event-complete&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
-        &amp;lt;div&amp;gt;
-          &amp;lt;div class=&amp;quot;event-description-mobile&amp;quot;&amp;gt;
-            &amp;lt;div class=&amp;quot;event-heading-mobile&amp;quot;&amp;gt;
-              Results declared
-            &amp;lt;/div&amp;gt;
-            &amp;lt;div class=&amp;quot;event-date-mobile&amp;quot;&amp;gt;
-              To be announced
-            &amp;lt;/div&amp;gt;
-          &amp;lt;/div&amp;gt;
-        &amp;lt;/div&amp;gt;
-      &amp;lt;/div&amp;gt; --&amp;gt;
-    &amp;lt;!-- &amp;lt;/div&amp;gt;
-  &amp;lt;/section&amp;gt; --&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;!-- &lt;div class=&#34;timeline-mobile&#34;&gt;
+            &lt;div&gt;
+              &lt;div class=&#34;event-description-mobile&#34;&gt;
+                &lt;div class=&#34;event-heading-mobile&#34;&gt;
+                  Workshop Series
+                &lt;/div&gt;
+                &lt;div class=&#34;event-date-mobile&#34;&gt;
+                  14-16 January, 2022
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;event-complete&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;
+              &lt;div class=&#34;event-description-mobile&#34;&gt;
+                &lt;div class=&#34;event-heading-mobile&#34;&gt;
+                  Recruitment Talk
+                &lt;/div&gt;
+                &lt;div class=&#34;event-date-mobile&#34;&gt;
+                  14 March, 2022
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;event-complete&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;
+              &lt;div class=&#34;event-description-mobile&#34;&gt;
+                &lt;div class=&#34;event-heading-mobile&#34;&gt;
+                  Winter Assignment Submission
+                &lt;/div&gt;
+                &lt;div class=&#34;event-date-mobile&#34;&gt;
+                  12 March, 2022
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;event-complete&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;
+              &lt;div class=&#34;event-description-mobile&#34;&gt;
+                &lt;div class=&#34;event-heading-mobile&#34;&gt;
+                  Recruitment Test
+                &lt;/div&gt;
+                &lt;div class=&#34;event-date-mobile&#34;&gt;
+                  19 March, 2022
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;event-complete&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;
+              &lt;div class=&#34;event-description-mobile&#34;&gt;
+                &lt;div class=&#34;event-heading-mobile&#34;&gt;
+                  Interviews
+                &lt;/div&gt;
+                &lt;div class=&#34;event-date-mobile&#34;&gt;
+                  To be announced soon
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;event-complete&#34;&gt;&lt;/div&gt;
+            &lt;div&gt;
+              &lt;div class=&#34;event-description-mobile&#34;&gt;
+                &lt;div class=&#34;event-heading-mobile&#34;&gt;
+                  Results declared
+                &lt;/div&gt;
+                &lt;div class=&#34;event-date-mobile&#34;&gt;
+                  To be announced
+                &lt;/div&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt; --&gt;
+        &lt;!-- &lt;/div&gt;
+      &lt;/section&gt; --&gt;
 </description>
     </item>
     
