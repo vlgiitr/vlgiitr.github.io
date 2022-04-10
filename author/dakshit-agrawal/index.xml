@@ -7,14 +7,13 @@
     <description>Dakshit Agrawal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>https://vlgiitr.github.io/author/dakshit-agrawal/avatar_hu620621b5fa7ae7c3046269dd023dbdae_255993_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>Dakshit Agrawal</title>
       <link>https://vlgiitr.github.io/author/dakshit-agrawal/</link>
     </image>
     
-  </channel>
-</rss>
-y Learned Hierarchical Generative Framework for Multi-Modal Data Distributions</title>
+    <item>
+      <title>GAN-Tree: An Incrementally Learned Hierarchical Generative Framework for Multi-Modal Data Distributions</title>
       <link>https://vlgiitr.github.io/publication/gan-tree/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0530</pubDate>
       <guid>https://vlgiitr.github.io/publication/gan-tree/</guid>
