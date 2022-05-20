@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keerat Kaur Guliani* | VLG</title>
+    <title>Keerat Kaur Guliani | VLG</title>
     <link>https://vlgiitr.github.io/author/keerat-kaur-guliani/</link>
       <atom:link href="https://vlgiitr.github.io/author/keerat-kaur-guliani/index.xml" rel="self" type="application/rss+xml" />
-    <description>Keerat Kaur Guliani*</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0530</lastBuildDate>
+    <description>Keerat Kaur Guliani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
-      <title>Keerat Kaur Guliani*</title>
+      <url>https://vlgiitr.github.io/author/keerat-kaur-guliani/avatar_hu50de11ef8c16037afbad757a6638795f_103880_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Keerat Kaur Guliani</title>
       <link>https://vlgiitr.github.io/author/keerat-kaur-guliani/</link>
     </image>
-    
-    <item>
-      <title>Less Wrong COVID-19 Projections With Interactive Assumptions</title>
-      <link>https://vlgiitr.github.io/publication/covision/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/publication/covision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VacSIM: Learning Effective Strategies for COVID-19 Vaccine Distribution using Reinforcement Learning</title>
-      <link>https://vlgiitr.github.io/publication/vacsim/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/publication/vacsim/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
