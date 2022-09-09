@@ -5,12 +5,68 @@
     <link>https://vlgiitr.github.io/publication/</link>
       <atom:link href="https://vlgiitr.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
       <link>https://vlgiitr.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Keys to Better Image Inpainting: Structure and Texture Go Hand in Hand</title>
+      <link>https://vlgiitr.github.io/publication/imageimpainting/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/imageimpainting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Guided Meta-Control for Embodied Instruction Following</title>
+      <link>https://vlgiitr.github.io/publication/metacontrolforembodiedinstructionfollowing/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/metacontrolforembodiedinstructionfollowing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Dependency Grammar for Fine-Grained Offensive Language Detection using Graph Convolutional Networks</title>
+      <link>https://vlgiitr.github.io/publication/levragingdependencygrammer/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/levragingdependencygrammer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On The Cross-Modal Transfer from Natural Language to Code through Adapter Modules</title>
+      <link>https://vlgiitr.github.io/publication/crossmodeltransfenlp/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/crossmodeltransfenlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition</title>
+      <link>https://vlgiitr.github.io/publication/reitransformer/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/reitransformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SeMask: Semantically Masked Transformers for Semantic Segmentation</title>
+      <link>https://vlgiitr.github.io/publication/semask/</link>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/semask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Long tail Visual Relationship Recognition with Large Vocabulary</title>
+      <link>https://vlgiitr.github.io/publication/longtailvisualrelationshipwithlargevocab/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/longtailvisualrelationshipwithlargevocab/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multimodal Multi-Task Financial Risk Forecasting</title>

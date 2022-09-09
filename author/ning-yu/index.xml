@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ning Yu | VLG</title>
+    <link>https://vlgiitr.github.io/author/ning-yu/</link>
+      <atom:link href="https://vlgiitr.github.io/author/ning-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ning Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Ning Yu</title>
+      <link>https://vlgiitr.github.io/author/ning-yu/</link>
+    </image>
+    
+    <item>
+      <title>Keys to Better Image Inpainting: Structure and Texture Go Hand in Hand</title>
+      <link>https://vlgiitr.github.io/publication/imageimpainting/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/imageimpainting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

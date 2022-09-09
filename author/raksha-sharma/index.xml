@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raksha Sharma | VLG</title>
+    <link>https://vlgiitr.github.io/author/raksha-sharma/</link>
+      <atom:link href="https://vlgiitr.github.io/author/raksha-sharma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raksha Sharma</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <title>Raksha Sharma</title>
+      <link>https://vlgiitr.github.io/author/raksha-sharma/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging Dependency Grammar for Fine-Grained Offensive Language Detection using Graph Convolutional Networks</title>
+      <link>https://vlgiitr.github.io/publication/levragingdependencygrammer/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/levragingdependencygrammer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
