@@ -5,7 +5,7 @@
     <link>https://vlgiitr.github.io/</link>
       <atom:link href="https://vlgiitr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>VLG</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>VLG</title>
@@ -18,6 +18,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/blogs/posts/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>DL Discussions Fall Semeseter 2022</title>
+      <link>https://vlgiitr.github.io/recents/workshop2021/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/workshop2021/</guid>
+      <description>&lt;p&gt;DL Discusions by VLG for the Fall Semester 2022 start on 24th September. Stay Tuned&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -91,11 +100,38 @@
     </item>
     
     <item>
+      <title>Weekly AI quiz on Instagram</title>
+      <link>https://vlgiitr.github.io/recents/weekly_quiz/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/weekly_quiz/</guid>
+      <description>&lt;p&gt;VLG now organises weekly quizes on out &lt;a href=&#34;https://www.instagram.com/vlgiitr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagram&lt;/a&gt;. Hop in every Wednesday and flex your DL knowledge !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Keys to Better Image Inpainting: Structure and Texture Go Hand in Hand</title>
       <link>https://vlgiitr.github.io/publication/imageimpainting/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0530</pubDate>
       <guid>https://vlgiitr.github.io/publication/imageimpainting/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>DL Infographics on Instagram</title>
+      <link>https://vlgiitr.github.io/recents/ai_bi_weekly_infographs/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/ai_bi_weekly_infographs/</guid>
+      <description>&lt;p&gt;We are starting our forthnightly infographic series on &lt;a href=&#34;https://www.instagram.com/vlgiitr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Members of VLG grab Gold Medal in Inter-IIT Tech Meet 10.0</title>
+      <link>https://vlgiitr.github.io/recents/inter-iit/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/inter-iit/</guid>
+      <description>&lt;p&gt;Members of VLG &lt;em&gt;Harsh Kumar&lt;/em&gt;, &amp;ldquo;&lt;em&gt;Kumar Devesh&lt;/em&gt;&amp;quot;, &amp;ldquo;&lt;em&gt;Sarthak Gupta&lt;/em&gt;&amp;quot;, participated in the High Prep Event - &amp;ldquo;Bosch model extraction attack for video classification&amp;rdquo; and grabbed GOLD Medal. Congratulations !!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -112,6 +148,15 @@
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0530</pubDate>
       <guid>https://vlgiitr.github.io/publication/levragingdependencygrammer/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Password Cracking</title>
+      <link>https://vlgiitr.github.io/blogs/password_cracking/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/password_cracking/</guid>
+      <description>&lt;p&gt;On hearing the term &amp;ldquo;password-cracking,&amp;rdquo; many will think this post will be about how to guess someone&amp;rsquo;s password or somewhat similar, but the reality is not always so satisfying.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -417,25 +462,6 @@ Team Code : z1q54os&lt;/p&gt;
     </item>
     
     <item>
-      <title>Workshops 2021</title>
-      <link>https://vlgiitr.github.io/recents/workshop2021/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/recents/workshop2021/</guid>
-      <description>&lt;p&gt;We conducted a two day workshop covering:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Basics of CNNs and Pytorch&lt;/strong&gt; on &lt;em&gt;25&lt;sup&gt;th&lt;/sup&gt; March, 2021&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Generative Modelling using GANs&lt;/strong&gt; on &lt;em&gt;26&lt;sup&gt;th&lt;/sup&gt; March, 2021&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can find the recordings on &lt;a href=&#34;https://drive.google.com/drive/folders/1Q047UTLdP6GFV7G3cod-t4wAo_miM58s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For the colab notebooks and other instructions, please check out the &lt;a href=&#34;https://github.com/vlgiitr/Workshop_2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official Repo on GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Autumn 2020 Discussions</title>
       <link>https://vlgiitr.github.io/previous_discussions/aut_2020/</link>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
@@ -676,24 +702,6 @@ Team Code : z1q54os&lt;/p&gt;
     </item>
     
     <item>
-      <title>Weekly AI quiz on Instagram</title>
-      <link>https://vlgiitr.github.io/recents/weekly_quiz/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/recents/weekly_quiz/</guid>
-      <description>&lt;p&gt;VLG now organises weekly quizes on out &lt;a href=&#34;https://www.instagram.com/vlgiitr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagram&lt;/a&gt;. Hop in every Wednesday and flex your DL knowledge !&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DL Infographics on Instagram</title>
-      <link>https://vlgiitr.github.io/recents/ai_bi_weekly_infographs/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/recents/ai_bi_weekly_infographs/</guid>
-      <description>&lt;p&gt;We are starting our forthnightly infographic series on &lt;a href=&#34;https://www.instagram.com/vlgiitr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Basic and Advanced Discussions for the Autumn Semester (2020-21) restart!</title>
       <link>https://vlgiitr.github.io/recents/disc/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
@@ -717,15 +725,6 @@ Team Code : z1q54os&lt;/p&gt;
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/project/papers_we_read/</guid>
       <description>&lt;p&gt;The repo contains summaries of various papers we discuss in our regular discussions and also some other recent papers which we feel have some really exciting contributions for the field.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Members of VLG grab Gold Medal in Inter-IIT Tech Meet 10.0</title>
-      <link>https://vlgiitr.github.io/recents/inter-iit/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/recents/inter-iit/</guid>
-      <description>&lt;p&gt;Members of VLG &lt;em&gt;Harsh Kumar&lt;/em&gt;, &amp;ldquo;&lt;em&gt;Kumar Devesh&lt;/em&gt;&amp;quot;, &amp;ldquo;&lt;em&gt;Sarthak Gupta&lt;/em&gt;&amp;quot;, participated in the High Prep Event - &amp;ldquo;Bosch model extraction attack for video classification&amp;rdquo; and grabbed GOLD Medal. Congratulations !!&lt;/p&gt;
 </description>
     </item>
     
@@ -1215,6 +1214,16 @@ The primary way for freshers to get into VLG. A 24 hours test that will test you
           &lt;/div&gt; --&gt;
         &lt;!-- &lt;/div&gt;
       &lt;/section&gt; --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://vlgiitr.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/archives/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;open-projectshahahugoshortcode-s0-hbhb&#34;&gt;&lt;a href=&#34;https://vlgiitr.github.io/open_projects/&#34;&gt;Open Projects&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     

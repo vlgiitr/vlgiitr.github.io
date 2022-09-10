@@ -5,12 +5,48 @@
     <link>https://vlgiitr.github.io/recents/</link>
       <atom:link href="https://vlgiitr.github.io/recents/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Activities</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>Recent Activities</title>
       <link>https://vlgiitr.github.io/recents/</link>
     </image>
+    
+    <item>
+      <title>DL Discussions Fall Semeseter 2022</title>
+      <link>https://vlgiitr.github.io/recents/workshop2021/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/workshop2021/</guid>
+      <description>&lt;p&gt;DL Discusions by VLG for the Fall Semester 2022 start on 24th September. Stay Tuned&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weekly AI quiz on Instagram</title>
+      <link>https://vlgiitr.github.io/recents/weekly_quiz/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/weekly_quiz/</guid>
+      <description>&lt;p&gt;VLG now organises weekly quizes on out &lt;a href=&#34;https://www.instagram.com/vlgiitr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagram&lt;/a&gt;. Hop in every Wednesday and flex your DL knowledge !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DL Infographics on Instagram</title>
+      <link>https://vlgiitr.github.io/recents/ai_bi_weekly_infographs/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/ai_bi_weekly_infographs/</guid>
+      <description>&lt;p&gt;We are starting our forthnightly infographic series on &lt;a href=&#34;https://www.instagram.com/vlgiitr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Members of VLG grab Gold Medal in Inter-IIT Tech Meet 10.0</title>
+      <link>https://vlgiitr.github.io/recents/inter-iit/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recents/inter-iit/</guid>
+      <description>&lt;p&gt;Members of VLG &lt;em&gt;Harsh Kumar&lt;/em&gt;, &amp;ldquo;&lt;em&gt;Kumar Devesh&lt;/em&gt;&amp;quot;, &amp;ldquo;&lt;em&gt;Sarthak Gupta&lt;/em&gt;&amp;quot;, participated in the High Prep Event - &amp;ldquo;Bosch model extraction attack for video classification&amp;rdquo; and grabbed GOLD Medal. Congratulations !!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Blog on Learnings during research published on Medium!</title>
@@ -40,25 +76,6 @@
     </item>
     
     <item>
-      <title>Workshops 2021</title>
-      <link>https://vlgiitr.github.io/recents/workshop2021/</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/recents/workshop2021/</guid>
-      <description>&lt;p&gt;We conducted a two day workshop covering:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Basics of CNNs and Pytorch&lt;/strong&gt; on &lt;em&gt;25&lt;sup&gt;th&lt;/sup&gt; March, 2021&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Generative Modelling using GANs&lt;/strong&gt; on &lt;em&gt;26&lt;sup&gt;th&lt;/sup&gt; March, 2021&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can find the recordings on &lt;a href=&#34;https://drive.google.com/drive/folders/1Q047UTLdP6GFV7G3cod-t4wAo_miM58s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Drive&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For the colab notebooks and other instructions, please check out the &lt;a href=&#34;https://github.com/vlgiitr/Workshop_2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official Repo on GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>New Blog on Metric Learning Published on Medium!</title>
       <link>https://vlgiitr.github.io/recents/metric_blog/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
@@ -78,24 +95,6 @@
     </item>
     
     <item>
-      <title>Weekly AI quiz on Instagram</title>
-      <link>https://vlgiitr.github.io/recents/weekly_quiz/</link>
-      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/recents/weekly_quiz/</guid>
-      <description>&lt;p&gt;VLG now organises weekly quizes on out &lt;a href=&#34;https://www.instagram.com/vlgiitr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagram&lt;/a&gt;. Hop in every Wednesday and flex your DL knowledge !&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DL Infographics on Instagram</title>
-      <link>https://vlgiitr.github.io/recents/ai_bi_weekly_infographs/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/recents/ai_bi_weekly_infographs/</guid>
-      <description>&lt;p&gt;We are starting our forthnightly infographic series on &lt;a href=&#34;https://www.instagram.com/vlgiitr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Basic and Advanced Discussions for the Autumn Semester (2020-21) restart!</title>
       <link>https://vlgiitr.github.io/recents/disc/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
@@ -110,15 +109,6 @@
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/recents/talk_shagun/</guid>
       <description>&lt;p&gt;The core members of the group had a very informative talk and discussion with our alumnus, Shagun Sodhani (&lt;a href=&#34;https://shagunsodhani.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Profile&lt;/a&gt;). He is currently a research engineer at FAIR and was one of the co-founders of ACM, IIT Roorkee Chapter. He shared experiences of his undergrad years, and also some of the crucial advice to our current members.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Members of VLG grab Gold Medal in Inter-IIT Tech Meet 10.0</title>
-      <link>https://vlgiitr.github.io/recents/inter-iit/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/recents/inter-iit/</guid>
-      <description>&lt;p&gt;Members of VLG &lt;em&gt;Harsh Kumar&lt;/em&gt;, &amp;ldquo;&lt;em&gt;Kumar Devesh&lt;/em&gt;&amp;quot;, &amp;ldquo;&lt;em&gt;Sarthak Gupta&lt;/em&gt;&amp;quot;, participated in the High Prep Event - &amp;ldquo;Bosch model extraction attack for video classification&amp;rdquo; and grabbed GOLD Medal. Congratulations !!&lt;/p&gt;
 </description>
     </item>
     
