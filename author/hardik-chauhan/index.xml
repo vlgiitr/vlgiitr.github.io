@@ -7,10 +7,18 @@
     <description>Hardik Chauhan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>https://vlgiitr.github.io/author/hardik-chauhan/avatar_huad65e9be077708bfed8e5e7616e529fa_126910_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
       <title>Hardik Chauhan</title>
       <link>https://vlgiitr.github.io/author/hardik-chauhan/</link>
     </image>
+    
+    <item>
+      <title>An Attention Model for Group Level Emotion Recognition</title>
+      <link>https://vlgiitr.github.io/publication/att/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0530</pubDate>
+      <guid>https://vlgiitr.github.io/publication/att/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

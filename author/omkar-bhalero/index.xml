@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>✱Omkar Bhalero | VLG</title>
+    <title>Omkar Bhalero | VLG</title>
     <link>https://vlgiitr.github.io/author/omkar-bhalero/</link>
       <atom:link href="https://vlgiitr.github.io/author/omkar-bhalero/index.xml" rel="self" type="application/rss+xml" />
-    <description>✱Omkar Bhalero</description>
+    <description>Omkar Bhalero</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
-      <title>✱Omkar Bhalero</title>
+      <url>https://vlgiitr.github.io/author/omkar-bhalero/avatar_hu6f2cb05204c95b2c36efc9aeaef12ba7_155886_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Omkar Bhalero</title>
       <link>https://vlgiitr.github.io/author/omkar-bhalero/</link>
     </image>
-    
-    <item>
-      <title>DEAP Cache: Deep Eviction Admission and Prefetching for Cache</title>
-      <link>https://vlgiitr.github.io/publication/deap/</link>
-      <pubDate>Sat, 19 Sep 2020 00:00:00 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/publication/deap/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
