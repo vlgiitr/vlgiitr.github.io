@@ -7,7 +7,7 @@
     <description>VLG</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
       <title>VLG</title>
       <link>https://vlgiitr.github.io/</link>
     </image>
@@ -111,7 +111,7 @@
     <item>
       <title>Keys to Better Image Inpainting: Structure and Texture Go Hand in Hand</title>
       <link>https://vlgiitr.github.io/publication/imageimpainting/</link>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/imageimpainting/</guid>
       <description></description>
     </item>
@@ -130,14 +130,14 @@
       <link>https://vlgiitr.github.io/recents/inter-iit/</link>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/recents/inter-iit/</guid>
-      <description>&lt;p&gt;Members of VLG &lt;em&gt;Harsh Kumar&lt;/em&gt;, &amp;ldquo;&lt;em&gt;Kumar Devesh&lt;/em&gt;&amp;quot;, &amp;ldquo;&lt;em&gt;Sarthak Gupta&lt;/em&gt;&amp;quot;, participated in the High Prep Event - &amp;ldquo;Bosch model extraction attack for video classification&amp;rdquo; and grabbed GOLD Medal. Congratulations !!&lt;/p&gt;
+      <description>&lt;p&gt;Members of VLG &lt;em&gt;Harsh Kumar&lt;/em&gt;, &amp;ldquo;&lt;em&gt;Kumar Devesh&lt;/em&gt;&amp;rdquo;, &amp;ldquo;&lt;em&gt;Sarthak Gupta&lt;/em&gt;&amp;rdquo;, participated in the High Prep Event - &amp;ldquo;Bosch model extraction attack for video classification&amp;rdquo; and grabbed GOLD Medal. Congratulations !!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Language Guided Meta-Control for Embodied Instruction Following</title>
       <link>https://vlgiitr.github.io/publication/metacontrolforembodiedinstructionfollowing/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/metacontrolforembodiedinstructionfollowing/</guid>
       <description></description>
     </item>
@@ -145,7 +145,7 @@
     <item>
       <title>Leveraging Dependency Grammar for Fine-Grained Offensive Language Detection using Graph Convolutional Networks</title>
       <link>https://vlgiitr.github.io/publication/levragingdependencygrammer/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/levragingdependencygrammer/</guid>
       <description></description>
     </item>
@@ -162,7 +162,7 @@
     <item>
       <title>On The Cross-Modal Transfer from Natural Language to Code through Adapter Modules</title>
       <link>https://vlgiitr.github.io/publication/crossmodeltransfenlp/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/crossmodeltransfenlp/</guid>
       <description></description>
     </item>
@@ -170,7 +170,7 @@
     <item>
       <title>RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition</title>
       <link>https://vlgiitr.github.io/publication/reitransformer/</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/reitransformer/</guid>
       <description></description>
     </item>
@@ -178,7 +178,7 @@
     <item>
       <title>SeMask: Semantically Masked Transformers for Semantic Segmentation</title>
       <link>https://vlgiitr.github.io/publication/semask/</link>
-      <pubDate>Thu, 23 Dec 2021 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/semask/</guid>
       <description></description>
     </item>
@@ -314,7 +314,7 @@ Team Code : z1q54os&lt;/p&gt;
     <item>
       <title>Exploring Long tail Visual Relationship Recognition with Large Vocabulary</title>
       <link>https://vlgiitr.github.io/publication/longtailvisualrelationshipwithlargevocab/</link>
-      <pubDate>Sat, 25 Sep 2021 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/longtailvisualrelationshipwithlargevocab/</guid>
       <description></description>
     </item>
@@ -370,37 +370,37 @@ Team Code : z1q54os&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;20-02-2021&lt;/td&gt;
 &lt;td&gt;GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2011.12100&#34;&gt;https://arxiv.org/abs/2011.12100&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2011.12100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2011.12100&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Swapping Autoencoder for Deep Image Manipulation&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://taesung.me/SwappingAutoencoder/&#34;&gt;https://taesung.me/SwappingAutoencoder/&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://taesung.me/SwappingAutoencoder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://taesung.me/SwappingAutoencoder/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;27-02-2021&lt;/td&gt;
 &lt;td&gt;ActionBytes: Learning from Trimmed Videos to Localize Actions&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content_CVPR_2020/papers/Jain_ActionBytes_Learning_From_Trimmed_Videos_to_Localize_Actions_CVPR_2020_paper.pdf&#34;&gt;https://openaccess.thecvf.com/content_CVPR_2020/papers/Jain_ActionBytes_Learning_From_Trimmed_Videos_to_Localize_Actions_CVPR_2020_paper.pdf&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content_CVPR_2020/papers/Jain_ActionBytes_Learning_From_Trimmed_Videos_to_Localize_Actions_CVPR_2020_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openaccess.thecvf.com/content_CVPR_2020/papers/Jain_ActionBytes_Learning_From_Trimmed_Videos_to_Localize_Actions_CVPR_2020_paper.pdf&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;The Importance of Modeling Data Missingness in Algorithmic Fairness: A Causal Perspective&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2012.11448&#34;&gt;https://arxiv.org/abs/2012.11448&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2012.11448&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2012.11448&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;13-03-2021&lt;/td&gt;
 &lt;td&gt;Ultra-Data-Efficient GAN Training: Drawing A Lottery Ticket First, Then Training It Toughly&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2103.00397v1&#34;&gt;https://arxiv.org/abs/2103.00397v1&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2103.00397v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2103.00397v1&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2010.11929&#34;&gt;https://arxiv.org/abs/2010.11929&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2010.11929&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2010.11929&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;24-04-2021&lt;/td&gt;
 &lt;td&gt;PREDICT &amp;amp; CLUSTER: Unsupervised Skeleton Based Action Recognition&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1911.12409&#34;&gt;https://arxiv.org/abs/1911.12409&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1911.12409&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/1911.12409&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Dynamic Convolutions: Exploiting Spatial Sparsity for Faster Inference&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1912.03203&#34;&gt;https://arxiv.org/abs/1912.03203&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1912.03203&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/1912.03203&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;01-05-2021&lt;/td&gt;
 &lt;td&gt;SCOUT: Self-aware Discriminant Counterfactual Explanations&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_SCOUT_Self-Aware_Discriminant_Counterfactual_Explanations_CVPR_2020_paper.pdf&#34;&gt;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_SCOUT_Self-Aware_Discriminant_Counterfactual_Explanations_CVPR_2020_paper.pdf&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_SCOUT_Self-Aware_Discriminant_Counterfactual_Explanations_CVPR_2020_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_SCOUT_Self-Aware_Discriminant_Counterfactual_Explanations_CVPR_2020_paper.pdf&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;High-performance brain-to-text communication via imagined handwriting&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1.full.pdf&#34;&gt;https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1.full.pdf&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1.full.pdf&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -557,65 +557,65 @@ Team Code : z1q54os&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;01-08-2020&lt;/td&gt;
 &lt;td&gt;Reinforced active  learning for image  segmentation&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2002.06583&#34;&gt;https://arxiv.org/abs/2002.06583&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2002.06583&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2002.06583&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Enhanced POET: Open-Ended Reinforcement  Learning through Unbounded Invention of  Learning Challenges and their Solutions&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2003.08536&#34;&gt;https://arxiv.org/abs/2003.08536&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2003.08536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2003.08536&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;08-08-2020&lt;/td&gt;
 &lt;td&gt;Towards Recognizing  Unseen Categories in  Unseen Domains&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2007.12256&#34;&gt;https://arxiv.org/abs/2007.12256&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2007.12256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2007.12256&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Neural Arithmetic Units&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2001.05016&#34;&gt;https://arxiv.org/abs/2001.05016&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2001.05016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2001.05016&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;29-08-2020&lt;/td&gt;
 &lt;td&gt;Learning Memory  Access Patterns&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1803.02329&#34;&gt;https://arxiv.org/abs/1803.02329&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1803.02329&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/1803.02329&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Equalization Loss for Long-Tailed  Object Recognition&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2003.05176&#34;&gt;https://arxiv.org/abs/2003.05176&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2003.05176&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2003.05176&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;05-09-2020&lt;/td&gt;
 &lt;td&gt;PnPNet: End-to-End  Perception and Prediction  with Tracking in the Loop&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2005.14711&#34;&gt;https://arxiv.org/abs/2005.14711&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2005.14711&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2005.14711&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;CutMix: Regularization Strategy to Train  Strong Classifiers with Localizable  Features&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1905.048993&#34;&gt;https://arxiv.org/abs/1905.048993&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1905.048993&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/1905.048993&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;26-09-2020&lt;/td&gt;
 &lt;td&gt;Adversarial Continual  Learning&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2003.09553&#34;&gt;https://arxiv.org/abs/2003.09553&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2003.09553&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2003.09553&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Decentralized Reinforcement Learning:  Global Decision-Making via Local  Economic Transactions&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2007.02382&#34;&gt;https://arxiv.org/abs/2007.02382&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2007.02382&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2007.02382&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10-10-2020&lt;/td&gt;
 &lt;td&gt;Implicit Latent Variable  Model for Scene-Consistent  Motion Forecasting&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2007.12036&#34;&gt;https://arxiv.org/abs/2007.12036&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2007.12036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2007.12036&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Large Batch Optimization for Deep Learning:  Training BERT in 76 minutes&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1904.00962&#34;&gt;https://arxiv.org/abs/1904.00962&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1904.00962&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/1904.00962&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;31-10-2020&lt;/td&gt;
 &lt;td&gt;Causal Discovery with Reinforcement Learning&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1906.04477&#34;&gt;https://arxiv.org/abs/1906.04477&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1906.04477&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/1906.04477&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;What Should Not Be Contrastive in Contrastive Learning&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2008.05659&#34;&gt;https://arxiv.org/abs/2008.05659&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2008.05659&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2008.05659&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;07-11-2020&lt;/td&gt;
 &lt;td&gt;Dual Super-Resolution Learning for Semantic Segmentation&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf&#34;&gt;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Neural Architecture Search without Training Learning&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2006.04647&#34;&gt;https://arxiv.org/abs/2006.04647&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/2006.04647&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2006.04647&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;28-11-2020&lt;/td&gt;
 &lt;td&gt;Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1708.07120&#34;&gt;https://arxiv.org/abs/1708.07120&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://arxiv.org/abs/1708.07120&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/1708.07120&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://iclr.cc/virtual_2020/poster_r1xMH1BtvB.html&#34;&gt;https://iclr.cc/virtual_2020/poster_r1xMH1BtvB.html&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://iclr.cc/virtual_2020/poster_r1xMH1BtvB.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://iclr.cc/virtual_2020/poster_r1xMH1BtvB.html&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -625,7 +625,7 @@ Team Code : z1q54os&lt;/p&gt;
     <item>
       <title>Multimodal Multi-Task Financial Risk Forecasting</title>
       <link>https://vlgiitr.github.io/publication/mmtfrf/</link>
-      <pubDate>Mon, 12 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/mmtfrf/</guid>
       <description></description>
     </item>
@@ -649,6 +649,14 @@ Team Code : z1q54os&lt;/p&gt;
     </item>
     
     <item>
+      <title>DEAP Cache: Deep Eviction Admission and Prefetching for Cache</title>
+      <link>https://vlgiitr.github.io/publication/deap/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/deap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Cache Replacement</title>
       <link>https://vlgiitr.github.io/project/deap/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
@@ -669,17 +677,9 @@ Team Code : z1q54os&lt;/p&gt;
     </item>
     
     <item>
-      <title>DEAP Cache: Deep Eviction Admission and Prefetching for Cache</title>
-      <link>https://vlgiitr.github.io/publication/deap/</link>
-      <pubDate>Sat, 19 Sep 2020 00:00:00 +0530</pubDate>
-      <guid>https://vlgiitr.github.io/publication/deap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Less Wrong COVID-19 Projections With Interactive Assumptions</title>
       <link>https://vlgiitr.github.io/publication/covision/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/covision/</guid>
       <description></description>
     </item>
@@ -687,7 +687,7 @@ Team Code : z1q54os&lt;/p&gt;
     <item>
       <title>VacSIM: Learning Effective Strategies for COVID-19 Vaccine Distribution using Reinforcement Learning</title>
       <link>https://vlgiitr.github.io/publication/vacsim/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/vacsim/</guid>
       <description></description>
     </item>
@@ -805,7 +805,7 @@ Team Code : z1q54os&lt;/p&gt;
     <item>
       <title>Universal Adversarial Perturbations: A Survey</title>
       <link>https://vlgiitr.github.io/publication/uap/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/uap/</guid>
       <description></description>
     </item>
@@ -813,7 +813,7 @@ Team Code : z1q54os&lt;/p&gt;
     <item>
       <title>Visual Relationship Detection using Scene Graphs: A Survey</title>
       <link>https://vlgiitr.github.io/publication/scene_graph/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/scene_graph/</guid>
       <description></description>
     </item>
@@ -839,7 +839,7 @@ Team Code : z1q54os&lt;/p&gt;
     <item>
       <title>Revisiting CycleGAN for Semi-Supervised Segmentation</title>
       <link>https://vlgiitr.github.io/publication/cycle-gan/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/cycle-gan/</guid>
       <description></description>
     </item>
@@ -847,7 +847,7 @@ Team Code : z1q54os&lt;/p&gt;
     <item>
       <title>A Generative Adversarial Network based Ensemble Technique for Automatic Evaluation of Machine Synthesized Speech</title>
       <link>https://vlgiitr.github.io/publication/gan-ensemble/</link>
-      <pubDate>Sat, 02 Nov 2019 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/gan-ensemble/</guid>
       <description></description>
     </item>
@@ -864,7 +864,7 @@ Team Code : z1q54os&lt;/p&gt;
     <item>
       <title>GAN-Tree: An Incrementally Learned Hierarchical Generative Framework for Multi-Modal Data Distributions</title>
       <link>https://vlgiitr.github.io/publication/gan-tree/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/gan-tree/</guid>
       <description></description>
     </item>
@@ -980,7 +980,7 @@ Team Code : z1q54os&lt;/p&gt;
     <item>
       <title>An Attention Model for Group Level Emotion Recognition</title>
       <link>https://vlgiitr.github.io/publication/att/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/att/</guid>
       <description></description>
     </item>
@@ -1232,7 +1232,7 @@ The primary way for freshers to get into VLG. A 24 hours test that will test you
       <link>https://vlgiitr.github.io/discussions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/discussions/</guid>
-      <description>&lt;p&gt;Discussions for this semester will start by the end of September&amp;rsquo;22. Meanwhile you can look into the previous discussions below.&lt;/p&gt;
+      <description>&lt;p&gt;Discussions for this semester will start by the end of September&#39;22. Meanwhile you can look into the previous discussions below.&lt;/p&gt;
 &lt;h3 id=&#34;previous-semester-discussions&#34;&gt;Previous Semester Discussions&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://vlgiitr.github.io/previous_discussions/spring_2022_discussion/&#34;&gt;Spring 2022 Discussions&lt;/a&gt;&lt;/li&gt;
