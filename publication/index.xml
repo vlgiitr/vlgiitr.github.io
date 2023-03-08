@@ -5,9 +5,9 @@
     <link>https://vlgiitr.github.io/publication/</link>
       <atom:link href="https://vlgiitr.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_2.png</url>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
       <title>Publications</title>
       <link>https://vlgiitr.github.io/publication/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Keys to Better Image Inpainting: Structure and Texture Go Hand in Hand</title>
       <link>https://vlgiitr.github.io/publication/imageimpainting/</link>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/imageimpainting/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Language Guided Meta-Control for Embodied Instruction Following</title>
       <link>https://vlgiitr.github.io/publication/metacontrolforembodiedinstructionfollowing/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/metacontrolforembodiedinstructionfollowing/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Leveraging Dependency Grammar for Fine-Grained Offensive Language Detection using Graph Convolutional Networks</title>
       <link>https://vlgiitr.github.io/publication/levragingdependencygrammer/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/levragingdependencygrammer/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>On The Cross-Modal Transfer from Natural Language to Code through Adapter Modules</title>
       <link>https://vlgiitr.github.io/publication/crossmodeltransfenlp/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/crossmodeltransfenlp/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>RelTransformer: A Transformer-Based Long-Tail Visual Relationship Recognition</title>
       <link>https://vlgiitr.github.io/publication/reitransformer/</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/reitransformer/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>SeMask: Semantically Masked Transformers for Semantic Segmentation</title>
       <link>https://vlgiitr.github.io/publication/semask/</link>
-      <pubDate>Thu, 23 Dec 2021 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/semask/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>Exploring Long tail Visual Relationship Recognition with Large Vocabulary</title>
       <link>https://vlgiitr.github.io/publication/longtailvisualrelationshipwithlargevocab/</link>
-      <pubDate>Sat, 25 Sep 2021 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/longtailvisualrelationshipwithlargevocab/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Multimodal Multi-Task Financial Risk Forecasting</title>
       <link>https://vlgiitr.github.io/publication/mmtfrf/</link>
-      <pubDate>Mon, 12 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/mmtfrf/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>DEAP Cache: Deep Eviction Admission and Prefetching for Cache</title>
       <link>https://vlgiitr.github.io/publication/deap/</link>
-      <pubDate>Sat, 19 Sep 2020 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/deap/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@
     <item>
       <title>Less Wrong COVID-19 Projections With Interactive Assumptions</title>
       <link>https://vlgiitr.github.io/publication/covision/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/covision/</guid>
       <description></description>
     </item>
@@ -95,7 +95,7 @@
     <item>
       <title>VacSIM: Learning Effective Strategies for COVID-19 Vaccine Distribution using Reinforcement Learning</title>
       <link>https://vlgiitr.github.io/publication/vacsim/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/vacsim/</guid>
       <description></description>
     </item>
@@ -103,7 +103,7 @@
     <item>
       <title>Universal Adversarial Perturbations: A Survey</title>
       <link>https://vlgiitr.github.io/publication/uap/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/uap/</guid>
       <description></description>
     </item>
@@ -111,7 +111,7 @@
     <item>
       <title>Visual Relationship Detection using Scene Graphs: A Survey</title>
       <link>https://vlgiitr.github.io/publication/scene_graph/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/scene_graph/</guid>
       <description></description>
     </item>
@@ -119,7 +119,7 @@
     <item>
       <title>Revisiting CycleGAN for Semi-Supervised Segmentation</title>
       <link>https://vlgiitr.github.io/publication/cycle-gan/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/cycle-gan/</guid>
       <description></description>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>A Generative Adversarial Network based Ensemble Technique for Automatic Evaluation of Machine Synthesized Speech</title>
       <link>https://vlgiitr.github.io/publication/gan-ensemble/</link>
-      <pubDate>Sat, 02 Nov 2019 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/gan-ensemble/</guid>
       <description></description>
     </item>
@@ -135,7 +135,7 @@
     <item>
       <title>GAN-Tree: An Incrementally Learned Hierarchical Generative Framework for Multi-Modal Data Distributions</title>
       <link>https://vlgiitr.github.io/publication/gan-tree/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/gan-tree/</guid>
       <description></description>
     </item>
@@ -143,7 +143,7 @@
     <item>
       <title>An Attention Model for Group Level Emotion Recognition</title>
       <link>https://vlgiitr.github.io/publication/att/</link>
-      <pubDate>Thu, 02 Aug 2018 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/att/</guid>
       <description></description>
     </item>
