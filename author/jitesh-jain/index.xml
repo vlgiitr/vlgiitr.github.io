@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jitesh Jain | VLG</title>
+    <title>✱Jitesh Jain | VLG</title>
     <link>https://vlgiitr.github.io/author/jitesh-jain/</link>
       <atom:link href="https://vlgiitr.github.io/author/jitesh-jain/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jitesh Jain</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <description>✱Jitesh Jain</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
-      <title>Jitesh Jain</title>
+      <title>✱Jitesh Jain</title>
       <link>https://vlgiitr.github.io/author/jitesh-jain/</link>
     </image>
+    
+    <item>
+      <title>Keys to Better Image Inpainting: Structure and Texture Go Hand in Hand</title>
+      <link>https://vlgiitr.github.io/publication/imageimpainting/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/imageimpainting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SeMask: Semantically Masked Transformers for Semantic Segmentation</title>
+      <link>https://vlgiitr.github.io/publication/semask/</link>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/semask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEAP Cache: Deep Eviction Admission and Prefetching for Cache</title>
+      <link>https://vlgiitr.github.io/publication/deap/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/deap/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
