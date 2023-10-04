@@ -5,7 +5,7 @@
     <link>https://vlgiitr.github.io/</link>
       <atom:link href="https://vlgiitr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>VLG</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
       <title>VLG</title>
@@ -18,24 +18,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/blogs/posts/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Dismantling Disentanglement in VAEs</title>
-      <link>https://vlgiitr.github.io/blogs/distangled_vae/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/blogs/distangled_vae/</guid>
-      <description>&lt;p&gt;Over the years neuroscience has inspired many quantum leaps in Artificial Intelligence. One such remarkable development inspired by the visual ventral system of the brain is Disentangled Variational Autoencoders.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Adversarial Attacks on Aligned Language Models</title>
-      <link>https://vlgiitr.github.io/blogs/aligned_llm/</link>
-      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/blogs/aligned_llm/</guid>
-      <description>&lt;p&gt;I decided to ask a certain popular language model how to build an explosive, from everday items (for no particular reason), but it didn&amp;rsquo;t give me a plausible answer. What is happening here?&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -1044,7 +1026,7 @@ Team Code : z1q54os&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/archives/</guid>
       <description>&lt;hr&gt;
-&lt;h2 id=&#34;open-projectshahahugoshortcode-s0-hbhb&#34;&gt;&lt;a href=&#34;https://vlgiitr.github.io/open_projects/&#34;&gt;Open Projects&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;open-projectshahahugoshortcode8s0hbhb&#34;&gt;&lt;a href=&#34;https://vlgiitr.github.io/open_projects/&#34;&gt;Open Projects&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
