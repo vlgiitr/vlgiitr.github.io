@@ -76,5 +76,15 @@
 </description>
     </item>
     
+    <item>
+      <title>Sensorium 2022</title>
+      <link>https://vlgiitr.github.io/project/sensorium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/sensorium/</guid>
+      <description>&lt;p&gt;The NeurIPS 2022 The SENSORIUM competition aimed to find the best neural predictive model that can predict the activity of thousands of neurons in the primary visual cortex of mice in response to natural images.&lt;/p&gt;
+&lt;p&gt;In our submission for this competition, we attempted to improve the baseline model for the competition track- Sensorium+, where neural activity was to be predicted with given visual stimuli and other behavioural variables.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
