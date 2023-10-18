@@ -77,6 +77,18 @@
     </item>
     
     <item>
+      <title>Layer Level Loss Optimisation</title>
+      <link>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</guid>
+      <description>&lt;p&gt;An experiment in testing a novel method to train neural networks inspired by the Forward-Forward Algorithm proposed by Geoffrey Hinton by updating weights of a layer by calculating the loss at each intermediate layer instead of backpropagating the losses
+through the entire network.&lt;/p&gt;
+&lt;p&gt;In the original paper, instead of relying on the traditional forward and backward passes of backpropagation, the method utilized two forward passes — one with positive, real data and the other with negative data.
+With our modified method we were able to achieve an error rate of less than 2% for a fully connected network and convolutional network on the MNIST dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sensorium 2022</title>
       <link>https://vlgiitr.github.io/project/sensorium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
