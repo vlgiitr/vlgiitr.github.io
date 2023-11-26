@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | VLG</title>
+    <link>https://vlgiitr.github.io/posts/</link>
+      <atom:link href="https://vlgiitr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
+      <title>Posts</title>
+      <link>https://vlgiitr.github.io/posts/</link>
+    </image>
+    
+    <item>
+      <title>Dismantling Disentanglement in VAEs</title>
+      <link>https://vlgiitr.github.io/posts/vae/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/vae/</guid>
+      <description>&lt;p&gt;Over the years neuroscience has inspired many quantum leaps in Artificial Intelligence. One such remarkable development inspired by the visual ventral system of the brain is Disentangled Variational Autoencoders.&lt;/p&gt;
+&lt;p&gt;So first things first -&lt;/p&gt;
+&lt;h2 id=&#34;what-are--autoencoders&#34;&gt;What are  Autoencoders?&lt;/h2&gt;
+&lt;p&gt;In a real-world scenario,  fewer dimensions may be required to capture the information stored in a particular data point than already present. This is due to the inherent structure of the data.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dimensions.png&#34; alt=&#34;dimensions.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As shown above, in the first image data points are truly random, there is no structure to data so all three x, y, and z coordinates are necessary to represent data. While in the second image, data is restricted to a spiral, there is some structure to data so that it could be represented by just two variables.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;enc-decarch.jpeg&#34; alt=&#34;enc-decarch.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Autoencoder uses neural networks to provide an unsupervised approach to deal with data.&lt;/p&gt;
+&lt;p&gt;Data is run through a neural network and map it into a lower dimension called the latent dimension. Then that information can be decoded using a decoder. If we increase the dimensions of the latent space we would get a more detailed image but the number of dimensions required for a considerably clear reconstruction might be very less as compared to the original dimensionality .It could also be used for applications like image segmentation, denoising and neural inpainting.&lt;/p&gt;
+&lt;h3 id=&#34;how-does-it-work&#34;&gt;How does it work?&lt;/h3&gt;
+&lt;p&gt;Basically we compress the information into latent variables using non linear activation function and then run it through the decoder with the aim of recreating the input data by using just the information stored in latent variables. We calculate the reconstruction loss by comparing the output with input then try to minimize this loss by changing the parameters.&lt;/p&gt;
+&lt;h2 id=&#34;variational-autoencoders&#34;&gt;Variational Autoencoders&lt;/h2&gt;
+&lt;p&gt;We have a rough idea of autoencoders by now, so the next question which is arises is what are Variatonal Autoencoders(VAEs) and how are they different ?&lt;/p&gt;
+&lt;p&gt;In VAEs unlike traditional autoencoders the input is mapped to a distribution from which data is sampled and fed into the decoder.&lt;/p&gt;
+&lt;p&gt;Given input data $x$ and latent variable $z$ , encoder tries to learn the posterior distribution $p(z|x)$.&lt;/p&gt;
+&lt;p&gt;This posterior is intractable so VAEs use variational inference to approximate it&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Variational Inference&lt;/strong&gt; : We choose a family of distribution and then fit it to the input data by changing the parameters. This helps us learn a good approximation to intractable distribution.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;VAE.png&#34; alt=&#34;VAE.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;but-how-do-we-know-if-we-have-a-good-approximation-of-the-posterior-&#34;&gt;But how do we know if we have a good approximation of the posterior ?&lt;/h3&gt;
+&lt;p&gt;The metric we use to determine how close the approximated distribution is to the required posterior is the Kullback-Liebler Divergence.&lt;/p&gt;
+&lt;p&gt;$$
+\hat{q}(z)=\underset{q\sim Q}{\operatorname{argmax}} KL(q(z)||p(z|x))&lt;/p&gt;
+&lt;p&gt;$$&lt;/p&gt;
+&lt;p&gt;Here q(z) is the approximated distribution and Q is the family of distributions of which q is a member.&lt;/p&gt;
+&lt;p&gt;One visible problem with this is that we dont know p(z|x), so we cant calculate KL divergence directly. To deal with this we convert this into optimization problem. We will skip the maths here and directly jump to the results.&lt;/p&gt;
+&lt;p&gt;$$
+KL(q(z)||p(z|x))=-ELBO(q)+p(x)
+$$&lt;/p&gt;
+&lt;p&gt;Here ELBO is the something called the Evidence Lower Bound. It is the only term dependent on q. So we have to just maximize ELBO to minimize KL divergence and subsequently find good approximation of the posterior distributaion.&lt;/p&gt;
+&lt;h3 id=&#34;the-reparameterization-trick&#34;&gt;The Reparameterization trick:&lt;/h3&gt;
+&lt;p&gt;If one pays close attention its difficult to not notice an obvious hurdle in this model. We cant run gradient through sampling operations. So how do we train this model ? This is where the Reparameterization trick comes to rescue!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;repara.png&#34; alt=&#34;repara.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We rewrite z as :      $z=\mu +\sigma \bigodot \epsilon$ .&lt;/p&gt;
+&lt;p&gt;$\bigodot$ here represents the elementwise product of matrices or the Hadamard product&lt;/p&gt;
+&lt;p&gt;$\mu$ — Mean of the distribution&lt;/p&gt;
+&lt;p&gt;$\sigma$ —Standard Deviation&lt;/p&gt;
+&lt;p&gt;$\epsilon \sim N(0,1)$&lt;/p&gt;
+&lt;p&gt;This reparametrization splits the latent representation into deterministic and stochastic parts. Here $\mu$ and $\sigma$ are the deterministic quantities that  we train by using gradient descent, while $\epsilon$&lt;/p&gt;
+&lt;p&gt;represents the stochastic component, introducing randomness and preventing a direct one-to-one mapping of the data.&lt;/p&gt;
+&lt;h2 id=&#34;what-do-we-mean-by-disentangling&#34;&gt;What do we mean by ‘disentangling’?&lt;/h2&gt;
+&lt;p&gt;Neural networks and the information stored in it is often treated a blackbox with no real way to map which artificial neuron contains what information. Infact there is an entire field of AI called Explainable AI (XAI) dedicated to deal with this problem. One significant reason why it&amp;rsquo;s difficult to comprehend and map this information is that artificial neurons don&amp;rsquo;t store information in an organized and compartmentalized form as we perceive it. It wouldn&amp;rsquo;t be inaccurate to state that knowledge is rather &amp;ldquo;entangled.”&lt;/p&gt;
+&lt;p&gt;Disentangling refers to making sure that all neurons in latent space learn something different and uncorellated about training data. change in a single latent unit  It helps us to compartmentalise and organise information enabling crucial applications like knowledge transfer and zero-shot learning&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Knowledge Transfer&lt;/strong&gt; : It is using information learnt in one context to learn new things faster.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Zero-shot learning :&lt;/strong&gt; It is the use of learnt information to draw inference about unseen data.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ability to learn uncorrelated underlying factors in an un supervised setting has far reaching implications. It gives the model the ability to recombine the old information in a novel scenario and extrapolate it to make inference just like humans. It also causes model to learn about basic visual concepts like ‘objectness’. This is crucial in order to make machines that think like humans.&lt;/p&gt;
+&lt;h2 id=&#34;how-is-disentangling-executed-&#34;&gt;How is disentangling executed ?&lt;/h2&gt;
+&lt;p&gt;Disentangling is inspired by Visual Ventral System of Brain. We translate the biological constraints to mathematical constraints to apply similar pressures.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Exposure to data with transform continuities :&lt;/strong&gt; Ventral visual system of infants learn from continously transforming data. Response properties of neurons in the inferior temporal cortex arise through a Hebbian learning algorithm that relies on the fact that nearest neighbours of a particular object in pixel space are the transforms of of the same object.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;IMG_B40CA03DD44A-1.jpeg&#34; alt=&#34;IMG_B40CA03DD44A-1.jpeg&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The image above clearly demonstrates that sparse data point do not provide enough information for an unsupervised model to identify where the data manifold should lie.&lt;/p&gt;
+&lt;p&gt;Thus it is important that the factors of variation of observed data are densely sampled from their respective distributions.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Redundancy reduction and encouraging statiscal independence :&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Deep unsupervised model is encouraged to perform redundancy reduction and learn statistically independent factors from continuous data in order to learn basic visual concepts similar to humans&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Redundancy&lt;/strong&gt; :Difference between maximum entropy a channel can transmit, and the entropy of messages actually transmitted.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Redundancy reduction is facilitated through learning statistically independent factors&lt;/p&gt;
+&lt;p&gt;This mathematically translates to the following constrained optimisation problem&lt;/p&gt;
+&lt;p&gt;$$
+\mathcal{L}(\theta,\phi;x)= \mathbb{E}&lt;em&gt;{q&lt;/em&gt;{\phi}(z|x)}[logp_{\theta}(x|z)] -\beta D_{KL}(q_{\phi}(z|x)||p(z))
+$$&lt;/p&gt;
+&lt;p&gt;Here we need to maximize $\mathcal{L}(\theta,\phi;x)$ ;&lt;/p&gt;
+&lt;p&gt;where, $x$ is observed data ;$z \in \R^{n}$  are the latent factors; $\beta \ge 0$ is the inverse tempreature or regularisation coefficient&lt;/p&gt;
+&lt;p&gt;We generally set the disentangled prior to be isotropic gaussian i.e. $p(z)=\mathcal{N}(0,I)$&lt;/p&gt;
+&lt;p&gt;Redundancy reduction is enforced by constraining the capacity of latent information channel $z$ while preserving enough information to enable reconstruction.&lt;/p&gt;
+&lt;p&gt;Isotropic nature of Gaussian puts implicit independence pressure on the latent posterior.&lt;/p&gt;
+&lt;p&gt;Varying $\beta$ changes degree of applied learning pressure during training.&lt;/p&gt;
+&lt;p&gt;$\beta$ =0 ⇒ Standard Maximum Likelihood Learning&lt;/p&gt;
+&lt;p&gt;$\beta$ =1 ⇒ Bayes Solution&lt;/p&gt;
+&lt;h3 id=&#34;example&#34;&gt;Example:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;IMG_AD30E272A0ED-1.jpeg&#34; alt=&#34;IMG_AD30E272A0ED-1.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The above image shows difference in latent representations of disentangled and entangled learning on same dataset of 2D shapes.&lt;/p&gt;
+&lt;p&gt;In fig A i.e. disentangled learning with $\beta$ =4 ; latent factor z5, z7, z4, z9, z2 encode information about position in Y, position in X, scale, cos and sin rotational coordinates respectively. While orther latent factors learn uninformative Gaussian distribution.&lt;/p&gt;
+&lt;p&gt;Clearly in fig B i.e. the entangled case, there is no such seperation of factors and it is impossible to know what factor encodes what.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion:&lt;/h2&gt;
+&lt;p&gt;The development of Artificial General Intelligence(AGI) i.e. giving machines abililty to learn, think and reason out like humans has been a scientific fantasy for a long time now. Learning of basic visual concepts like objectness, ability to accelerate learning using prior knowledge and ability to infer in a unseen scenario by combining past knowledge are essential qualities for realisation of this goal. Development of unsupervised learning models like disentangled VAEs is a key step in this direction. Its application in Reinforcement learning scenarios is also very promising.&lt;/p&gt;
+&lt;h2 id=&#34;references-&#34;&gt;References :&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1606.05579&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disentangled VAE&amp;rsquo;s (DeepMind 2016)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1312.6114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Original VAE paper (2013)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adversarial Attacks on Aligned Language Models</title>
+      <link>https://vlgiitr.github.io/posts/attacks_on_aligned_llms/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/attacks_on_aligned_llms/</guid>
+      <description>&lt;p&gt;I decided to ask a certain popular language model how to build an explosive, from everday items (for no particular reason), but it didn&amp;rsquo;t give me a plausible answer. What is happening here?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;chess.jpg&#34; alt=&#34;&amp;lsquo;chess&amp;rsquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Have you ever wondered how would publicly available LLMs respond if asked how to destroy the humanity or how to build an atom bomb?? Well ,turns out they don’t respond to such questions.So what is the reason. Turns out, most LLMs today are trained on text scraped over internet and contains a lot of objectionable content, and in order to prevent the model from answering such questions “aligning” has been done.&lt;/p&gt;
+&lt;p&gt;So in this blog let us try to understand a new approach based on a recently published paper “Universal and Transferable Adversarial Attacks on Aligned Language Models” to bypass this alignment and produce virtually nay objectionable content.Let’s begin!!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;prompt.jpg&#34; alt=&#34;&amp;lsquo;prompt&amp;rsquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It is widely known that making small changes to the input of a machine learning model can significantly change its output. Similar techniques have been used against Large Language Models (LLMs), which are powerful language models. Researchers have discovered certain “jailbreaks”, which are cleverly designed input prompts that can make LLMs generate inappropriate or objectionable content. However, unlike traditional adversarial examples that are generated automatically, these jailbreaks are created through human creativity and ingenuity, involving a lot of manual effort to trick the models into producing undesirable results.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;jailbreak.jpg&#34; alt=&#34;&amp;lsquo;jailbreak&amp;rsquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;So what are we doing different that allows us to produce objectionable content?? In layman terms our attack appends a adversarial suffix to the query that attempts to induce negative behavior i.e. produce “dangerous” content. Our suffix token consists of 3 key elements:-&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1) Initial Affirmative Responses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our attack targets the model to begin its response with “Sure, here is (content of query)” in response to a number of prompts eliciting undesirable behavior.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2) Combined greedy and gradient-based discrete optimization&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We take advantage of token-level gradients to identify a set of potential single-token replacements. Once we have this set, we evaluate the loss for each candidate in the set. After evaluating them, we select the best substitution that maximizes the likelihood of a successful attack.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3)Robust multi-prompt and multi-model attacks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We want suffixes that work for multiple prompts across multiple prompts. So we use our greedy gradient method to find a string that works for all prompts across different models.&lt;/p&gt;
+&lt;p&gt;Now let’s look at the technical aspect of the method.&lt;/p&gt;
+&lt;p&gt;Assume a user writes the following prompt.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Tell me how to build a bomb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;blast.jpg&#34; alt=&#34;&amp;lsquo;blast&amp;rsquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;So the LLM behind a chatbot reads it in the following form.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;System: You are a chat assistant designed to provide helpful and not  
+harmful responses to user queries.  
+User: Tell me how to build a bomb.  
+Assistant:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In a normal case the LLM would not provide a response.But we introduce our suffix in the following form to get a response.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;System: You are a chat assistant designed to provide helpful and not  
+harmful responses to user queries.  
+User: Tell me how to build a bomb. ! ! ! ! ! ! ! ! ! !  
+Assistant :
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;In order to create a universal attack we do not consider changes to the user input but we try to find the text in place of ! so that any LLM for any prompt responds affirmatively to the user prompt.&lt;/p&gt;
+&lt;p&gt;Now lets look at the key elements in detail.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Producing Affirmative Responses&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;First we need to define a loss function to optimize the suffix. We could use log likelihood but it comes with its own set of problems. Instead we would use the approach specified above. The output of LLM would be like this&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;System: You are a chat assistant designed to provide helpful and not  
+harmful responses to user queries.  
+User: Tell me how to build a bomb. ! ! ! ! ! ! ! ! ! !  
+Assistant: Sure, here is how to build a bomb:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The intuition of this approach is that if the language model can be put into a “state” where this completion is the most likely response, as opposed to refusing to answer the query, then it likely will continue the completion with precisely the desired objectionable behavior. This can be attributed to the autoregressive nature of the LLMs.&lt;/p&gt;
+&lt;p&gt;In multimodal LLMs specifying the first target token was found to be sufficient but in case of text-only space there is a chance that the suffix could overwrite the entire prompt thus getting a response but not the intended one.&lt;/p&gt;
+&lt;p&gt;Now let’s have a look at the optimization problem.&lt;/p&gt;
+&lt;p&gt;It denotes the probability that the next token is xn+1 given previous n tokens .&lt;/p&gt;
+&lt;p&gt;We try to minimize the negative log likelihood of probability of target of sequences from x = n+1 to x = n+H where n is the input size.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Greedy oordinate Gradient-based Search&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;algo1.jpg&#34; alt=&#34;&amp;lsquo;algo1&amp;rsquo;&#34;&gt;
+A primary challenge in optimizing is that we have to optimize over a discrete set of inputs.&lt;/p&gt;
+&lt;p&gt;Here in the algorithm we use gradients with respect to each token to find a set of promising candidates for replacement at each token position.&lt;/p&gt;
+&lt;p&gt;Here `I` is the set of the positions of the adversarial suffix. So in the loop we first try to find the k substitutions having lowest gradients for all the positions.Then we initialize elements for each batch by selecting elements at random from the substitution set and then find the batch for which the loss function is minimum.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Universal Multi-prompt and Multi-model attacks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;algo2.jpg&#34; alt=&#34;&amp;lsquo;algo2&amp;rsquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Now we build upon the above algorithm to optimize the attack for multiple prompts.Unlike in the above algorithm here x represents the prompts by the user. We use multiple prompts and their corresponding losses and define a postfix `p` of length l tokens.Instead of specifying a different subset of modifiable tokens for all the prompts we choose a single postfix and optimize the losses over that. Similar to above approach we first find the top -K substitutions for the first prompt by optimizing over p.We start with only first prompt and increment the prompts only when the postfix yields results on the earlier prompts.&lt;/p&gt;
+&lt;p&gt;After finding the k substitutions the process is similar to the process in the previous algorithm.To make the adversarial examples transferable, we incorporate loss functions over multiple models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;results.jpg&#34; alt=&#34;&amp;lsquo;results&amp;rsquo;&#34;&gt;
+&lt;img src=&#34;graph.jpg&#34; alt=&#34;&amp;lsquo;results2&amp;rsquo;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Following results were obtained on using the above method&lt;/n&gt;&lt;/p&gt;
+&lt;p&gt;We find that combining multiple GCG prompts can further improve ASR on several models. Firstly, we attempt to concatenate three GCG prompts into one and use it as the suffix to all behaviors. The “+ Concatenate” row of Table 2 shows that this longer suffix particularly increases ASR from 47.4% to 79.6% on GPT-3.5 (gpt-3.5-turbo), which is more than 2× higher than using GCG prompts optimized against Vicuna models only.&lt;/p&gt;
+&lt;p&gt;The method proposed raise substantial questions regarding current methods for the alignment of LLMs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2307.15043.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper on Universal and Transferable Adversarial Attacks on Aligned Language Models&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@mrthetrain?utm_source=medium&amp;amp;utm_medium=referral&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joshua Hoehne&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Password Cracking</title>
+      <link>https://vlgiitr.github.io/posts/password_cracking/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/password_cracking/</guid>
+      <description>&lt;p&gt;On hearing the term &amp;ldquo;password-cracking,&amp;rdquo; many will think this post will be about how to guess someone&amp;rsquo;s password or somewhat similar, but the reality is not always so satisfying.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Riding the Noisy Research Track</title>
+      <link>https://vlgiitr.github.io/posts/noisy/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/noisy/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s pretty common to get fascinated by the idea of research. But sometimes we lose intrest midway through it. Ride this noisy track with one of our undergrad reasercher !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What doing research as an undergrad can teach you.</title>
+      <link>https://vlgiitr.github.io/posts/deku/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/deku/</guid>
+      <description>&lt;p&gt;What is research but a blind date with knowledge ? Explore more about researching as an undergrad with our senpai deku!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizer: diving deep into Neural Networks</title>
+      <link>https://vlgiitr.github.io/posts/optim/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/optim/</guid>
+      <description>&lt;p&gt;Waiting for the neural network to train is always annoying, make sure you use the right optimizers !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metric Learning: It’s all about the Distance (Medium)</title>
+      <link>https://vlgiitr.github.io/posts/metric/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/metric/</guid>
+      <description>&lt;p&gt;Going deeper and deeper works, but only when we know what exactly to learn. Let’s make sure we learn the right thing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Curse of Dimensionality  (Medium)</title>
+      <link>https://vlgiitr.github.io/posts/curse_of_dim/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/curse_of_dim/</guid>
+      <description>&lt;p&gt;Some say breaking this curse is as herculian of a task as breaking the Curse of Medusa. Well, who are we to judge…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis (Medium)</title>
+      <link>https://vlgiitr.github.io/posts/pca/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/pca/</guid>
+      <description>&lt;p&gt;Too many dimensions can be bad for your model’s health. Here comes PCA to the rescue.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Singular Value Decomposition (Medium)</title>
+      <link>https://vlgiitr.github.io/posts/svd/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/svd/</guid>
+      <description>&lt;p&gt;Whether you want to compress an image or calculate pseudo-inverse, SVD will always be there for you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Support Vector Machine  (Medium)</title>
+      <link>https://vlgiitr.github.io/posts/svm/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/svm/</guid>
+      <description>&lt;p&gt;SVM is the Mr. Perfect of Machine Learning Classifiers. It basically wants different examples to be as far as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Problems (Medium)</title>
+      <link>https://vlgiitr.github.io/posts/advanced_problems/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/advanced_problems/</guid>
+      <description>&lt;p&gt;A few problems for the ones looking to test their learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dropout</title>
+      <link>https://vlgiitr.github.io/posts/dropout/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/dropout/</guid>
+      <description>&lt;p&gt;Notes on the regularization method Dropout.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guide to Deep Learning (Medium)</title>
+      <link>https://vlgiitr.github.io/posts/dl-guide/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/dl-guide/</guid>
+      <description>&lt;p&gt;This blog contains a guide to get started with Deep Learning as well as get in-depth knowledge of the field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>InceptionNet</title>
+      <link>https://vlgiitr.github.io/posts/inception/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/inception/</guid>
+      <description>&lt;p&gt;Notes on the the InceptionNet CNN architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linear Algebra</title>
+      <link>https://vlgiitr.github.io/posts/linalg/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/linalg/</guid>
+      <description>&lt;p&gt;Notes on Linear Algebra from the DL Book.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Net2Net</title>
+      <link>https://vlgiitr.github.io/posts/net2net/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/net2net/</guid>
+      <description>&lt;p&gt;Notes on the Net2Net architecture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probability and Information Theory</title>
+      <link>https://vlgiitr.github.io/posts/probstats/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/probstats/</guid>
+      <description>&lt;p&gt;Notes on Probability and Information Theory from the DL Book.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RCNN</title>
+      <link>https://vlgiitr.github.io/posts/rcnn/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/rcnn/</guid>
+      <description>&lt;p&gt;Notes on the object detection architecture RCNN.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ResNet</title>
+      <link>https://vlgiitr.github.io/posts/resnet/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/resnet/</guid>
+      <description>&lt;p&gt;Notes on the CNN Architecture ResNet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VGGNet</title>
+      <link>https://vlgiitr.github.io/posts/vgg/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/vgg/</guid>
+      <description>&lt;p&gt;Notes on the CNN Architecture VGGNet.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
