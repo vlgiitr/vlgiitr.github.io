@@ -209,5 +209,20 @@
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://vlgiitr.github.io/blogs/machine_unlearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/blogs/machine_unlearning/</guid>
+      <description>&lt;p&gt;title: &amp;ldquo;Machine Unlearning&amp;rdquo;
+date: 2024-01-03
+math: false
+diagram: false
+external_link: &amp;ldquo;&lt;a href=&#34;https://equinox-rest-93f.notion.site/Machine-Unlearning-84d941dcce56429782c49c9f7280fccd%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://equinox-rest-93f.notion.site/Machine-Unlearning-84d941dcce56429782c49c9f7280fccd&#34;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Blog on machine unlearning.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
