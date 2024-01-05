@@ -1753,11 +1753,114 @@ external_link: &amp;ldquo;&lt;a href=&#34;https://equinox-rest-93f.notion.site/M
     
     <item>
       <title></title>
+      <link>https://vlgiitr.github.io/recruitments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/recruitments/</guid>
+      <description>&lt;p&gt;VLG goes recruiting for its core members and designers! For the recruitment process this year, we are introducing many ways to become a core team member at VLG. We encourage you to apply through as many ways as you wish.&lt;/p&gt;
+&lt;h1 id=&#34;recruitment-test-for-1st-year&#34;&gt;Recruitment Test for 1st Year&lt;/h1&gt;
+&lt;p&gt;Your familiarity with deep learning concepts will be tested along with a few open-ended questions to analyze your thinking and explaining skills.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Room no - 004, APJ Block&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 9th March 7:00 pm to 8:30 pm&lt;/p&gt;
+&lt;h1 id=&#34;pitch-your-project&#34;&gt;Pitch Your Project&lt;/h1&gt;
+&lt;p&gt;Submit your ideas in the form of a well drafted proposal&lt;/p&gt;
+&lt;!-- **Sample Project Proposal:** https://hackmd.io/wHJocycPS0O2V_u8olrNEQ --&gt;
+&lt;p&gt;&lt;strong&gt;Proposal Submission Deadline:&lt;/strong&gt; 16th March 11:59pm&lt;/p&gt;
+&lt;h1 id=&#34;call-for-bloggers&#34;&gt;Call For Bloggers&lt;/h1&gt;
+&lt;p&gt;If you are a passionate writer and wish to share your knowledge and insights into the world of deep learning with our community, send us your articles. We&amp;rsquo;ll be publishing shortlisted ones through the Medium account of VLG.&lt;/p&gt;
+&lt;!-- **General Tips And Instructions:** https://hackmd.io/bz1y1-E4TBeeCLu6AMfefQ --&gt;
+&lt;p&gt;&lt;strong&gt;Blog submission deadline:&lt;/strong&gt; 16th March 11:59pm&lt;/p&gt;
+&lt;h1 id=&#34;design-assignment&#34;&gt;Design Assignment:&lt;/h1&gt;
+&lt;p&gt;We are also looking for designers to join our team. If you have a creative eye and love designing, we would love to hear from you.&lt;/p&gt;
+&lt;!-- **Problem Statement:** https://www.notion.so/VLG-Design-Assignment-7637b17542874dfb8254a6e7960838e9  --&gt;
+&lt;p&gt;&lt;strong&gt;Submission Deadline:&lt;/strong&gt; 17th March&lt;/p&gt;
+&lt;p&gt;You can follow us on instagram and find posters for this year &lt;a href=&#34;https://www.instagram.com/p/Cpia28Ov6g_/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://vlgiitr.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/archives/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;open-projectshahahugoshortcode11s0hbhb&#34;&gt;&lt;a href=&#34;https://vlgiitr.github.io/open_projects/&#34;&gt;Open Projects&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discussions</title>
+      <link>https://vlgiitr.github.io/discussions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/discussions/</guid>
+      <description>&lt;p&gt;Discussions for this semester will start by the end of September&#39;22. Meanwhile you can look into the previous discussions below.&lt;/p&gt;
+&lt;h3 id=&#34;previous-semester-discussions&#34;&gt;Previous Semester Discussions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vlgiitr.github.io/previous_discussions/spring_2022_discussion/&#34;&gt;Spring 2022 Discussions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vlgiitr.github.io/previous_discussions/aut_2021_discussion/&#34;&gt;Autumn 2021 Discussions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vlgiitr.github.io/previous_discussions/spring_2021_discussion/&#34;&gt;Spring 2021 Discussions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vlgiitr.github.io/previous_discussions/aut_2020/&#34;&gt;Autumn 2020 Discussions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Layer Level Loss Optimisation - 2023</title>
+      <link>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</guid>
+      <description>&lt;p&gt;An experiment in testing a novel method to train neural networks inspired by the Forward-Forward Algorithm proposed by Geoffrey Hinton by updating weights of a layer by calculating the loss at each intermediate layer instead of backpropagating the losses
+through the entire network.&lt;/p&gt;
+&lt;p&gt;In the original paper, instead of relying on the traditional forward and backward passes of backpropagation, the method utilized two forward passes — one with positive, real data and the other with negative data.
+With our modified method we were able to achieve an error rate of less than 2% for a fully connected network and convolutional network on the MNIST dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Projects</title>
+      <link>https://vlgiitr.github.io/open_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/open_projects/</guid>
+      <description>&lt;p&gt;You have the four projects below to choose from and you can only pick one. Fill the &lt;a href=&#34;https://forms.gle/A64BMcAd6E2FTvEQ6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;form&lt;/a&gt; with your choice. Join our Open Slack Community or checkout our Instagram Post for more information.&lt;/p&gt;
+&lt;p&gt;Form Deadline: 25th May EOD.&lt;/p&gt;
+&lt;p&gt;Project Deadline: 22nd June 2023.&lt;/p&gt;
+&lt;p&gt;The project will be verified based on your performance.&lt;/p&gt;
+&lt;p&gt;Best Of Luck!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ai-generated-image-detection&#34;&gt;AI GENERATED IMAGE DETECTION&lt;/h2&gt;
+&lt;p&gt;With the rise of generative AI, fake identities can be easily created using sophisticated algorithms. This has led to an increase in identity fraud, as fake identities can be used to gain access to online services and commit fraudulent activities. Thus, the purpose is to contribute to the development of more secure and reliable online services for everyone.&lt;/p&gt;
+&lt;p&gt;Full project description: &lt;a href=&#34;https://hackmd.io/@UVZeWfL7Te-wnOqGGxH1kg/rJkZ_vQHn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;multilingual-product-recommender-system&#34;&gt;MULTILINGUAL PRODUCT RECOMMENDER SYSTEM&lt;/h2&gt;
+&lt;p&gt;Modelling customer shopping intentions is crucial for e-commerce stores, as it directly impacts user experience and engagement. With this intention, we aim to utilize the ‘Multilingual Shopping Session Dataset’, a dataset consisting of millions of user sessions from six different locales, where the major languages of products are English, German, Japanese, French, Italian, and Spanish.&lt;/p&gt;
+&lt;p&gt;Full project description: &lt;a href=&#34;https://hackmd.io/@UVZeWfL7Te-wnOqGGxH1kg/B12Q1UXSn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;stable-diffusion---image-to-prompt&#34;&gt;STABLE DIFFUSION - IMAGE TO PROMPT&lt;/h2&gt;
+&lt;p&gt;The popularity of text-to-image models has spurned an entire new field of prompt engineering. Part art and part unsettled science, ML practitioners and researchers are rapidly grappling with understanding the relationships between prompts and the images they generate and in this project we aim to reverse the typical direction of a generative text-to-image model: instead of generating an image from a text prompt, can you create a model which can predict the text prompt given a generated image?&lt;/p&gt;
+&lt;p&gt;Full project description: &lt;a href=&#34;https://hackmd.io/@SK-Singh/SJt2HYXB2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;image-matching---reconstruct-3d-scenes-from-2d&#34;&gt;IMAGE MATCHING - RECONSTRUCT 3D SCENES FROM 2D&lt;/h2&gt;
+&lt;p&gt;Your best camera may just be the phone in your pocket. You might take a snap of a landmark, then share it with friends. By itself, that photo is two-dimensional and only includes the perspective of your shooting location. Of course, many people may have taken photos of that same landmark. If we were able to combine all of our photos, we may be able to create a more complete, three-dimensional view of any given thing and this is what we aim in this project.
+Our objective is building a 3D model of a scene given an unstructured collection of images taken around it.&lt;/p&gt;
+&lt;p&gt;Full project description: &lt;a href=&#34;https://hackmd.io/@SK-Singh/SJy18iXHh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- &gt; Forms closed --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our Alumni</title>
+      <link>https://vlgiitr.github.io/alums/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/alums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papers We Read</title>
       <link>https://vlgiitr.github.io/papers_we_read/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/papers_we_read/</guid>
-      <description>&lt;h1 id=&#34;deep-learning-paper-summaries&#34;&gt;Deep Learning Paper Summaries&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This repo houses summaries for various excitng works in the field of &lt;strong&gt;Deep Learning&lt;/strong&gt;. You can contribute summaries of your own. Check out our &lt;a href=&#34;#contributing&#34;&gt;contributing guide&lt;/a&gt; to start contributing. Happy Reading &amp;amp; Summarizing!&lt;/p&gt;
 &lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
 &lt;ul&gt;
@@ -2015,110 +2118,6 @@ external_link: &amp;ldquo;&lt;a href=&#34;https://equinox-rest-93f.notion.site/M
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;This repo is open-sourced under the &lt;a href=&#34;LICENSE&#34;&gt;MIT License&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vlgiitr.github.io/recruitments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/recruitments/</guid>
-      <description>&lt;p&gt;VLG goes recruiting for its core members and designers! For the recruitment process this year, we are introducing many ways to become a core team member at VLG. We encourage you to apply through as many ways as you wish.&lt;/p&gt;
-&lt;h1 id=&#34;recruitment-test-for-1st-year&#34;&gt;Recruitment Test for 1st Year&lt;/h1&gt;
-&lt;p&gt;Your familiarity with deep learning concepts will be tested along with a few open-ended questions to analyze your thinking and explaining skills.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Room no - 004, APJ Block&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 9th March 7:00 pm to 8:30 pm&lt;/p&gt;
-&lt;h1 id=&#34;pitch-your-project&#34;&gt;Pitch Your Project&lt;/h1&gt;
-&lt;p&gt;Submit your ideas in the form of a well drafted proposal&lt;/p&gt;
-&lt;!-- **Sample Project Proposal:** https://hackmd.io/wHJocycPS0O2V_u8olrNEQ --&gt;
-&lt;p&gt;&lt;strong&gt;Proposal Submission Deadline:&lt;/strong&gt; 16th March 11:59pm&lt;/p&gt;
-&lt;h1 id=&#34;call-for-bloggers&#34;&gt;Call For Bloggers&lt;/h1&gt;
-&lt;p&gt;If you are a passionate writer and wish to share your knowledge and insights into the world of deep learning with our community, send us your articles. We&amp;rsquo;ll be publishing shortlisted ones through the Medium account of VLG.&lt;/p&gt;
-&lt;!-- **General Tips And Instructions:** https://hackmd.io/bz1y1-E4TBeeCLu6AMfefQ --&gt;
-&lt;p&gt;&lt;strong&gt;Blog submission deadline:&lt;/strong&gt; 16th March 11:59pm&lt;/p&gt;
-&lt;h1 id=&#34;design-assignment&#34;&gt;Design Assignment:&lt;/h1&gt;
-&lt;p&gt;We are also looking for designers to join our team. If you have a creative eye and love designing, we would love to hear from you.&lt;/p&gt;
-&lt;!-- **Problem Statement:** https://www.notion.so/VLG-Design-Assignment-7637b17542874dfb8254a6e7960838e9  --&gt;
-&lt;p&gt;&lt;strong&gt;Submission Deadline:&lt;/strong&gt; 17th March&lt;/p&gt;
-&lt;p&gt;You can follow us on instagram and find posters for this year &lt;a href=&#34;https://www.instagram.com/p/Cpia28Ov6g_/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Archives</title>
-      <link>https://vlgiitr.github.io/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/archives/</guid>
-      <description>&lt;hr&gt;
-&lt;h2 id=&#34;open-projectshahahugoshortcode11s0hbhb&#34;&gt;&lt;a href=&#34;https://vlgiitr.github.io/open_projects/&#34;&gt;Open Projects&lt;/a&gt;&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Discussions</title>
-      <link>https://vlgiitr.github.io/discussions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/discussions/</guid>
-      <description>&lt;p&gt;Discussions for this semester will start by the end of September&#39;22. Meanwhile you can look into the previous discussions below.&lt;/p&gt;
-&lt;h3 id=&#34;previous-semester-discussions&#34;&gt;Previous Semester Discussions&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://vlgiitr.github.io/previous_discussions/spring_2022_discussion/&#34;&gt;Spring 2022 Discussions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vlgiitr.github.io/previous_discussions/aut_2021_discussion/&#34;&gt;Autumn 2021 Discussions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vlgiitr.github.io/previous_discussions/spring_2021_discussion/&#34;&gt;Spring 2021 Discussions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vlgiitr.github.io/previous_discussions/aut_2020/&#34;&gt;Autumn 2020 Discussions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Layer Level Loss Optimisation - 2023</title>
-      <link>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</guid>
-      <description>&lt;p&gt;An experiment in testing a novel method to train neural networks inspired by the Forward-Forward Algorithm proposed by Geoffrey Hinton by updating weights of a layer by calculating the loss at each intermediate layer instead of backpropagating the losses
-through the entire network.&lt;/p&gt;
-&lt;p&gt;In the original paper, instead of relying on the traditional forward and backward passes of backpropagation, the method utilized two forward passes — one with positive, real data and the other with negative data.
-With our modified method we were able to achieve an error rate of less than 2% for a fully connected network and convolutional network on the MNIST dataset.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open Projects</title>
-      <link>https://vlgiitr.github.io/open_projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/open_projects/</guid>
-      <description>&lt;p&gt;You have the four projects below to choose from and you can only pick one. Fill the &lt;a href=&#34;https://forms.gle/A64BMcAd6E2FTvEQ6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;form&lt;/a&gt; with your choice. Join our Open Slack Community or checkout our Instagram Post for more information.&lt;/p&gt;
-&lt;p&gt;Form Deadline: 25th May EOD.&lt;/p&gt;
-&lt;p&gt;Project Deadline: 22nd June 2023.&lt;/p&gt;
-&lt;p&gt;The project will be verified based on your performance.&lt;/p&gt;
-&lt;p&gt;Best Of Luck!&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;ai-generated-image-detection&#34;&gt;AI GENERATED IMAGE DETECTION&lt;/h2&gt;
-&lt;p&gt;With the rise of generative AI, fake identities can be easily created using sophisticated algorithms. This has led to an increase in identity fraud, as fake identities can be used to gain access to online services and commit fraudulent activities. Thus, the purpose is to contribute to the development of more secure and reliable online services for everyone.&lt;/p&gt;
-&lt;p&gt;Full project description: &lt;a href=&#34;https://hackmd.io/@UVZeWfL7Te-wnOqGGxH1kg/rJkZ_vQHn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;multilingual-product-recommender-system&#34;&gt;MULTILINGUAL PRODUCT RECOMMENDER SYSTEM&lt;/h2&gt;
-&lt;p&gt;Modelling customer shopping intentions is crucial for e-commerce stores, as it directly impacts user experience and engagement. With this intention, we aim to utilize the ‘Multilingual Shopping Session Dataset’, a dataset consisting of millions of user sessions from six different locales, where the major languages of products are English, German, Japanese, French, Italian, and Spanish.&lt;/p&gt;
-&lt;p&gt;Full project description: &lt;a href=&#34;https://hackmd.io/@UVZeWfL7Te-wnOqGGxH1kg/B12Q1UXSn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;stable-diffusion---image-to-prompt&#34;&gt;STABLE DIFFUSION - IMAGE TO PROMPT&lt;/h2&gt;
-&lt;p&gt;The popularity of text-to-image models has spurned an entire new field of prompt engineering. Part art and part unsettled science, ML practitioners and researchers are rapidly grappling with understanding the relationships between prompts and the images they generate and in this project we aim to reverse the typical direction of a generative text-to-image model: instead of generating an image from a text prompt, can you create a model which can predict the text prompt given a generated image?&lt;/p&gt;
-&lt;p&gt;Full project description: &lt;a href=&#34;https://hackmd.io/@SK-Singh/SJt2HYXB2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;image-matching---reconstruct-3d-scenes-from-2d&#34;&gt;IMAGE MATCHING - RECONSTRUCT 3D SCENES FROM 2D&lt;/h2&gt;
-&lt;p&gt;Your best camera may just be the phone in your pocket. You might take a snap of a landmark, then share it with friends. By itself, that photo is two-dimensional and only includes the perspective of your shooting location. Of course, many people may have taken photos of that same landmark. If we were able to combine all of our photos, we may be able to create a more complete, three-dimensional view of any given thing and this is what we aim in this project.
-Our objective is building a 3D model of a scene given an unstructured collection of images taken around it.&lt;/p&gt;
-&lt;p&gt;Full project description: &lt;a href=&#34;https://hackmd.io/@SK-Singh/SJy18iXHh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;!-- &gt; Forms closed --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Our Alumni</title>
-      <link>https://vlgiitr.github.io/alums/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/alums/</guid>
-      <description></description>
     </item>
     
     <item>
