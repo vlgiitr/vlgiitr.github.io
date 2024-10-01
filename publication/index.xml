@@ -5,12 +5,36 @@
     <link>https://vlgiitr.github.io/publication/</link>
       <atom:link href="https://vlgiitr.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
       <title>Publications</title>
       <link>https://vlgiitr.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images</title>
+      <link>https://vlgiitr.github.io/publication/tmlr/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/tmlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking Object Detectors with COCO: A New Path Forward</title>
+      <link>https://vlgiitr.github.io/publication/eccv/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confidence Is All You Need for MI Attacks</title>
+      <link>https://vlgiitr.github.io/publication/aaai/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/aaai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OneFormer: One Transformer to Rule Universal Image Segmentation</title>
