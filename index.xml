@@ -13,6 +13,120 @@
     </image>
     
     <item>
+      <title>Machine Unlearning</title>
+      <link>https://vlgiitr.github.io/project/machine_unlearning/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/machine_unlearning/</guid>
+      <description>&lt;p&gt;Machine unlearning is an emergent subfield of machine learning that aims to remove the influence of a specific subset of training examples — the &amp;ldquo;forget set&amp;rdquo; — from a trained model. Furthermore, an ideal unlearning algorithm would remove the influence of certain examples while maintaining other beneficial properties, such as the accuracy on the rest of the train set and generalization to held-out examples.&lt;/p&gt;
+&lt;p&gt;A straightforward way to produce this unlearned model is to retrain the model on an adjusted training set that excludes the samples from the forget set.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Give me a hint: Can LLMs take a hint to solve math problems?</title>
+      <link>https://vlgiitr.github.io/project/llm-math/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/llm-math/</guid>
+      <description>&lt;p&gt;While many state-of-the-art LLMs have shown poor logical and basic mathematical reasoning, recent works try to improve their problem-solving abilities using prompting techniques. We propose giving &amp;ldquo;hints&amp;rdquo; to improve the language model’s performance on advanced mathematical problems, taking inspiration from how humans approach math pedagogically. We also test the model’s adversarial robustness to wrong hints. We demonstrate the effectiveness of our approach by evaluating various LLMs, presenting them with a diverse set of problems of different difficulties and topics from the MATH dataset and comparing against techniques such as one-shot, few-shot, and chain of thought prompting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LoRA-Unlearn</title>
+      <link>https://vlgiitr.github.io/project/lora_unlearn/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/lora_unlearn/</guid>
+      <description>&lt;p&gt;This study addresses the challenge of machine unlearning in light of growing privacy regulations and the need for adaptable AI systems. We present a novel approach, PruneLoRA where we leverage LoRA to selectively modify a subset of the pruned model’s parameters, thereby reducing the computational cost, memory requirements and improving the model’s ability to retain performance on the remaining classes&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>StegaVision: Enhancing Steganography with Attention Mechanism</title>
+      <link>https://vlgiitr.github.io/project/stegavision/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/stegavision/</guid>
+      <description>&lt;p&gt;Our study, StegaVision, aims to enhance image steganography by integrating attention mechanisms into an autoencoder-based model. Our approach focuses on dynamically adjusting the importance of different parts of the image through attention mechanisms. This helps in better embedding the hidden information while maintaining the image&amp;rsquo;s visual quality. We specifically explore two types of attention mechanisms—Channel Attention and Spatial Attention—and test their effectiveness on an autoencoder model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Layer Level Loss Optimisation - 2023</title>
+      <link>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</guid>
+      <description>&lt;p&gt;An experiment in testing a novel method to train neural networks inspired by the Forward-Forward Algorithm proposed by Geoffrey Hinton by updating weights of a layer by calculating the loss at each intermediate layer instead of backpropagating the losses
+through the entire network.&lt;/p&gt;
+&lt;p&gt;In the original paper, instead of relying on the traditional forward and backward passes of backpropagation, the method utilized two forward passes — one with positive, real data and the other with negative data.
+With our modified method we were able to achieve an error rate of less than 2% for a fully connected network and convolutional network on the MNIST dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensorium 2022</title>
+      <link>https://vlgiitr.github.io/project/sensorium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/sensorium/</guid>
+      <description>&lt;p&gt;The NeurIPS 2022 The SENSORIUM competition aimed to find the best neural predictive model that can predict the activity of thousands of neurons in the primary visual cortex of mice in response to natural images.&lt;/p&gt;
+&lt;p&gt;In our submission for this competition, we attempted to improve the baseline model for the competition track- Sensorium+, where neural activity was to be predicted with given visual stimuli and other behavioural variables.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Cache Replacement - 2020</title>
+      <link>https://vlgiitr.github.io/project/deap/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/deap/</guid>
+      <description>&lt;p&gt;The PyTorch codebase for DEAP Cache: Deep Eviction Admission and Prefetching for Cache.&lt;/p&gt;
+&lt;p&gt;In this paper, we propose a DL based approach to tackle the problem of Cache Replacement. This is the first time an approach has tried learning all the three policies: Admission, Prefetching and Eviction. Unlike, previous methods which relied on past statistics for carrying out cache replacement, we predict future statistics (frequency and recency) and then use an online RL-algorithm for eviction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DL Topics</title>
+      <link>https://vlgiitr.github.io/project/dl_topics/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/dl_topics/</guid>
+      <description>&lt;p&gt;This repo contains a list of topics which we feel that one should be comfortable with before appearing for a DL interview. This list is by no means exhaustive (as the field is very wide and ever growing).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GenZoo - 2019</title>
+      <link>https://vlgiitr.github.io/project/genzoo/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/genzoo/</guid>
+      <description>&lt;p&gt;GenZoo is a repository that provides implementations of generative models in various frameworks, namely Tensorflow and Pytorch. This was a project taken up by VLG-IITR for the summers of 2019, done with the collaborative efforts of various students.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Group-Level-Emotion-Recognition - 2018</title>
+      <link>https://vlgiitr.github.io/project/emoticon/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/emoticon/</guid>
+      <description>&lt;p&gt;This repository contains the code of our model submitted for the ICMI 2018 EmotiW Group-Level Emotion Recognition Challenge. The model was ranked 4th in the challenge. The paper proposes an end-to-end model for jointly learning the scene and facial features of an image for group-level emotion recognition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Turing Machines - 2018</title>
+      <link>https://vlgiitr.github.io/project/ntm/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/ntm/</guid>
+      <description>&lt;p&gt;This repository is a stable Pytorch implementation of a Neural Turing Machine and contains the code for training, evaluating and visualizing results for the Copy, Repeat Copy, Associative Recall and Priority Sort tasks. The code has been tested for all 4 tasks and the results obtained are in accordance with the results mentioned in the paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Memory Network Plus - 2018</title>
+      <link>https://vlgiitr.github.io/project/dmn_plus/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/dmn_plus/</guid>
+      <description>&lt;p&gt;This is the Pytorch implementation of the paper Dynamic Memory Network for Visual and Textual Question Answering. This paper is an improved version of the original paper Ask Me Anything: Dynamic Memory Networks for Natural Language Processing. The major difference between these ideas is in the functioning of the input module and the memory module which has been explained in detail in the IPython notebook file of this repo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://vlgiitr.github.io/blogs/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1297,16 +1411,6 @@ Team Code : z1q54os&lt;/p&gt;
     </item>
     
     <item>
-      <title>Deep Cache Replacement - 2020</title>
-      <link>https://vlgiitr.github.io/project/deap/</link>
-      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/deap/</guid>
-      <description>&lt;p&gt;The PyTorch codebase for DEAP Cache: Deep Eviction Admission and Prefetching for Cache.&lt;/p&gt;
-&lt;p&gt;In this paper, we propose a DL based approach to tackle the problem of Cache Replacement. This is the first time an approach has tried learning all the three policies: Admission, Prefetching and Eviction. Unlike, previous methods which relied on past statistics for carrying out cache replacement, we predict future statistics (frequency and recency) and then use an online RL-algorithm for eviction.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Preprint out for the paper: DEAP Cache: Deep Eviction Admission and Prefetching for Cache!</title>
       <link>https://vlgiitr.github.io/recents/deap/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
@@ -1330,15 +1434,6 @@ Team Code : z1q54os&lt;/p&gt;
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/vacsim/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>DL Topics</title>
-      <link>https://vlgiitr.github.io/project/dl_topics/</link>
-      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/dl_topics/</guid>
-      <description>&lt;p&gt;This repo contains a list of topics which we feel that one should be comfortable with before appearing for a DL interview. This list is by no means exhaustive (as the field is very wide and ever growing).&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -1526,15 +1621,6 @@ Team Code : z1q54os&lt;/p&gt;
       <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/gan-ensemble/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>GenZoo - 2019</title>
-      <link>https://vlgiitr.github.io/project/genzoo/</link>
-      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/genzoo/</guid>
-      <description>&lt;p&gt;GenZoo is a repository that provides implementations of generative models in various frameworks, namely Tensorflow and Pytorch. This was a project taken up by VLG-IITR for the summers of 2019, done with the collaborative efforts of various students.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -1726,38 +1812,11 @@ Team Code : z1q54os&lt;/p&gt;
     </item>
     
     <item>
-      <title>Group-Level-Emotion-Recognition - 2018</title>
-      <link>https://vlgiitr.github.io/project/emoticon/</link>
-      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/emoticon/</guid>
-      <description>&lt;p&gt;This repository contains the code of our model submitted for the ICMI 2018 EmotiW Group-Level Emotion Recognition Challenge. The model was ranked 4th in the challenge. The paper proposes an end-to-end model for jointly learning the scene and facial features of an image for group-level emotion recognition.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Neural Turing Machines - 2018</title>
-      <link>https://vlgiitr.github.io/project/ntm/</link>
-      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/ntm/</guid>
-      <description>&lt;p&gt;This repository is a stable Pytorch implementation of a Neural Turing Machine and contains the code for training, evaluating and visualizing results for the Copy, Repeat Copy, Associative Recall and Priority Sort tasks. The code has been tested for all 4 tasks and the results obtained are in accordance with the results mentioned in the paper.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>An Attention Model for Group Level Emotion Recognition</title>
       <link>https://vlgiitr.github.io/publication/att/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/publication/att/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic Memory Network Plus - 2018</title>
-      <link>https://vlgiitr.github.io/project/dmn_plus/</link>
-      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/dmn_plus/</guid>
-      <description>&lt;p&gt;This is the Pytorch implementation of the paper Dynamic Memory Network for Visual and Textual Question Answering. This paper is an improved version of the original paper Ask Me Anything: Dynamic Memory Networks for Natural Language Processing. The major difference between these ideas is in the functioning of the input module and the memory module which has been explained in detail in the IPython notebook file of this repo.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -1824,18 +1883,6 @@ external_link: &amp;ldquo;&lt;a href=&#34;https://equinox-rest-93f.notion.site/M
 &lt;li&gt;&lt;a href=&#34;https://vlgiitr.github.io/previous_discussions/spring_2021_discussion/&#34;&gt;Spring 2021 Discussions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://vlgiitr.github.io/previous_discussions/aut_2020/&#34;&gt;Autumn 2020 Discussions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Layer Level Loss Optimisation - 2023</title>
-      <link>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</guid>
-      <description>&lt;p&gt;An experiment in testing a novel method to train neural networks inspired by the Forward-Forward Algorithm proposed by Geoffrey Hinton by updating weights of a layer by calculating the loss at each intermediate layer instead of backpropagating the losses
-through the entire network.&lt;/p&gt;
-&lt;p&gt;In the original paper, instead of relying on the traditional forward and backward passes of backpropagation, the method utilized two forward passes — one with positive, real data and the other with negative data.
-With our modified method we were able to achieve an error rate of less than 2% for a fully connected network and convolutional network on the MNIST dataset.&lt;/p&gt;
 </description>
     </item>
     
@@ -2141,16 +2188,6 @@ Our objective is building a 3D model of a scene given an unstructured collection
 &lt;p&gt;&lt;strong&gt;papers_we_read&lt;/strong&gt; is an open source repository that welcomes any contribution and feedback. We wish the collected sets of summaries can help the DL community to start with the practice of reading and understanding research papers which is a potent skill in the research community. Most of our &lt;a href=&#34;https://github.com/vlgiitr/papers_we_read/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contributors&lt;/a&gt; include students enrolled in undergraduate programmes. We are grateful for all the contributions that help improve this collection of summaries.&lt;/p&gt;
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;This repo is open-sourced under the &lt;a href=&#34;LICENSE&#34;&gt;MIT License&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sensorium 2022</title>
-      <link>https://vlgiitr.github.io/project/sensorium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/sensorium/</guid>
-      <description>&lt;p&gt;The NeurIPS 2022 The SENSORIUM competition aimed to find the best neural predictive model that can predict the activity of thousands of neurons in the primary visual cortex of mice in response to natural images.&lt;/p&gt;
-&lt;p&gt;In our submission for this competition, we attempted to improve the baseline model for the competition track- Sensorium+, where neural activity was to be predicted with given visual stimuli and other behavioural variables.&lt;/p&gt;
 </description>
     </item>
     
