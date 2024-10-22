@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vlgiitr.github.io/project/machine_unlearning/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vlgiitr.github.io/author/aakash-gupta/</loc>
+  </url><url>
+    <loc>https://vlgiitr.github.io/author/abhinav-kumar/</loc>
+  </url><url>
+    <loc>https://vlgiitr.github.io/author/ayush-singh/</loc>
+  </url><url>
+    <loc>https://vlgiitr.github.io/author/rajdeep-aher/</loc>
+  </url><url>
+    <loc>https://vlgiitr.github.io/author/siddarth-gupta/</loc>
+  </url><url>
+    <loc>https://vlgiitr.github.io/author/vansh-agrawal/</loc>
+  </url><url>
+    <loc>https://vlgiitr.github.io/author/vidit-aggarwal/</loc>
+  </url><url>
+    <loc>https://vlgiitr.github.io/project/llm-math/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vlgiitr.github.io/project/lora_unlearn/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vlgiitr.github.io/project/stegavision/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</loc>
+  </url><url>
+    <loc>https://vlgiitr.github.io/project/sensorium/</loc>
+  </url><url>
+    <loc>https://vlgiitr.github.io/project/deap/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vlgiitr.github.io/project/dl_topics/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vlgiitr.github.io/project/genzoo/</loc>
+    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vlgiitr.github.io/project/emoticon/</loc>
+    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://vlgiitr.github.io/author/aarush-gupta/</loc>
   </url><url>
     <loc>https://vlgiitr.github.io/author/aayan-yadav/</loc>
@@ -111,6 +153,12 @@
     <loc>https://vlgiitr.github.io/author/vipul-kumar/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://vlgiitr.github.io/project/ntm/</loc>
+    <lastmod>2018-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vlgiitr.github.io/project/dmn_plus/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://vlgiitr.github.io/blogs/posts/</loc>
   </url><url>
     <loc>https://vlgiitr.github.io/publication-type/1/</loc>
@@ -178,6 +226,9 @@
   </url><url>
     <loc>https://vlgiitr.github.io/posts/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vlgiitr.github.io/project/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vlgiitr.github.io/posts/vae/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
@@ -395,13 +446,7 @@
     <loc>https://vlgiitr.github.io/publication/deap/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vlgiitr.github.io/project/deap/</loc>
-    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vlgiitr.github.io/recents/deap/</loc>
-    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vlgiitr.github.io/project/</loc>
     <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vlgiitr.github.io/author/aditya-nagori/</loc>
@@ -448,9 +493,6 @@
   </url><url>
     <loc>https://vlgiitr.github.io/author/vineet-joshi/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vlgiitr.github.io/project/dl_topics/</loc>
-    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vlgiitr.github.io/recents/disc/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
@@ -557,9 +599,6 @@
     <loc>https://vlgiitr.github.io/author/shashank-kashyap/</loc>
     <lastmod>2019-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vlgiitr.github.io/project/genzoo/</loc>
-    <lastmod>2019-10-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vlgiitr.github.io/author/dakshit-agrawal/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -635,12 +674,6 @@
     <loc>https://vlgiitr.github.io/posts/vgg/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vlgiitr.github.io/project/emoticon/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vlgiitr.github.io/project/ntm/</loc>
-    <lastmod>2018-09-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vlgiitr.github.io/author/aarush-gupta/</loc>
     <lastmod>2018-08-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -653,9 +686,6 @@
     <loc>https://vlgiitr.github.io/author/marco-pedersoli/</loc>
     <lastmod>2018-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vlgiitr.github.io/project/dmn_plus/</loc>
-    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vlgiitr.github.io/blogs/machine_unlearning/</loc>
   </url><url>
     <loc>https://vlgiitr.github.io/recruitments/</loc>
@@ -666,8 +696,6 @@
   </url><url>
     <loc>https://vlgiitr.github.io/discussions/</loc>
   </url><url>
-    <loc>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</loc>
-  </url><url>
     <loc>https://vlgiitr.github.io/open_projects/</loc>
   </url><url>
     <loc>https://vlgiitr.github.io/alums/</loc>
@@ -675,8 +703,6 @@
     <loc>https://vlgiitr.github.io/summaries/</loc>
   </url><url>
     <loc>https://vlgiitr.github.io/talk/</loc>
-  </url><url>
-    <loc>https://vlgiitr.github.io/project/sensorium/</loc>
   </url><url>
     <loc>https://vlgiitr.github.io/tags/</loc>
   </url><url>

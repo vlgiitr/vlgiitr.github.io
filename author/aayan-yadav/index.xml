@@ -5,12 +5,121 @@
     <link>https://vlgiitr.github.io/author/aayan-yadav/</link>
       <atom:link href="https://vlgiitr.github.io/author/aayan-yadav/index.xml" rel="self" type="application/rss+xml" />
     <description>Aayan Yadav</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
       <title>Aayan Yadav</title>
       <link>https://vlgiitr.github.io/author/aayan-yadav/</link>
     </image>
+    
+    <item>
+      <title>Benchmarking Object Detectors with COCO: A New Path Forward</title>
+      <link>https://vlgiitr.github.io/publication/eccv/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/eccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dismantling Disentanglement in VAEs</title>
+      <link>https://vlgiitr.github.io/posts/vae/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/posts/vae/</guid>
+      <description>&lt;p&gt;Over the years neuroscience has inspired many quantum leaps in Artificial Intelligence. One such remarkable development inspired by the visual ventral system of the brain is Disentangled Variational Autoencoders.&lt;/p&gt;
+&lt;p&gt;So first things first -&lt;/p&gt;
+&lt;h2 id=&#34;what-are--autoencoders&#34;&gt;What are  Autoencoders?&lt;/h2&gt;
+&lt;p&gt;In a real-world scenario,  fewer dimensions may be required to capture the information stored in a particular data point than already present. This is due to the inherent structure of the data.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dimensions.png&#34; alt=&#34;dimensions.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As shown above, in the first image data points are truly random, there is no structure to data so all three x, y, and z coordinates are necessary to represent data. While in the second image, data is restricted to a spiral, there is some structure to data so that it could be represented by just two variables.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;enc-decarch.jpeg&#34; alt=&#34;enc-decarch.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Autoencoder uses neural networks to provide an unsupervised approach to deal with data.&lt;/p&gt;
+&lt;p&gt;Data is run through a neural network and map it into a lower dimension called the latent dimension. Then that information can be decoded using a decoder. If we increase the dimensions of the latent space we would get a more detailed image but the number of dimensions required for a considerably clear reconstruction might be very less as compared to the original dimensionality .It could also be used for applications like image segmentation, denoising and neural inpainting.&lt;/p&gt;
+&lt;h3 id=&#34;how-does-it-work&#34;&gt;How does it work?&lt;/h3&gt;
+&lt;p&gt;Basically we compress the information into latent variables using non linear activation function and then run it through the decoder with the aim of recreating the input data by using just the information stored in latent variables. We calculate the reconstruction loss by comparing the output with input then try to minimize this loss by changing the parameters.&lt;/p&gt;
+&lt;h2 id=&#34;variational-autoencoders&#34;&gt;Variational Autoencoders&lt;/h2&gt;
+&lt;p&gt;We have a rough idea of autoencoders by now, so the next question which is arises is what are Variatonal Autoencoders(VAEs) and how are they different ?&lt;/p&gt;
+&lt;p&gt;In VAEs unlike traditional autoencoders the input is mapped to a distribution from which data is sampled and fed into the decoder.&lt;/p&gt;
+&lt;p&gt;Given input data $x$ and latent variable $z$ , encoder tries to learn the posterior distribution $p(z|x)$.&lt;/p&gt;
+&lt;p&gt;This posterior is intractable so VAEs use variational inference to approximate it&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Variational Inference&lt;/strong&gt; : We choose a family of distribution and then fit it to the input data by changing the parameters. This helps us learn a good approximation to intractable distribution.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;VAE.png&#34; alt=&#34;VAE.png&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;but-how-do-we-know-if-we-have-a-good-approximation-of-the-posterior-&#34;&gt;But how do we know if we have a good approximation of the posterior ?&lt;/h3&gt;
+&lt;p&gt;The metric we use to determine how close the approximated distribution is to the required posterior is the Kullback-Liebler Divergence.&lt;/p&gt;
+&lt;p&gt;$$
+\hat{q}(z)=\underset{q\sim Q}{\operatorname{argmax}} KL(q(z)||p(z|x))&lt;/p&gt;
+&lt;p&gt;$$&lt;/p&gt;
+&lt;p&gt;Here q(z) is the approximated distribution and Q is the family of distributions of which q is a member.&lt;/p&gt;
+&lt;p&gt;One visible problem with this is that we dont know p(z|x), so we cant calculate KL divergence directly. To deal with this we convert this into optimization problem. We will skip the maths here and directly jump to the results.&lt;/p&gt;
+&lt;p&gt;$$
+KL(q(z)||p(z|x))=-ELBO(q)+p(x)
+$$&lt;/p&gt;
+&lt;p&gt;Here ELBO is the something called the Evidence Lower Bound. It is the only term dependent on q. So we have to just maximize ELBO to minimize KL divergence and subsequently find good approximation of the posterior distributaion.&lt;/p&gt;
+&lt;h3 id=&#34;the-reparameterization-trick&#34;&gt;The Reparameterization trick:&lt;/h3&gt;
+&lt;p&gt;If one pays close attention its difficult to not notice an obvious hurdle in this model. We cant run gradient through sampling operations. So how do we train this model ? This is where the Reparameterization trick comes to rescue!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;repara.png&#34; alt=&#34;repara.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We rewrite z as :      $z=\mu +\sigma \bigodot \epsilon$ .&lt;/p&gt;
+&lt;p&gt;$\bigodot$ here represents the elementwise product of matrices or the Hadamard product&lt;/p&gt;
+&lt;p&gt;$\mu$ — Mean of the distribution&lt;/p&gt;
+&lt;p&gt;$\sigma$ —Standard Deviation&lt;/p&gt;
+&lt;p&gt;$\epsilon \sim N(0,1)$&lt;/p&gt;
+&lt;p&gt;This reparametrization splits the latent representation into deterministic and stochastic parts. Here $\mu$ and $\sigma$ are the deterministic quantities that  we train by using gradient descent, while $\epsilon$&lt;/p&gt;
+&lt;p&gt;represents the stochastic component, introducing randomness and preventing a direct one-to-one mapping of the data.&lt;/p&gt;
+&lt;h2 id=&#34;what-do-we-mean-by-disentangling&#34;&gt;What do we mean by ‘disentangling’?&lt;/h2&gt;
+&lt;p&gt;Neural networks and the information stored in it is often treated a blackbox with no real way to map which artificial neuron contains what information. Infact there is an entire field of AI called Explainable AI (XAI) dedicated to deal with this problem. One significant reason why it&amp;rsquo;s difficult to comprehend and map this information is that artificial neurons don&amp;rsquo;t store information in an organized and compartmentalized form as we perceive it. It wouldn&amp;rsquo;t be inaccurate to state that knowledge is rather &amp;ldquo;entangled.”&lt;/p&gt;
+&lt;p&gt;Disentangling refers to making sure that all neurons in latent space learn something different and uncorellated about training data. change in a single latent unit  It helps us to compartmentalise and organise information enabling crucial applications like knowledge transfer and zero-shot learning&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Knowledge Transfer&lt;/strong&gt; : It is using information learnt in one context to learn new things faster.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Zero-shot learning :&lt;/strong&gt; It is the use of learnt information to draw inference about unseen data.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ability to learn uncorrelated underlying factors in an un supervised setting has far reaching implications. It gives the model the ability to recombine the old information in a novel scenario and extrapolate it to make inference just like humans. It also causes model to learn about basic visual concepts like ‘objectness’. This is crucial in order to make machines that think like humans.&lt;/p&gt;
+&lt;h2 id=&#34;how-is-disentangling-executed-&#34;&gt;How is disentangling executed ?&lt;/h2&gt;
+&lt;p&gt;Disentangling is inspired by Visual Ventral System of Brain. We translate the biological constraints to mathematical constraints to apply similar pressures.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Exposure to data with transform continuities :&lt;/strong&gt; Ventral visual system of infants learn from continously transforming data. Response properties of neurons in the inferior temporal cortex arise through a Hebbian learning algorithm that relies on the fact that nearest neighbours of a particular object in pixel space are the transforms of of the same object.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;IMG_B40CA03DD44A-1.jpeg&#34; alt=&#34;IMG_B40CA03DD44A-1.jpeg&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The image above clearly demonstrates that sparse data point do not provide enough information for an unsupervised model to identify where the data manifold should lie.&lt;/p&gt;
+&lt;p&gt;Thus it is important that the factors of variation of observed data are densely sampled from their respective distributions.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Redundancy reduction and encouraging statiscal independence :&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Deep unsupervised model is encouraged to perform redundancy reduction and learn statistically independent factors from continuous data in order to learn basic visual concepts similar to humans&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Redundancy&lt;/strong&gt; :Difference between maximum entropy a channel can transmit, and the entropy of messages actually transmitted.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Redundancy reduction is facilitated through learning statistically independent factors&lt;/p&gt;
+&lt;p&gt;This mathematically translates to the following constrained optimisation problem&lt;/p&gt;
+&lt;p&gt;$$
+\mathcal{L}(\theta,\phi;x)= \mathbb{E}&lt;em&gt;{q&lt;/em&gt;{\phi}(z|x)}[logp_{\theta}(x|z)] -\beta D_{KL}(q_{\phi}(z|x)||p(z))
+$$&lt;/p&gt;
+&lt;p&gt;Here we need to maximize $\mathcal{L}(\theta,\phi;x)$ ;&lt;/p&gt;
+&lt;p&gt;where, $x$ is observed data ;$z \in \R^{n}$  are the latent factors; $\beta \ge 0$ is the inverse tempreature or regularisation coefficient&lt;/p&gt;
+&lt;p&gt;We generally set the disentangled prior to be isotropic gaussian i.e. $p(z)=\mathcal{N}(0,I)$&lt;/p&gt;
+&lt;p&gt;Redundancy reduction is enforced by constraining the capacity of latent information channel $z$ while preserving enough information to enable reconstruction.&lt;/p&gt;
+&lt;p&gt;Isotropic nature of Gaussian puts implicit independence pressure on the latent posterior.&lt;/p&gt;
+&lt;p&gt;Varying $\beta$ changes degree of applied learning pressure during training.&lt;/p&gt;
+&lt;p&gt;$\beta$ =0 ⇒ Standard Maximum Likelihood Learning&lt;/p&gt;
+&lt;p&gt;$\beta$ =1 ⇒ Bayes Solution&lt;/p&gt;
+&lt;h3 id=&#34;example&#34;&gt;Example:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;IMG_AD30E272A0ED-1.jpeg&#34; alt=&#34;IMG_AD30E272A0ED-1.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The above image shows difference in latent representations of disentangled and entangled learning on same dataset of 2D shapes.&lt;/p&gt;
+&lt;p&gt;In fig A i.e. disentangled learning with $\beta$ =4 ; latent factor z5, z7, z4, z9, z2 encode information about position in Y, position in X, scale, cos and sin rotational coordinates respectively. While orther latent factors learn uninformative Gaussian distribution.&lt;/p&gt;
+&lt;p&gt;Clearly in fig B i.e. the entangled case, there is no such seperation of factors and it is impossible to know what factor encodes what.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion:&lt;/h2&gt;
+&lt;p&gt;The development of Artificial General Intelligence(AGI) i.e. giving machines abililty to learn, think and reason out like humans has been a scientific fantasy for a long time now. Learning of basic visual concepts like objectness, ability to accelerate learning using prior knowledge and ability to infer in a unseen scenario by combining past knowledge are essential qualities for realisation of this goal. Development of unsupervised learning models like disentangled VAEs is a key step in this direction. Its application in Reinforcement learning scenarios is also very promising.&lt;/p&gt;
+&lt;h2 id=&#34;references-&#34;&gt;References :&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1606.05579&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disentangled VAE&amp;rsquo;s (DeepMind 2016)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1312.6114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Original VAE paper (2013)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

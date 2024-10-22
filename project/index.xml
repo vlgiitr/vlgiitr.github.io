@@ -5,12 +5,71 @@
     <link>https://vlgiitr.github.io/project/</link>
       <atom:link href="https://vlgiitr.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
       <title>Projects</title>
       <link>https://vlgiitr.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Machine Unlearning</title>
+      <link>https://vlgiitr.github.io/project/machine_unlearning/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/machine_unlearning/</guid>
+      <description>&lt;p&gt;Machine unlearning is an emergent subfield of machine learning that aims to remove the influence of a specific subset of training examples — the &amp;ldquo;forget set&amp;rdquo; — from a trained model. Furthermore, an ideal unlearning algorithm would remove the influence of certain examples while maintaining other beneficial properties, such as the accuracy on the rest of the train set and generalization to held-out examples.&lt;/p&gt;
+&lt;p&gt;A straightforward way to produce this unlearned model is to retrain the model on an adjusted training set that excludes the samples from the forget set.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Give me a hint: Can LLMs take a hint to solve math problems?</title>
+      <link>https://vlgiitr.github.io/project/llm-math/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/llm-math/</guid>
+      <description>&lt;p&gt;While many state-of-the-art LLMs have shown poor logical and basic mathematical reasoning, recent works try to improve their problem-solving abilities using prompting techniques. We propose giving &amp;ldquo;hints&amp;rdquo; to improve the language model’s performance on advanced mathematical problems, taking inspiration from how humans approach math pedagogically. We also test the model’s adversarial robustness to wrong hints. We demonstrate the effectiveness of our approach by evaluating various LLMs, presenting them with a diverse set of problems of different difficulties and topics from the MATH dataset and comparing against techniques such as one-shot, few-shot, and chain of thought prompting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LoRA-Unlearn</title>
+      <link>https://vlgiitr.github.io/project/lora_unlearn/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/lora_unlearn/</guid>
+      <description>&lt;p&gt;This study addresses the challenge of machine unlearning in light of growing privacy regulations and the need for adaptable AI systems. We present a novel approach, PruneLoRA where we leverage LoRA to selectively modify a subset of the pruned model’s parameters, thereby reducing the computational cost, memory requirements and improving the model’s ability to retain performance on the remaining classes&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>StegaVision: Enhancing Steganography with Attention Mechanism</title>
+      <link>https://vlgiitr.github.io/project/stegavision/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/stegavision/</guid>
+      <description>&lt;p&gt;Our study, StegaVision, aims to enhance image steganography by integrating attention mechanisms into an autoencoder-based model. Our approach focuses on dynamically adjusting the importance of different parts of the image through attention mechanisms. This helps in better embedding the hidden information while maintaining the image&amp;rsquo;s visual quality. We specifically explore two types of attention mechanisms—Channel Attention and Spatial Attention—and test their effectiveness on an autoencoder model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Layer Level Loss Optimisation - 2023</title>
+      <link>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</guid>
+      <description>&lt;p&gt;An experiment in testing a novel method to train neural networks inspired by the Forward-Forward Algorithm proposed by Geoffrey Hinton by updating weights of a layer by calculating the loss at each intermediate layer instead of backpropagating the losses
+through the entire network.&lt;/p&gt;
+&lt;p&gt;In the original paper, instead of relying on the traditional forward and backward passes of backpropagation, the method utilized two forward passes — one with positive, real data and the other with negative data.
+With our modified method we were able to achieve an error rate of less than 2% for a fully connected network and convolutional network on the MNIST dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensorium 2022</title>
+      <link>https://vlgiitr.github.io/project/sensorium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/sensorium/</guid>
+      <description>&lt;p&gt;The NeurIPS 2022 The SENSORIUM competition aimed to find the best neural predictive model that can predict the activity of thousands of neurons in the primary visual cortex of mice in response to natural images.&lt;/p&gt;
+&lt;p&gt;In our submission for this competition, we attempted to improve the baseline model for the competition track- Sensorium+, where neural activity was to be predicted with given visual stimuli and other behavioural variables.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deep Cache Replacement - 2020</title>
@@ -28,15 +87,6 @@
       <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/project/dl_topics/</guid>
       <description>&lt;p&gt;This repo contains a list of topics which we feel that one should be comfortable with before appearing for a DL interview. This list is by no means exhaustive (as the field is very wide and ever growing).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Papers We Read</title>
-      <link>https://vlgiitr.github.io/project/papers_we_read/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/papers_we_read/</guid>
-      <description>&lt;p&gt;The repo contains summaries of various papers we discuss in our regular discussions and also some other recent papers which we feel have some really exciting contributions for the field.&lt;/p&gt;
 </description>
     </item>
     
@@ -77,24 +127,11 @@
     </item>
     
     <item>
-      <title>Layer Level Loss Optimisation - 2023</title>
-      <link>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/layer-level-loss-optimisation/</guid>
-      <description>&lt;p&gt;An experiment in testing a novel method to train neural networks inspired by the Forward-Forward Algorithm proposed by Geoffrey Hinton by updating weights of a layer by calculating the loss at each intermediate layer instead of backpropagating the losses
-through the entire network.&lt;/p&gt;
-&lt;p&gt;In the original paper, instead of relying on the traditional forward and backward passes of backpropagation, the method utilized two forward passes — one with positive, real data and the other with negative data.
-With our modified method we were able to achieve an error rate of less than 2% for a fully connected network and convolutional network on the MNIST dataset.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sensorium 2022</title>
-      <link>https://vlgiitr.github.io/project/sensorium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/project/sensorium/</guid>
-      <description>&lt;p&gt;The NeurIPS 2022 The SENSORIUM competition aimed to find the best neural predictive model that can predict the activity of thousands of neurons in the primary visual cortex of mice in response to natural images.&lt;/p&gt;
-&lt;p&gt;In our submission for this competition, we attempted to improve the baseline model for the competition track- Sensorium+, where neural activity was to be predicted with given visual stimuli and other behavioural variables.&lt;/p&gt;
+      <title>Papers We Read</title>
+      <link>https://vlgiitr.github.io/project/papers_we_read/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/project/papers_we_read/</guid>
+      <description>&lt;p&gt;The repo contains summaries of various papers we discuss in our regular discussions and also some other recent papers which we feel have some really exciting contributions for the field.&lt;/p&gt;
 </description>
     </item>
     
