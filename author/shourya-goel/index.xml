@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shourya Goel | VLG</title>
+    <link>https://vlgiitr.github.io/author/shourya-goel/</link>
+      <atom:link href="https://vlgiitr.github.io/author/shourya-goel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shourya Goel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
+      <title>Shourya Goel</title>
+      <link>https://vlgiitr.github.io/author/shourya-goel/</link>
+    </image>
+    
+    <item>
+      <title>Pruning as a Defense: Reducing Memorization in Large Language Models</title>
+      <link>https://vlgiitr.github.io/publication/pruningasdefence/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/pruningasdefence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

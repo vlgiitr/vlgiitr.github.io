@@ -5,7 +5,7 @@
     <link>https://vlgiitr.github.io/</link>
       <atom:link href="https://vlgiitr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>VLG</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
       <title>VLG</title>
@@ -131,6 +131,94 @@ With our modified method we were able to achieve an error rate of less than 2% f
       <link>https://vlgiitr.github.io/blogs/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://vlgiitr.github.io/blogs/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pruning as a Defense: Reducing Memorization in Large Language Models</title>
+      <link>https://vlgiitr.github.io/publication/pruningasdefence/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/pruningasdefence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing The Spectral Biases in Generative Models</title>
+      <link>https://vlgiitr.github.io/publication/biasesingenmodelsblogpost/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/biasesingenmodelsblogpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positional Embeddings in Transformer Models: Evolution from Text to Vision Domains</title>
+      <link>https://vlgiitr.github.io/publication/posembeddingsblogpost/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/posembeddingsblogpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LoRA-Mini : Adaptation Matrices Decomposition and Selective Training</title>
+      <link>https://vlgiitr.github.io/publication/loramini/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/loramini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Urban Planning: A Hybrid Framework for Balanced City Development</title>
+      <link>https://vlgiitr.github.io/publication/urban_planning/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/urban_planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention Shift: Steering AI Away from Unsafe Content</title>
+      <link>https://vlgiitr.github.io/publication/attentionshift/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/attentionshift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Merging using Geometric Median of Task Vectors</title>
+      <link>https://vlgiitr.github.io/publication/modelmerging/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/modelmerging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Rank Adaptations for Effective Machine Unlearning</title>
+      <link>https://vlgiitr.github.io/publication/lowrankeffunlearning/</link>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/lowrankeffunlearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LoRA Unlearns More and Retains More</title>
+      <link>https://vlgiitr.github.io/publication/loraunlearn/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/loraunlearn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StegaVision: Enhancing Steganography with Attention Mechanism</title>
+      <link>https://vlgiitr.github.io/publication/stegavision/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/stegavision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Give me a hint: Can LLMs take a hint to solve math problems?</title>
+      <link>https://vlgiitr.github.io/publication/neurips_math/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/neurips_math/</guid>
       <description></description>
     </item>
     
