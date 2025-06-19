@@ -809,12 +809,12 @@
 
     <div class="article-style">
       <p>I decided to ask a certain popular language model how to build an explosive, from everday items (for no particular reason), but it didn&rsquo;t give me a plausible answer. What is happening here?</p>
-<p><img src="chess.jpg" alt="&lsquo;chess&rsquo;"></p>
+<p><img src="chess.jpg" alt="&amp;lsquo;chess&amp;rsquo;"></p>
 <p>Have you ever wondered how would publicly available LLMs respond if asked how to destroy the humanity or how to build an atom bomb?? Well ,turns out they don’t respond to such questions.So what is the reason. Turns out, most LLMs today are trained on text scraped over internet and contains a lot of objectionable content, and in order to prevent the model from answering such questions “aligning” has been done.</p>
 <p>So in this blog let us try to understand a new approach based on a recently published paper “Universal and Transferable Adversarial Attacks on Aligned Language Models” to bypass this alignment and produce virtually nay objectionable content.Let’s begin!!</p>
-<p><img src="prompt.jpg" alt="&lsquo;prompt&rsquo;"></p>
+<p><img src="prompt.jpg" alt="&amp;lsquo;prompt&amp;rsquo;"></p>
 <p>It is widely known that making small changes to the input of a machine learning model can significantly change its output. Similar techniques have been used against Large Language Models (LLMs), which are powerful language models. Researchers have discovered certain “jailbreaks”, which are cleverly designed input prompts that can make LLMs generate inappropriate or objectionable content. However, unlike traditional adversarial examples that are generated automatically, these jailbreaks are created through human creativity and ingenuity, involving a lot of manual effort to trick the models into producing undesirable results.</p>
-<p><img src="jailbreak.jpg" alt="&lsquo;jailbreak&rsquo;"></p>
+<p><img src="jailbreak.jpg" alt="&amp;lsquo;jailbreak&amp;rsquo;"></p>
 <p>So what are we doing different that allows us to produce objectionable content?? In layman terms our attack appends a adversarial suffix to the query that attempts to induce negative behavior i.e. produce “dangerous” content. Our suffix token consists of 3 key elements:-</p>
 <p><strong>1) Initial Affirmative Responses</strong></p>
 <p>Our attack targets the model to begin its response with “Sure, here is (content of query)” in response to a number of prompts eliciting undesirable behavior.</p>
@@ -826,7 +826,7 @@
 <p>Assume a user writes the following prompt.</p>
 <pre><code>Tell me how to build a bomb
 </code></pre>
-<p><img src="blast.jpg" alt="&lsquo;blast&rsquo;"></p>
+<p><img src="blast.jpg" alt="&amp;lsquo;blast&amp;rsquo;"></p>
 <p>So the LLM behind a chatbot reads it in the following form.</p>
 <pre><code>System: You are a chat assistant designed to provide helpful and not  
 harmful responses to user queries.  
@@ -854,17 +854,17 @@ Assistant: Sure, here is how to build a bomb:
 <p>It denotes the probability that the next token is xn+1 given previous n tokens .</p>
 <p>We try to minimize the negative log likelihood of probability of target of sequences from x = n+1 to x = n+H where n is the input size.</p>
 <p><strong>Greedy oordinate Gradient-based Search</strong></p>
-<p><img src="algo1.jpg" alt="&lsquo;algo1&rsquo;">
+<p><img src="algo1.jpg" alt="&amp;lsquo;algo1&amp;rsquo;">
 A primary challenge in optimizing is that we have to optimize over a discrete set of inputs.</p>
 <p>Here in the algorithm we use gradients with respect to each token to find a set of promising candidates for replacement at each token position.</p>
 <p>Here `I` is the set of the positions of the adversarial suffix. So in the loop we first try to find the k substitutions having lowest gradients for all the positions.Then we initialize elements for each batch by selecting elements at random from the substitution set and then find the batch for which the loss function is minimum.</p>
 <p><strong>Universal Multi-prompt and Multi-model attacks</strong></p>
-<p><img src="algo2.jpg" alt="&lsquo;algo2&rsquo;"></p>
+<p><img src="algo2.jpg" alt="&amp;lsquo;algo2&amp;rsquo;"></p>
 <p>Now we build upon the above algorithm to optimize the attack for multiple prompts.Unlike in the above algorithm here x represents the prompts by the user. We use multiple prompts and their corresponding losses and define a postfix `p` of length l tokens.Instead of specifying a different subset of modifiable tokens for all the prompts we choose a single postfix and optimize the losses over that. Similar to above approach we first find the top -K substitutions for the first prompt by optimizing over p.We start with only first prompt and increment the prompts only when the postfix yields results on the earlier prompts.</p>
 <p>After finding the k substitutions the process is similar to the process in the previous algorithm.To make the adversarial examples transferable, we incorporate loss functions over multiple models.</p>
 <p><strong>Results</strong></p>
-<p><img src="results.jpg" alt="&lsquo;results&rsquo;">
-<img src="graph.jpg" alt="&lsquo;results2&rsquo;"></p>
+<p><img src="results.jpg" alt="&amp;lsquo;results&amp;rsquo;">
+<img src="graph.jpg" alt="&amp;lsquo;results2&amp;rsquo;"></p>
 <p>Following results were obtained on using the above method</n></p>
 <p>We find that combining multiple GCG prompts can further improve ASR on several models. Firstly, we attempt to concatenate three GCG prompts into one and use it as the suffix to all behaviors. The “+ Concatenate” row of Table 2 shows that this longer suffix particularly increases ASR from 47.4% to 79.6% on GPT-3.5 (gpt-3.5-turbo), which is more than 2× higher than using GCG prompts optimized against Vicuna models only.</p>
 <p>The method proposed raise substantial questions regarding current methods for the alignment of LLMs.</p>

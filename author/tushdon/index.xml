@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tushdon | VLG</title>
+    <link>https://vlgiitr.github.io/author/tushdon/</link>
+      <atom:link href="https://vlgiitr.github.io/author/tushdon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tushdon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
+      <title>Tushdon</title>
+      <link>https://vlgiitr.github.io/author/tushdon/</link>
+    </image>
+    
+    <item>
+      <title>Tushar Sahu</title>
+      <link>https://vlgiitr.github.io/author/tushar-sahu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/author/tushar-sahu/</guid>
+      <description>&lt;h3 id=&#34;biography&#34;&gt;Biography&lt;/h3&gt;
+&lt;p&gt;A CV and RL Enthusiast&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

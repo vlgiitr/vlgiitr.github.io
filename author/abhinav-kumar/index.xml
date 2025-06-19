@@ -5,12 +5,28 @@
     <link>https://vlgiitr.github.io/author/abhinav-kumar/</link>
       <atom:link href="https://vlgiitr.github.io/author/abhinav-kumar/index.xml" rel="self" type="application/rss+xml" />
     <description>Abhinav Kumar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
       <title>Abhinav Kumar</title>
       <link>https://vlgiitr.github.io/author/abhinav-kumar/</link>
     </image>
+    
+    <item>
+      <title>Positional Embeddings in Transformer Models: Evolution from Text to Vision Domains</title>
+      <link>https://vlgiitr.github.io/publication/posembeddingsblogpost/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/posembeddingsblogpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StegaVision: Enhancing Steganography with Attention Mechanism</title>
+      <link>https://vlgiitr.github.io/publication/stegavision/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/stegavision/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

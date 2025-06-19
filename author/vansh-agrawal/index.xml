@@ -5,12 +5,20 @@
     <link>https://vlgiitr.github.io/author/vansh-agrawal/</link>
       <atom:link href="https://vlgiitr.github.io/author/vansh-agrawal/index.xml" rel="self" type="application/rss+xml" />
     <description>Vansh Agrawal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
       <title>Vansh Agrawal</title>
       <link>https://vlgiitr.github.io/author/vansh-agrawal/</link>
     </image>
+    
+    <item>
+      <title>Give me a hint: Can LLMs take a hint to solve math problems?</title>
+      <link>https://vlgiitr.github.io/publication/neurips_math/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/neurips_math/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
