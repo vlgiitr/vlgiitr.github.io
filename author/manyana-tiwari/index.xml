@@ -5,12 +5,28 @@
     <link>https://vlgiitr.github.io/author/manyana-tiwari/</link>
       <atom:link href="https://vlgiitr.github.io/author/manyana-tiwari/index.xml" rel="self" type="application/rss+xml" />
     <description>Manyana Tiwari</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
       <title>Manyana Tiwari</title>
       <link>https://vlgiitr.github.io/author/manyana-tiwari/</link>
     </image>
+    
+    <item>
+      <title>Attention Shift: Steering AI Away from Unsafe Content</title>
+      <link>https://vlgiitr.github.io/publication/attentionshift/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/attentionshift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images</title>
+      <link>https://vlgiitr.github.io/publication/tmlr/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/tmlr/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

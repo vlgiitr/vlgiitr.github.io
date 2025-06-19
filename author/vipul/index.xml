@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pramod Mehta* | VLG</title>
-    <link>https://vlgiitr.github.io/author/pramod-mehta/</link>
-      <atom:link href="https://vlgiitr.github.io/author/pramod-mehta/index.xml" rel="self" type="application/rss+xml" />
-    <description>Pramod Mehta*</description>
+    <title>Vipul* | VLG</title>
+    <link>https://vlgiitr.github.io/author/vipul/</link>
+      <atom:link href="https://vlgiitr.github.io/author/vipul/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vipul*</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
-      <title>Pramod Mehta*</title>
-      <link>https://vlgiitr.github.io/author/pramod-mehta/</link>
+      <title>Vipul*</title>
+      <link>https://vlgiitr.github.io/author/vipul/</link>
     </image>
     
     <item>
-      <title>Universal Adversarial Perturbations: A Survey</title>
-      <link>https://vlgiitr.github.io/publication/uap/</link>
+      <title>Visual Relationship Detection using Scene Graphs: A Survey</title>
+      <link>https://vlgiitr.github.io/publication/scene_graph/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://vlgiitr.github.io/publication/uap/</guid>
+      <guid>https://vlgiitr.github.io/publication/scene_graph/</guid>
       <description></description>
     </item>
     

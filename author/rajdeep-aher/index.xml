@@ -5,12 +5,20 @@
     <link>https://vlgiitr.github.io/author/rajdeep-aher/</link>
       <atom:link href="https://vlgiitr.github.io/author/rajdeep-aher/index.xml" rel="self" type="application/rss+xml" />
     <description>Rajdeep Aher</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vlgiitr.github.io/images/logo_hu0af03150d0ca39f3b12fa58639b44cf7_60645_300x300_fit_lanczos_3.png</url>
       <title>Rajdeep Aher</title>
       <link>https://vlgiitr.github.io/author/rajdeep-aher/</link>
     </image>
+    
+    <item>
+      <title>LoRA-Mini : Adaptation Matrices Decomposition and Selective Training</title>
+      <link>https://vlgiitr.github.io/publication/loramini/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://vlgiitr.github.io/publication/loramini/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
